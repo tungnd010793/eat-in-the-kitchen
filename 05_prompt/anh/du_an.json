@@ -9,7 +9,13 @@
    "mo_ta": "Black American woman from a Louisiana Creole family, 66 years old, warm chestnut-brown skin with warm red-gold undertones, moisturized and luminous with soft highlights on the cheekbones, real mature skin with fine lines at the eyes and soft laugh lines, an oval face with high cheekbones and a strong straight nose, deep-set intelligent dark-brown eyes (normal human eyes, no glow), full lips, a small visible gap between her two upper front teeth, natural salt-and-pepper curls cut at chin length and tucked behind both ears, natural hairline, slim upright build, a calm, dignified, watchful look",
    "giong": "low, slow, steady voice of a 66-year-old Black woman from Louisiana with a soft Creole lilt; never shouts; every word lands",
    "do": {
-    "M0": "her everyday house clothes as the family's unpaid housekeeper: a sage-green cotton house dress washed so many times the green has gone dull and patchy, falling just below the knee with a slightly uneven hem, a long beige knit cardigan pilled all over with both elbows worn thin and shiny, the sleeves pushed up to the forearms, a loose thread hanging from one cuff, flat grey house slippers with the backs trodden down, a faint old burn scar on the back of her left hand, no earrings, no necklace, no watch, nails cut short and unpainted, no makeup, bare lips; nothing she wears looks new or expensive"
+    "M0": "her everyday house clothes as the family's unpaid housekeeper: a sage-green cotton house dress washed so many times the green has gone dull and patchy, falling just below the knee with a slightly uneven hem, a long beige knit cardigan pilled all over with both elbows worn thin and shiny, the sleeves pushed up to the forearms, a loose thread hanging from one cuff, flat grey house slippers with the backs trodden down, a faint old burn scar on the back of her left hand, no earrings, no necklace, no watch, nails cut short and unpainted, no makeup, bare lips; nothing she wears looks new or expensive",
+    "M0A < M0 (she now wears a plain white cotton bib apron tied at the waist over the faded sage house dress, the apron carrying faint old food stains, the cardigan sleeves pushed up to the elbows)": "M0 with a stained white cotton apron",
+    "M1": "her grocery-store cashier uniform: a plain grass-green polyester uniform vest with three buttons and two front pockets, no text, no logo, no name tag, worn over a thin long-sleeve cream knit sweater, navy straight-leg trousers, plain black sneakers, no earrings, no necklace, no watch, nails cut short and unpainted, no makeup; clean and neat, modest",
+    "M2": "her one good dress, old but carefully pressed: a navy wool dress with long sleeves, a plain round neckline and a simple A-line skirt falling below the knee, a small gold cross on a thin gold chain, low black leather pumps that are old but polished, no earrings, no makeup, bare lips; dignified and modest",
+    "M3": "her new life as a professional interpreter, quality without logos: a tailored deep emerald-green silk-blend blazer with long sleeves and notch lapels, a JACKET with sleeves, not a vest, worn over a cream silk blouse, tailored straight-leg navy wool trousers, low black leather pumps, a small gold cross on a thin gold chain, no earrings, a light natural lip; elegant, composed, quietly expensive",
+    "M3W < M3 (she is now dressed for the snow outdoors: she adds a long cream wool coat reaching below the knee worn open over the same emerald blazer, an emerald wool scarf wrapped once around her neck, black leather gloves, and black low-heeled leather ankle boots in place of the pumps)": "M3 with winter coat, scarf, gloves",
+    "M4": "her 67th birthday at her own house: a soft emerald-green jersey wrap dress with long sleeves, a gentle V wrap neckline tied at the waist, the skirt falling softly to mid-calf, a small gold cross on a thin gold chain, low black block-heel leather pumps, no earrings, a light natural lip; soft, warm, relaxed elegance, clearly a dress and not a suit"
    }
   },
   "DEVIN": {
@@ -17,7 +23,16 @@
    "mo_ta": "Black American man, 38 years old, deep brown skin with warm undertones, moisturized with a subtle natural sheen, never grey or ashy, a soft rounded jaw, a medium-wide nose, full lips, tired dark-brown eyes (normal human eyes, no glow) behind thin rectangular metal-frame glasses, clean-shaven and smooth, a low Caesar haircut with a neat lineup, average build slightly soft at the middle, an anxious, people-pleasing look",
    "giong": "mid-range, hesitant voice of a 38-year-old Black American man from Maryland; apologetic, rushes his words, later slow and honest",
    "do": {
-    "V0": "his at-home weekend clothes: a plain heather-grey henley with the top two buttons open, dark-wash straight jeans, grey slide sandals, the thin rectangular metal-frame glasses, no chain, no watch; neat, well-kept, no logos"
+    "V0": "his at-home weekend clothes: a plain heather-grey henley with the top two buttons open, dark-wash straight jeans, grey slide sandals, the thin rectangular metal-frame glasses, no chain, no watch; neat, well-kept, no logos",
+    "V2": "his party clothes for his mother-in-law's birthday dinner: a navy single-breasted blazer over a light-blue dress shirt with the top button open and no tie, mid-grey wool trousers, a brown leather belt, brown leather loafers, the thin rectangular metal-frame glasses, no watch, no logos; neat, trying to look successful",
+    "V1": "his office clothes: a navy oxford cotton button-down shirt with buttoned cuffs tucked into beige chinos, a brown leather belt, brown leather lace-up shoes, a plain white staff ID badge on a blue lanyard around his neck with no text, the thin rectangular metal-frame glasses, no logos; mid-level corporate, tidy",
+    "V3": "a brand-new slim-fit two-button suit in a mid charcoal-grey with a faint sheen, the jacket a little too tight across the middle, a crisp white shirt, a glossy navy satin tie with a large knot, black shiny leather shoes, the thin rectangular metal-frame glasses, no pocket square, no logos; trying too hard to look important",
+    "V4": "his winter clothes after losing everything: an old short black puffer jacket reaching the hip, matte and faded, scuffed at the cuffs, zipped half-way over a grey pullover hoodie with the hood down, dark-wash jeans creased at the knees, worn black sneakers with scuffed toes, the thin rectangular metal-frame glasses; tired, worn out, nothing new",
+    "V4H < V4 (he has taken off the black puffer jacket: now only the grey pullover hoodie with the hood down and the dark-wash jeans)": "V4 without the puffer",
+    "V7": "plain working clothes for a court date: a light-blue plaid cotton shirt buttoned all the way to the collar, an earth-brown canvas work jacket worn open, tan work trousers, brown leather work boots, the thin rectangular metal-frame glasses, no logos; humble, clean, a working man",
+    "V5": "his warehouse job: an orange high-visibility safety vest with silver reflective stripes and no text over a plain grey crew-neck T-shirt, dark grey work trousers, black steel-toe work boots, the thin rectangular metal-frame glasses, no logos; a working man, clean and focused",
+    "V8": "at home in his small studio apartment in the evening: a plain charcoal-grey crew-neck T-shirt, black sweatpants, a white kitchen towel over his left shoulder, black slide sandals, the thin rectangular metal-frame glasses, no logos; simple, calm",
+    "V6": "his mother's birthday, simple and respectful: a neat navy cotton-wool crew-neck sweater over a white T-shirt collar barely showing, charcoal-grey chinos, brown leather shoes, the thin rectangular metal-frame glasses, no logos; humble, clean, warm"
    }
   },
   "RAVEN": {
@@ -25,7 +40,14 @@
    "mo_ta": "Black American woman, 35 years old, rich brown skin with warm golden undertones, moisturized and luminous with soft highlights on the cheekbones, never grey or ashy, a heart-shaped face with sharp cheekbones, groomed arched brows, almond-shaped dark-brown eyes (normal human eyes, no glow), full lips, a sleek glossy chin-length bob dyed deep burgundy-brown with a deep side part, natural hairline, no visible lace, slim fit build, a cold, entitled, impatient look",
    "giong": "sharp, fast, sing-song voice of a 35-year-old Black American woman from Maryland; sweet when she wants something, cutting when she doesn't",
    "do": {
-    "R0": "a fitted burgundy ribbed-knit two-piece lounge set, a long-sleeve top and matching wide-leg pants, that looks brand-new and expensive, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, full lashes, fluffy cream faux-fur slippers, no logos"
+    "R0": "a fitted burgundy ribbed-knit two-piece lounge set, a long-sleeve top and matching wide-leg pants, that looks brand-new and expensive, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, full lashes, fluffy cream faux-fur slippers, no logos",
+    "R1": "her party look for her mother's birthday dinner: a fitted glossy black satin midi dress with a high round neckline and long sleeves, sleek black pointed-toe stiletto pumps, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, full lashes, no logos; showy, cold, expensive",
+    "R2": "her going-out look: a cropped burgundy faux-leather moto jacket worn open over a black long-sleeve bodysuit, black skinny jeans, black heeled ankle boots, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, full lashes, no bag, no logos; flashy, entitled",
+    "R3": "her corporate-wife look: a fitted burgundy sheath dress with a square neckline and three-quarter sleeves, falling to the knee, nude patent pointed-toe pumps, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, full lashes, no bag, no logos; polished and cold",
+    "R4": "indoors on a winter night: a fitted burgundy fine-knit turtleneck midi dress with long sleeves, sheer black tights, no shoes, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, no logos; the same burgundy-brown bob, a little less sleek and slightly frizzy at the roots",
+    "R5 < R4 (she is now dressed for the snow outdoors: she adds a long glossy black puffer coat reaching the knee, worn unzipped at the front so the burgundy knit dress shows, and black heeled ankle boots)": "R4 with long glossy puffer",
+    "R6": "her court date after the fall, plain and humbled: a charcoal-grey wool shift dress with a round neckline falling below the knee, a long black knit cardigan, plain black flat shoes, no earrings, no jewellery, nails cut short and unpainted, no makeup, dry bare lips, no logos",
+    "R7": "court-ordered community service in a church soup kitchen: a white hairnet over her hair, a plain white crew-neck T-shirt, a blue cotton bib apron, long yellow rubber gloves reaching the elbows, black trousers, black non-slip work shoes, no earrings, no makeup, dry bare lips, no logos"
    }
   },
   "CHARLENE": {
@@ -33,7 +55,15 @@
    "mo_ta": "Black American woman, 64 years old, warm medium-brown skin with golden undertones, moisturized and luminous, never grey or ashy, a round full face with soft jowls and laugh lines, thin plucked arched brows, dark-brown eyes (normal human eyes, no glow) behind black cat-eye glasses, short honey-brown curls set close to the head with a little silver showing at the roots, natural hairline, full-figured build, a proud, self-satisfied, judging look",
    "giong": "loud, theatrical, churchy voice of a 64-year-old Black American woman from Maryland; says 'baby' and 'Lord'; booms like she is at the pulpit",
    "do": {
-    "CH2": "a purple knit cardigan over a crisp white blouse buttoned to the collar, black pressed trousers, low black pumps, a black structured leather handbag on her forearm, small gold button earrings, a gold watch, plum lipstick, the black cat-eye glasses, no logos"
+    "CH2": "a purple knit cardigan over a crisp white blouse buttoned to the collar, black pressed trousers, low black pumps, a black structured leather handbag on her forearm, small gold button earrings, a gold watch, plum lipstick, the black cat-eye glasses, no logos",
+    "CH3": "her church-lady best: a royal-purple skirt suit, a fitted jacket buttoned at the waist and a pencil skirt to the knee, a white silk shell top under the jacket, a gold flower-shaped brooch pinned on the left lapel, low-heeled black leather pumps, small gold button earrings, a gold watch, plum lipstick, the black cat-eye glasses, no hat, no logos; proud and showy",
+    "CH1 < CH3 (she adds a wide-brimmed royal-purple church hat with a large satin bow at the side, worn tilted on her head)": "CH3 with wide purple church hat",
+    "CH4 < CH2 (she is now dressed for the snow outdoors: she adds a knee-length dark aubergine-purple wool coat buttoned to the neck, a grey knit scarf around her neck, a purple knit beanie pulled down over her ears with a few honey-brown curls showing beneath it, and black low ankle boots)": "CH2 under winter coat, scarf, beanie",
+    "CH5": "a hospital patient: a short-sleeve light-blue floral-print hospital gown reaching the knee, a white hospital ID wristband on her left wrist with no readable text, pale grey hospital grip socks, no shoes, no earrings, no lipstick, the black cat-eye glasses, her honey-brown curls a little flattened",
+    "CH5C < CH5 (she adds the purple knit cardigan exactly as in the third uploaded image, worn open over the hospital gown)": "CH5 with purple cardigan",
+    "CH5W < CH5 (she adds the dark aubergine-purple knee-length wool coat, the grey knit scarf and the purple knit beanie exactly as in the third uploaded image, but the coat is worn OPEN so the light-blue floral hospital gown shows underneath, and black flat slip-on shoes replace the socks)": "CH5 under open winter coat",
+    "CH6": "her court date after the fall: an old navy skirt suit buttoned all the way to the neck, slightly faded, no brooch, low black leather pumps, no earrings, no watch, a faded matte lip, the black cat-eye glasses, her honey-brown curls flattened, no logos",
+    "CH7": "court-ordered community service in a church soup kitchen: a white hairnet over her curls, a white short-sleeve button shirt, a blue cotton bib apron, clear plastic gloves, black trousers, black non-slip work shoes, nails cut short and unpainted, the black cat-eye glasses, no earrings, no lipstick"
    }
   },
   "INES": {
@@ -41,7 +71,8 @@
    "mo_ta": "Black French woman of Senegalese family who grew up in Paris, 45 years old, warm honey-brown skin with golden undertones, moisturized and luminous with soft highlights on the cheekbones, never grey or ashy, a long elegant face with high cheekbones, a slim nose, calm wide-set dark-brown eyes (normal human eyes, no glow), a closely cropped natural black haircut, natural hairline, tall and slim, a composed, quietly amused look",
    "giong": "low, calm voice of a 45-year-old Parisian woman speaking careful English with a French accent; never raises her voice",
    "do": {
-    "I2": "quiet luxury with no logos: a fitted cream fine-knit dress with long sleeves falling below the knee, a camel wool wrap coat draped over her shoulders, small gold huggie earrings in both ears, a slim gold bangle, nude low heels, light natural makeup"
+    "I2": "quiet luxury with no logos: a fitted cream fine-knit dress with long sleeves falling below the knee, a camel wool wrap coat draped over her shoulders, small gold huggie earrings in both ears, a slim gold bangle, nude low heels, light natural makeup",
+    "I1": "a CEO's business look, quiet luxury with no logos: a sharply tailored cream wool trouser suit, a single-button jacket buttoned at the waist, an ivory silk blouse with a soft round neckline, a slim brown leather-strap watch, small gold huggie earrings in both ears, nude pointed low pumps, light natural makeup; crisp, powerful, clearly different from a knit dress"
    }
   },
   "PRENTICE": {
@@ -58,6 +89,119 @@
    "giong": "clear, crisp, professional voice of a 28-year-old Black American woman from Maryland; polite, direct, does not back down",
    "do": {
     "A1": "office clothes: a neat beige single-breasted blazer over a plain black crew-neck tee, black tailored trousers, black low block-heel pumps, a staff ID badge on a dark lanyard with no readable text, small gold stud earrings, soft natural makeup, short neat nails, no logos"
+   }
+  },
+  "BERNICE": {
+   "tuoi": "70",
+   "mo_ta": "Black American woman, about 70 years old, a senior church mother, deep brown skin with warm red undertones, moisturized and luminous, never grey or ashy, real mature skin with soft lines, a broad dignified face, calm stern dark-brown eyes (normal human eyes, no glow) behind thin gold-rimmed glasses, close-cropped natural silver hair, natural hairline, a full sturdy build, an upright, commanding presence",
+   "giong": "slow, stern, church-mother voice of a 70-year-old Black woman from Maryland; few words, full authority",
+   "do": {
+    "SB1": "her Sunday-best for a birthday dinner: a deep turquoise skirt suit with a fitted jacket and a skirt below the knee, a wide-brimmed deep turquoise church hat with a flat bow, small pearl stud earrings, low black leather pumps, a soft rose lipstick, the thin gold-rimmed glasses, no logos",
+    "SB2": "volunteering at the church soup kitchen in early spring: a deep turquoise wool beret, a buttoned grey wool coat, black trousers, black low leather boots, small pearl stud earrings, the thin gold-rimmed glasses, no logos"
+   }
+  },
+  "PEARL": {
+   "tuoi": "65",
+   "mo_ta": "Black American woman, about 65 years old, medium brown skin with golden undertones, moisturized and luminous, never grey or ashy, a round friendly face with laugh lines, bright dark-brown eyes (normal human eyes, no glow), silver braids gathered into a neat high bun, natural hairline, a medium build, a sharp-tongued, amused look",
+   "giong": "bright, gossipy voice of a 65-year-old Black church lady from Maryland",
+   "do": {
+    "SP2": "volunteering at the church soup kitchen in early spring: a plum-red knit cardigan coat over a cream blouse, a black skirt below the knee, black flat shoes, small gold hoop earrings, no logos"
+   }
+  },
+  "MANAGER": {
+   "tuoi": "45",
+   "mo_ta": "Black American man, about 45 years old, the manager of an upscale Louisiana Creole restaurant, dark brown skin with neutral undertones, moisturized with a subtle sheen, never grey or ashy, a long composed face, a thin neat mustache, dark-brown eyes (normal human eyes, no glow), close-cropped hair with a sharp lineup, a slim upright build, a polite, professional look",
+   "giong": "smooth, polite, low voice of a 45-year-old Black American restaurant manager",
+   "do": {
+    "QL1": "a well-pressed black suit, a white shirt, a slim black tie, black polished oxfords, no name tag, no logos"
+   }
+  },
+  "AGENT": {
+   "tuoi": "32",
+   "mo_ta": "Black American woman, about 32 years old, a real-estate sales agent at a gated community, medium brown skin with golden undertones, moisturized and luminous, never grey or ashy, an oval face, bright dark-brown eyes (normal human eyes, no glow), sleek straight relaxed hair pulled back into a low ponytail, natural hairline, a slim build, a friendly, sales-smile look",
+   "giong": "bright, professional, friendly voice of a 32-year-old Black American saleswoman from Maryland",
+   "do": {
+    "AG1": "a pale-blue tailored blazer over a plain white crew-neck T-shirt, navy slim trousers, nude low pumps, small gold stud earrings, soft natural makeup, no name tag, no logos"
+   }
+  },
+  "GUARD": {
+   "tuoi": "66",
+   "mo_ta": "Black American man, about 66 years old, the gate security guard of a gated community, deep brown skin with warm undertones, moisturized, never grey or ashy, a weathered kind face with deep lines, close-cropped silver hair, a full white mustache, dark-brown eyes (normal human eyes, no glow), a medium sturdy build, a steady, watchful look",
+   "giong": "deep, calm, slightly gravelly voice of a 66-year-old Black American security guard",
+   "do": {
+    "PT1": "a silver-grey windbreaker security jacket with a plain round patch on the chest and no text, dark grey trousers, black leather work shoes, no logos"
+   }
+  },
+  "SECURITY": {
+   "tuoi": "40",
+   "mo_ta": "Black American man, about 40 years old, a corporate building security officer, very deep brown skin with neutral undertones, moisturized with a subtle sheen, never grey or ashy, a broad face, a short full beard neatly lined, close-cropped hair, dark-brown eyes (normal human eyes, no glow), very tall and broad, a calm, no-nonsense look",
+   "giong": "deep, flat, courteous voice of a 40-year-old Black American security officer",
+   "do": {
+    "BV2": "a plain navy polo shirt with no text, black trousers, a black belt with a radio clipped on it, black work shoes, no logos"
+   }
+  },
+  "OKONJO": {
+   "tuoi": "55",
+   "mo_ta": "Nigerian-American man, about 55 years old, a senior hospital doctor, deep brown skin with neutral undertones, moisturized with a subtle sheen, never grey or ashy, a strong calm face, a closely shaved head flecked with grey, tortoiseshell glasses, dark-brown eyes (normal human eyes, no glow), a solid build, a serious, precise look",
+   "giong": "measured, deep voice of a 55-year-old Nigerian-American doctor with a light Nigerian accent",
+   "do": {
+    "O1": "a long white doctor's coat over a light-blue button shirt, dark grey trousers, black leather shoes, a stethoscope around his neck, the tortoiseshell glasses, no name tag, no text, no logos"
+   }
+  },
+  "TANISHA": {
+   "tuoi": "30",
+   "mo_ta": "Black American woman, about 30 years old, a hospital nurse, brown skin with warm undertones, moisturized and luminous, never grey or ashy, a youthful round face, anxious dark-brown eyes (normal human eyes, no glow), neat cornrow braids going straight back, natural hairline, a medium build, a nervous, guilty look",
+   "giong": "high, shaky, fast voice of a 30-year-old Black American woman from Maryland",
+   "do": {
+    "T1": "teal hospital scrubs, a short-sleeve V-neck top and matching trousers, a plain white retractable badge clipped to the chest pocket with no text, white sneakers, no jewellery, no logos"
+   }
+  },
+  "REPORTER": {
+   "tuoi": "30",
+   "mo_ta": "Black American woman, about 30 years old, a gossip livestream reporter, medium-deep brown skin with warm undertones, moisturized and luminous, never grey or ashy, a sharp lively face, eager dark-brown eyes (normal human eyes, no glow), short natural curls dyed copper-blonde, natural hairline, a slim build, a pushy, attention-hungry look",
+   "giong": "fast, loud, performative voice of a 30-year-old Black American online reporter",
+   "do": {
+    "RP1": "a short white puffer jacket zipped up, a grey knit scarf, black slim jeans, black ankle boots, small gold hoop earrings, glossy nude lip, no logos"
+   }
+  },
+  "OFFICER": {
+   "tuoi": "45",
+   "mo_ta": "Black American man, about 45 years old, a county police officer, dark brown skin with warm undertones, moisturized with a subtle sheen, never grey or ashy, a square calm face, a short buzz cut, clean-shaven, dark-brown eyes (normal human eyes, no glow), a solid build, a calm, firm, by-the-book look",
+   "giong": "firm, even, official voice of a 45-year-old Black American police officer",
+   "do": {
+    "OF1": "a navy county police uniform with a navy winter duty jacket, a plain metal badge with no readable text, a duty belt carrying only a handcuff case and a radio, no weapon visible, navy trousers, black boots, no logos"
+   }
+  },
+  "COORDINATOR": {
+   "tuoi": "45",
+   "mo_ta": "Black American woman, about 45 years old, a church soup-kitchen coordinator, deep brown skin with warm undertones, moisturized and luminous, never grey or ashy, a strong friendly face, dark-brown eyes (normal human eyes, no glow) behind black plastic-frame glasses, short locs tied back neatly, natural hairline, a sturdy build, a no-nonsense, wry look",
+   "giong": "brisk, dry, warm voice of a 45-year-old Black American church volunteer coordinator",
+   "do": {
+    "DP1": "a plain white polo shirt, a blue cotton bib apron, black trousers, black sneakers, the black plastic-frame glasses, no logos"
+   }
+  },
+  "COWORKER": {
+   "tuoi": "30",
+   "mo_ta": "Black American woman, about 30 years old, a warehouse worker, rich brown skin with warm golden undertones, moisturized and luminous, never grey or ashy, a friendly open face, curious dark-brown eyes (normal human eyes, no glow), locs tied up in a high ponytail, natural hairline, a fit build, an easy, teasing look",
+   "giong": "relaxed, friendly voice of a 30-year-old Black American woman from Maryland",
+   "do": {
+    "DN1": "an orange high-visibility safety vest with silver reflective stripes and no text over a charcoal-grey hoodie, blue jeans, tan work boots, no logos"
+   }
+  },
+  "FOREMAN": {
+   "tuoi": "50",
+   "mo_ta": "Black American man, about 50 years old, a warehouse shift manager, deep brown skin with warm undertones, moisturized with a subtle sheen, never grey or ashy, a broad weathered face, a short salt-and-pepper beard, short locs, dark-brown eyes (normal human eyes, no glow), a big solid build, a gruff but fair look",
+   "giong": "deep, gruff, fair voice of a 50-year-old Black American warehouse manager",
+   "do": {
+    "QK1": "an orange high-visibility safety vest with silver reflective stripes and no text over a blue plaid flannel shirt, blue jeans, brown work boots, no logos"
+   }
+  },
+  "APPLICANT": {
+   "tuoi": "52",
+   "mo_ta": "Haitian-American woman, 52 years old, medium-dark brown skin with warm red undertones, moisturized and luminous, never grey or ashy, a gentle oval face with soft lines, hopeful dark-brown eyes (normal human eyes, no glow), natural curly hair pinned into a neat bun, natural hairline, a slim build, a nervous but dignified look",
+   "giong": "soft, careful voice of a 52-year-old Haitian-American woman with a light Haitian accent",
+   "do": {
+    "XV1": "her one interview outfit, old but carefully pressed: a grey blazer over a cream knit sweater, a black skirt below the knee, black low pumps, small gold stud earrings, no logos"
    }
   }
  },

@@ -21,3 +21,7 @@
 ### 02/11/2026 17:46
 - **Đã làm / quyết định:** CHỐT MỐC: hoàn thành kịch bản
 - **File thay đổi:** `03_kich-ban-chinh-sua.md`, `04_kich-ban-chinh-thuc.md`, `08_hoi-thoai-ai/claude-code/46331bc8-459b-493d-9f2b-2fdbfc528891.jsonl`
+
+### 02/11/2026 20:54
+- **Đã làm / quyết định:** chốt tạo hình nhân vật
+- **File thay đổi:** `05_prompt/anh/_goc_rieng.json`, `09_media/ai-tao-ra/nhan-vat/CHAR_AGENT_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_APPLICANT_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_BERNICE_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_COORDINATOR_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_COWORKER_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_FOREMAN_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_GUARD_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_MANAGER_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_OFFICER_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_OKONJO_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_PEARL_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_REPORTER_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_SECURITY_FACE.png`, `09_media/ai-tao-ra/nhan-vat/CHAR_TANISHA_FACE.png`, `09_media/ai-tao-ra/nhan-vat/OUTFIT_AG1.png`, `09_media/ai-tao-ra/nhan-vat/OUTFIT_BV2.png`, `09_media/ai-tao-ra/nhan-vat/OUTFIT_CH3.png`, `09_media/ai-tao-ra/nhan-vat/OUTFIT_CH5.png`, `09_media/ai-tao-ra/nhan-vat/OUTFIT_CH6.png` … và 90 file khác
