@@ -1,0 +1,2 @@
+# Không đổi kiểu xuống dòng (CRLF/LF) khi lưu, để mã SHA-256 của file luôn khớp trên mọi máy
+* -text

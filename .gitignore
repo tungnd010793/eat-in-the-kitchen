@@ -1,0 +1,24 @@
+# --- Ảnh/video/âm thanh trong 09_media: không đẩy lên GitHub (quá nặng) ---
+# Mã SHA-256 của chúng vẫn được lưu và đóng dấu thời gian trong bang-chung/
+/09_media/**
+!/09_media/HUONG-DAN.md
+
+# --- Video & âm thanh lớn ở bất kỳ đâu ---
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.wav
+*.aif
+*.aiff
+*.flac
+
+# --- File tạm ---
+*.bak
+*.tmp
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
