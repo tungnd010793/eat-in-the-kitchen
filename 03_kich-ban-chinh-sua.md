@@ -1908,7 +1908,8 @@ PHÒNG HỌP KÍNH KEYSTONE  →  TIỆM TẠP HOÁ FAIRWOOD
 Thứ Hai 05/10 — 9:18–9:20, liền sau cụm 25; từ giây 15 ở tiệm tạp hoá Fairwood (MARKET)
 Nhân vật: PRENTICE · DEVIN · INÈS · MARGUERITE · ASHANTI
 Tinh thần: Ngoặt: sếp nói thẳng mất hợp đồng là Devin mất việc; người duy nhất cứu được thương vụ là bà mẹ đứng quầy
-thu ngân mà hôm qua Devin vừa bắt ký giấy từ bỏ nhà — bà gập điện thoại, đi ngay.
+thu ngân mà hôm qua Devin vừa bắt ký giấy từ bỏ nhà. Bà nói rõ bà đi vì Inès, không phải vì Devin — đúng lời bà đã nói
+với con — rồi gập điện thoại, đi ngay.
 
 [ 0–2 s] Trung — Máy đặt phía tủ thấp nhìn về dãy cửa sổ: khung siết vào cuối dãy ghế gần cửa kính — Prentice (đầu hói
 bóng, râu dê muối tiêu tỉa gọn, kính nửa gọng, vest xám than ba nút, cà vạt navy) đứng sau ghế Devin, một tay chống
@@ -1939,7 +1940,7 @@ siết, giọng thấp, chậm; tóc muối tiêu vén sau tai, cổ gi-lê xanh
           MARGUERITE: Keystone? That's my son's company.
 [21–24s] Cận — Cùng hướng: cận bà khẽ gật đầu, hàm khép lại, giọng chắc; răng cửa hở khe nhỏ, tóc muối tiêu vén sau
 tai
-          MARGUERITE: Twenty minutes. I'm coming.
+          MARGUERITE: For you, Ines. Twenty minutes.
 [24–26s] Chèn — Cận tay bà gập chiếc điện thoại nắp gập bạc cũ, nhét vào túi gi-lê thu ngân xanh lá; vết bỏng cũ mờ
 trên mu bàn tay trái
 [26–30s] Trung — Máy nhìn về dãy quầy: bà bước ra khỏi quầy số 1, đi về phía cửa kính tự động ở mép phải khung, vẫn

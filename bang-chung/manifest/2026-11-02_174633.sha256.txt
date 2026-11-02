@@ -1,0 +1,24 @@
+# DANH SÁCH MÃ SHA-256 ("dấu vân tay") CỦA MỌI FILE TRONG DỰ ÁN
+# Dự án           : EAT IN THE KITCHEN
+# Tác giả         : Nguyễn Đức Tùng <ndtung.aipro2024@gmail.com>
+# Lập lúc         : 2026-11-02 17:46:33 +07:00  (đồng hồ máy; thời điểm tin cậy: file .ots/.tsr cùng tên)
+# Commit trước đó : 1a58b1427438451dfc6ab43f5268c17bb131f7a0
+# Số file         : 17
+# Tự kiểm tra     : mở Git Bash tại thư mục gốc dự án, chạy: sha256sum -c bang-chung/manifest/<tên file này>
+d57ea22a4532d009ee53ef5c3e18fec6f8ea02b2b9bf00f2a765f478aa905dcd *.gitattributes
+3fad291cc2ccbe507f460667a83e9407a26a0ed784558460c8aff3e1c9c36543 *.gitignore
+a44fb855214ed326507290605a32a1476099636fe16edeeff67b4a3f43572d29 *01_y-tuong-ban-dau.md
+eeda4b55237e76e270b5d39e10002e686f175aa005f877db1b192be870901803 *02_kich-ban-ban-nhap.md
+9e232d95ca34b7b462818abec76bd4a7c3a26594151ba8c38f1c629232af4c88 *03_kich-ban-chinh-sua.md
+8b261412898224fa0af7e5462934e9035eb0b367a96157eb7386adfa4e0e1bcc *04_kich-ban-chinh-thuc.md
+53e1c9d14b7abb1d977b0bd765211c3a4aeb9c14a05829509d41860b9938b6ca *05_prompt-tao-video.md
+c2c58cdb6dbb2ebd6bb8936a23c897f6b6a00b55f9137b433ef4c8056663ef08 *06_tuyen-bo-ban-quyen.md
+f743e582e74facaf6376e36335a62f2c4c2fbcb9b355a584c4b2dea80c834690 *07_nhat-ky-sang-tao.md
+ce034df426881403abb330fbee87a60dce2990d7e56d1a964e7b1b9c6f49f350 *08_hoi-thoai-ai/HUONG-DAN.md
+a080072a89401f138e25f3c3d38fee1480146021374269a948fc5fa1ebfc9b5a *08_hoi-thoai-ai/claude-code/46331bc8-459b-493d-9f2b-2fdbfc528891.jsonl
+f23255f7a757502c968d8b62d20e374f2de0e5c3547b509aec21294dc1ad1560 *09_media/HUONG-DAN.md
+c648a796106517eed9b8c857d8476d816ea813e47f619170de5b095929a76cf0 *CHOT-MOC.bat
+d6826a45c0c7b2945936750b42a6f6eeb8ea7919ba9aed83d17d93d3228d6394 *KIEM-TRA.bat
+109ae52aac42a3871a01e7c1b39dbb270259fdd056eb2c2f115ba538aa8e5ecf *LUU.bat
+ec6ac5de6ad1e2b545999c298fa9812db259070bdb1192a5e3d7d38697e638f1 *README.md
+d83f65f1ad676302409f3882f7a3d4867d9772a77758598dc97a1e11c0eac27b *du-an.json
