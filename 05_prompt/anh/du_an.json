@@ -207,6 +207,676 @@
  },
  "boi_canh": {},
  "dao_cu": {},
- "bang_4_goc": {},
- "cum": []
+ "bang_4_goc": {
+  "BOWIE_HOUSE_DAY_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "BOWIE_KITCHEN_DAY",
+    "BOWIE_DINING_DAY",
+    "FOYER_STAIRS",
+    "BOWIE_SOFA_DAY"
+   ],
+   "tuong": [
+    "the kitchen wall of white cabinets behind a long white grey-veined stone island under two brass pendants, a double sink under a window at the left, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+    "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and a dark-wood dining table with eight cream upholstered chairs in front of it under a glass-bead chandelier, two cream-shaded glass lamps, small framed family photos and a vase of cardboard church fans with no lettering on the buffet, the canvas in burgundy, cream and gold",
+    "the front entry with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window at the far left, the tall frosted glass panel in the door, a key tray and envelopes on the console, shoes on the mat, black-framed family photos up the stair wall",
+    "the living-room wall with a charcoal L-shaped sectional under two tall windows with drawn sheer white curtains and a glass coffee table in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a fabric-shade table lamp at the left end, the coffee table on a gold base over a cream rug with a phone charging cable on it"
+   ],
+   "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, tidy and lived in, early-autumn green trees outside the windows, daytime",
+   "anh_sang": "Soft neutral daylight through the sheer curtains, the sink window and the frosted door panel, one fabric-shade table lamp on at the sofa end, pendants and chandelier off, whites stay clean white, mid-key, no yellow or orange cast",
+   "trang_thai": "ngay",
+   "cum": [
+    1,
+    2,
+    3
+   ],
+   "size": "1920x1080"
+  },
+  "BOWIE_HOUSE_MESSY_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "BOWIE_KITCHEN_MESSY",
+    "BOWIE_DINING_MESSY",
+    "BOWIE_FOYER_MESSY",
+    "BOWIE_SOFA_MESSY"
+   ],
+   "tuong": [
+    "the kitchen wall of white cabinets behind a long white grey-veined stone island littered with takeout containers and paper bags under two brass pendants, a double sink under a window at the left heaped with unwashed dishes, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+    "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and a dark-wood dining table with eight cream upholstered chairs in front of it under a glass-bead chandelier, two cream-shaded glass lamps, small framed family photos and a vase of cardboard church fans with no lettering on the buffet, the canvas in burgundy, cream and gold, a pile of envelopes and a blank shopping bag at one end of the table",
+    "the front entry with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window at the far left, the tall frosted glass panel in the door, a key tray buried in envelopes on the console, shoes kicked off around the mat, a laundry basket heaped with towels at the foot of the stairs, black-framed family photos up the stair wall",
+    "the living-room wall with a charcoal L-shaped sectional under two tall windows with drawn sheer white curtains and a glass coffee table covered with takeout boxes in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a crumpled throw and a burgundy satin bonnet on the seat, glossy blank shopping bags on the floor, a fabric-shade table lamp at the left end, the coffee table on a gold base over a cream rug with a charging cable on it"
+   ],
+   "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, now untidy after a week without cleaning, early-autumn green trees outside the windows, daytime",
+   "anh_sang": "Soft neutral midday daylight through the sheer curtains, the sink window and the frosted door panel, one fabric-shade table lamp on at the sofa end, pendants and chandelier off, whites stay clean white, mid-key, no yellow or orange cast",
+   "trang_thai": "ngay_bua_bon",
+   "cum": [
+    18,
+    19,
+    20,
+    48
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "BOWIE_HOUSE_DAY_BANG"
+   ],
+   "khac_ban_goc": "the same rooms after a week without cleaning, with all furniture, fixtures and the daylight unchanged: takeout containers and paper bags littering the island, unwashed dishes heaped in the sink, a laundry basket heaped with towels at the foot of the stairs, more envelopes piled on the console and shoes kicked off around the mat, a pile of envelopes and a blank shopping bag at one end of the dining table, takeout boxes on the coffee table, a crumpled throw and a burgundy satin bonnet on the sectional seat, and two glossy blank shopping bags with no lettering on the floor beside it"
+  },
+  "BOWIE_HOUSE_NIGHT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "BOWIE_KITCHEN_NIGHT",
+    "BOWIE_DINING_NIGHT",
+    "BOWIE_FOYER_NIGHT",
+    "BOWIE_SOFA_NIGHT"
+   ],
+   "tuong": [
+    "the kitchen wall at night of white cabinets behind a long white grey-veined stone island littered with takeout containers and paper bags under two lit brass pendants, a double sink under a black night window at the left heaped with unwashed dishes, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+    "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and a dark-wood dining table with eight cream upholstered chairs in front of it under a lit glass-bead chandelier, two cream-shaded glass lamps switched on, small framed family photos and a vase of cardboard church fans with no lettering on the buffet, the canvas in burgundy, cream and gold, a pile of envelopes and a blank shopping bag at one end of the table",
+    "the front entry at night with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window dark at the far left, the tall frosted glass panel in the door dark, a key tray buried in envelopes on the console, shoes kicked off around the mat, a laundry basket heaped with towels at the foot of the stairs, black-framed family photos up the stair wall",
+    "the living-room wall at night with a charcoal L-shaped sectional under two tall windows dark behind drawn sheer white curtains and a glass coffee table covered with takeout boxes in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a crumpled throw and a burgundy satin bonnet on the seat, glossy blank shopping bags on the floor, a fabric-shade table lamp lit at the left end, the coffee table on a gold base over a cream rug with a charging cable on it"
+   ],
+   "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, untidy after a week without cleaning, an early-autumn night with the lamps on",
+   "anh_sang": "Night: the windows read blue-black behind the sheer curtains, light comes only from visible practicals, the glass-bead chandelier over the dining table, two brass pendants over the island, two cream-shaded buffet lamps and the fabric-shade table lamp by the sectional, making small warm pools on a neutral white balance, mid-key, corners in soft shadow that keeps detail, whites stay white, no global amber cast",
+   "trang_thai": "dem",
+   "cum": [
+    21,
+    33,
+    44
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "BOWIE_HOUSE_MESSY_BANG"
+   ],
+   "khac_ban_goc": "it is now night: the windows are blue-black behind the drawn sheer curtains and the frosted door panel is dark; the glass-bead chandelier over the dining table, the two brass pendant lamps over the island, both cream-shaded glass lamps on the buffet and the fabric-shade table lamp beside the sectional are switched on; every object and all the clutter stay exactly where they are"
+  },
+  "BOWIE_PARTY_NIGHT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "NIGHT_KITCHEN",
+    "NIGHT_DINING",
+    "BOWIE_PARTY_FOYER",
+    "BOWIE_PARTY_SOFA"
+   ],
+   "tuong": [
+    "the kitchen wall at night of white cabinets behind a long white grey-veined stone island filled with foil-covered pans and casserole dishes under two lit brass pendants, a double sink under a black night window at the left, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+    "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and the dining table lengthened under one long white tablecloth in front of it under a lit glass-bead chandelier, set with fourteen white plates and glasses, white folding chairs among the cream chairs, gold and white balloons with no lettering tied to one chair, both glass lamps lit on the buffet beside a two-tier white cake with purple and gold trim and no lettering, a glass dispenser of iced tea and the vase of church fans",
+    "the front entry at night with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window dark at the far left, the tall frosted glass panel in the door dark, a key tray and envelopes on the console, shoes on the mat, black-framed family photos up the stair wall",
+    "the living-room wall at night with a charcoal L-shaped sectional under two tall windows dark behind drawn sheer white curtains and a glass coffee table in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a fabric-shade table lamp lit at the left end, the coffee table on a gold base over a cream rug with a phone charging cable on it"
+   ],
+   "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, tidy and set up for a large birthday dinner, a late-September night with every lamp on",
+   "anh_sang": "Night party light: every practical on, the glass-bead chandelier over the long table, the brass island pendants, both buffet lamps, the sofa table lamp and a few short candles on the table, a bright mid-key room with warm pools only around the lamps on a neutral white balance, the white tablecloth and plates reading clean white, windows blue-black behind the sheers, no global amber cast",
+   "trang_thai": "dem_tiec",
+   "cum": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "BOWIE_HOUSE_DAY_BANG"
+   ],
+   "khac_ban_goc": "it is now night and the room is set for a large birthday dinner: the windows are blue-black behind the drawn sheer curtains and the frosted door panel is dark; the chandelier, the two island pendants, both buffet lamps and the sofa table lamp are all on; the dining table is lengthened with a folding table under one long white tablecloth so it runs from near the island almost to the front entry, set with fourteen white plates, white napkins and glasses of iced tea, six white folding chairs added among the eight cream chairs, a low centrepiece of purple and white flowers with short lit candles; a bunch of gold and white balloons with no lettering tied to the back of the second chair from the kitchen end on the buffet side; on the buffet a two-tier white cake with purple and gold trim and no lettering on a stand and a glass dispenser of iced tea with lemon slices; foil-covered pans and casserole dishes filling the kitchen island"
+  },
+  "BOWIE_FRONT_DAY_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "BOWIE_FRONT_DAY",
+    "BOWIE_DRIVEWAY_DAY",
+    "BOWIE_STREET_DAY",
+    "BOWIE_SIDEYARD_DAY"
+   ],
+   "tuong": [
+    "the house front with a covered porch on two white columns over a white front door and four wide concrete steps, a tall frosted glass panel in the door, a sheer-curtained window to the right of the door under the porch roof, a black lantern and a video doorbell at the door, a black railing at the left of the steps and potted burgundy mums, a red-brick facade with black-shuttered upper windows, a white two-car garage door at the far right",
+    "the driveway side with a wide concrete driveway and a grey sedan in front of the garage, two rolling trash bins beside the garage, a low boxwood hedge, and beyond it the next-door brick-front colonial with a portable basketball hoop at its driveway",
+    "the street view down a straight concrete front walk to a quiet curving street lined with similar brick-front two-story colonials, the sloping lawn, the sidewalk, a street lamp, young maple trees and neat lawns across the street",
+    "the side yard with an open lawn and a young red maple before the neighbouring grey-sided two-story house, mulch beds with low shrubs along the house, a white vinyl fence with a gate toward the backyard"
+   ],
+   "the_gioi": "The front yard of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland: red-brick front with beige vinyl siding on the sides, black shutters, a covered front porch, an attached two-car garage, neat green lawns, young street trees showing the first yellow leaves of early autumn, clear daytime",
+   "anh_sang": "Clear early-autumn daylight from a high sun on the south-facing front, soft shadow under the porch roof, neutral white balance so the white door, trim and columns stay clean white, natural green lawn, mid-key, no yellow or orange cast",
+   "trang_thai": "ngay",
+   "cum": [
+    3,
+    18,
+    20,
+    48
+   ],
+   "size": "1920x1080"
+  },
+  "BOWIE_FRONT_NIGHT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "PORCH_NIGHT",
+    "BOWIE_DRIVEWAY_NIGHT",
+    "BOWIE_STREET_NIGHT",
+    "BOWIE_SIDEYARD_NIGHT"
+   ],
+   "tuong": [
+    "the house front at night with a covered porch on two white columns over a white front door and four wide concrete steps lit by the black lantern, the tall frosted glass panel in the door glowing from inside, the sheer-curtained window to the right of the door glowing with lamplight, a video doorbell at the door, a black railing at the left of the steps and potted burgundy mums, a red-brick facade with two lit upper windows, a white two-car garage door at the far right",
+    "the driveway side at night with the concrete driveway and the grey sedan in front of the garage, two rolling trash bins, the low boxwood hedge, the next-door brick-front colonial with one lit window and a portable basketball hoop, more sedans parked at the curb",
+    "the street view at night down the straight concrete front walk to the quiet curving street lined with parked sedans and SUVs, one street lamp, and across it similar brick-front colonials with porch lights and a few lit windows",
+    "the side yard at night with the dark lawn and a young red maple before the neighbouring grey-sided house with one lit upstairs window, mulch beds with low shrubs, the white vinyl fence with its gate"
+   ],
+   "the_gioi": "The front yard of a newer two-story brick-front colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, on a late-September night with a big dinner party going on inside: covered front porch with a lantern, concrete steps, a straight front walk, neat lawn, cars lining the curb, night",
+   "anh_sang": "Night: the warm porch lantern lights the porch and steps, lamplight glows through the frosted door panel and the sheer-curtained dining window, one cool-neutral street lamp pools light on the street, deep navy sky, the lawn and side yard falling into soft dark that still holds detail, mid-key around the porch, no global orange cast",
+   "trang_thai": "dem",
+   "cum": [
+    10,
+    11
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "BOWIE_FRONT_DAY_BANG"
+   ],
+   "khac_ban_goc": "it is now night under a deep navy sky: the black lantern over the front door is on and lights the porch and steps; the frosted door panel and the sheer-curtained window right of the door glow with lamplight from inside; two upper windows are lit; the street lamp makes a pool of light on the street and the houses across show porch lights and a few lit windows; several sedans and SUVs are now parked along both curbs of the street"
+  },
+  "BOWIE_FRONT_SNOW_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "BOWIE_FRONT_SNOW",
+    "BOWIE_DRIVEWAY_SNOW",
+    "BOWIE_STREET_SNOW",
+    "BOWIE_SIDEYARD_SNOW"
+   ],
+   "tuong": [
+    "the house front in snow with a covered porch on two white columns over a white front door and four wide snow-covered concrete steps, a large white notice sheet with an orange border and no readable lettering taped by its four corners to the middle of the door, the tall frosted glass panel in the door, the black lantern off, the unlit sheer-curtained window to the right of the door, a video doorbell, a black railing at the left of the steps, a red-brick facade with snow on the roofs, the white garage door at the far right",
+    "the driveway side in snow with the snow-covered driveway and the grey sedan under a layer of snow in front of the garage, two rolling trash bins, the snow-topped boxwood hedge, the next-door brick-front colonial with a snowy roof and a portable basketball hoop",
+    "the street view in snow down the snow-covered front walk with a few footprints to the quiet curving street with slushy tire tracks, the white lawn, a street lamp, similar brick-front colonials with snowy roofs and bare trees across the street",
+    "the side yard in snow with the white lawn and a bare young maple before the neighbouring grey-sided house with snow on its roof, snow-covered mulch beds, the white vinyl fence with its gate"
+   ],
+   "the_gioi": "The front yard of the same newer two-story brick-front colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, on a grey January morning: a thin layer of fresh snow on the lawns, roofs, steps and front walk, bare trees, light snow falling, the house dark and about to be vacated, daytime",
+   "anh_sang": "Flat overcast January daylight from a uniform grey sky, light snowflakes in the air, neutral white balance so the snow reads clean white and neither blue nor yellow, soft low-contrast shadows, the porch lantern off and the windows unlit, mid-key",
+   "trang_thai": "tuyet",
+   "cum": [
+    50
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "BOWIE_FRONT_DAY_BANG"
+   ],
+   "khac_ban_goc": "it is now a grey overcast January morning with light snow falling: a thin even layer of fresh snow covers the lawns, roofs, hedge, mulch beds, steps, front walk and the grey sedan in the driveway, with a few footprints on the steps and walk and slushy tire tracks in the street; the trees are bare; the potted mums are gone; the porch lantern is off and the windows are unlit; a large white notice sheet with an orange border and no readable lettering is taped by its four corners to the middle of the white front door"
+  },
+  "GROCERY_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "REGISTERS",
+    "MARKET",
+    "GROCERY_AISLES",
+    "GROCERY_DELI"
+   ],
+   "tuong": [
+    "two checkout counters side by side with black conveyor belts, flatbed scanners, card readers on posts, plastic bag carousels and lane lights with blank caps, the first counter at the end nearest the entrance doors with a donation jar with a blank label, a pale green wall behind",
+    "a storefront of floor-to-ceiling glass with automatic sliding doors onto the sidewalk and parking lot, a cart corral outside; inside, stacked red plastic shopping baskets, a cork board of blank flyers, and a low end display of canned goods in the corner beside the checkout counters",
+    "the open store floor: long aisles of stocked shelves under hanging aisle markers with blank panels, end displays of canned yams, cornmeal and bags of long-grain rice, a produce stand of bundled collard greens, okra and sweet potatoes, a yellow mop bucket at one aisle end",
+    "a deli and hot-food counter: a glass case of rotisserie chickens, macaroni and cheese and stewed greens in steel pans under warm heat lamps, a bakery rack of sweet potato pies and pound cakes, a seafood case of steamed blue crabs on ice, price cards left blank"
+   ],
+   "the_gioi": "A locally owned neighborhood supermarket in a suburban strip shopping center in Bowie, Prince George's County, Maryland, serving a mostly Black middle-class area: speckled white vinyl floor tiles, a white drop ceiling with LED panels, pale green trim on the checkout counters, bright daytime in early October.",
+   "anh_sang": "Even neutral-white LED ceiling panels over the aisles and checkout counters, bright daylight through the storefront glass at the entrance, the cooler and deli cases lit from inside, two warm heat lamps over the hot-food case as the only warm light, white floor tiles and shelves staying clean white.",
+   "trang_thai": "ngay",
+   "cum": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    26
+   ],
+   "size": "1920x1080"
+  },
+  "KEYSTONE_CONF_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "KEYSTONE_CONF_HEAD",
+    "KEYSTONE_CONF_WINDOWS",
+    "KEYSTONE_CONF_DOOR",
+    "KEYSTONE_CONF_CREDENZA"
+   ],
+   "tuong": [
+    "the end wall behind the high-backed leather chair: a large wall-mounted display screen switched off and dark, a slim speaker bar beneath it, a framed aerial photograph of white battery-storage containers beside a solar field, a tall potted snake plant in the corner",
+    "floor-to-ceiling exterior windows with white roller shades raised halfway over a view of a low-rise office park, brick and glass buildings, parking lots and autumn trees, a slim radiator cover along the sill, the window-side row of black mesh chairs at the table",
+    "a clear glass partition with a frosted band across its middle, office desks blurred beyond it, a frameless glass door with a long steel pull bar near the credenza corner, a narrow walnut side table with a water pitcher and folders on the window side of the door",
+    "a long low walnut credenza with a coffee carafe, white cups, a glass bowl of wrapped peppermints and a small white orchid, above it a framed patchwork quilt artwork in indigo and rust, three spare upholstered side chairs lined along the wall"
+   ],
+   "the_gioi": "A glass-walled executive conference room on an upper floor of a mid-size battery-storage engineering company in a low-rise office park in Largo, Prince George's County, Maryland: charcoal carpet tiles, pale grey walls, one long light-oak conference table in the middle with three black mesh chairs on each long side and a high-backed black leather chair at the top end, bright weekday daytime.",
+   "anh_sang": "Soft directional daylight through the tall windows as the key, recessed neutral-white ceiling lights on, gentle reflections on the glass partition, white walls and white cups staying clean white, the light-oak table and walnut credenza giving the only warmth.",
+   "trang_thai": "ngay",
+   "cum": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    30,
+    31,
+    45,
+    46,
+    47
+   ],
+   "size": "1920x1080"
+  },
+  "KEYSTONE_CONF_NIGHT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "KEYSTONE_CONF_HEAD_NIGHT",
+    "KEYSTONE_CONF_WINDOWS_NIGHT",
+    "KEYSTONE_CONF_DOOR_NIGHT",
+    "KEYSTONE_CONF_CREDENZA_NIGHT"
+   ],
+   "tuong": [
+    "the end wall behind the high-backed leather chair: a large wall-mounted display screen switched off and dark, a slim speaker bar beneath it, a framed aerial photograph of white battery-storage containers beside a solar field, a tall potted snake plant in the corner",
+    "floor-to-ceiling exterior windows with white roller shades raised halfway over a view of a low-rise office park, brick and glass buildings, parking lots and autumn trees, a slim radiator cover along the sill, the window-side row of black mesh chairs at the table",
+    "a clear glass partition with a frosted band across its middle, office desks blurred beyond it, a frameless glass door with a long steel pull bar near the credenza corner, a narrow walnut side table with a water pitcher and folders on the window side of the door",
+    "a long low walnut credenza with a coffee carafe, white cups, a glass bowl of wrapped peppermints and a small white orchid, above it a framed patchwork quilt artwork in indigo and rust, three spare upholstered side chairs lined along the wall"
+   ],
+   "the_gioi": "The same glass-walled executive conference room of a battery-storage engineering company in a Largo office park, Prince George's County, Maryland, empty late on a Saturday night: charcoal carpet tiles, pale grey walls, the long light-oak table with three black mesh chairs on each long side and the high-backed black leather chair at the top end.",
+   "anh_sang": "Only one row of recessed neutral-white ceiling lights is on, directly above the top end of the table, making a pool of light on the light-oak top while the rest of the room falls into soft shadow that still shows detail; the windows are black with a few distant parking-lot lamps and faint reflections of the room; the office floor beyond the glass is dark except a few low security lights; no warm cast.",
+   "trang_thai": "dem",
+   "cum": [
+    44
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "KEYSTONE_CONF_BANG"
+   ],
+   "khac_ban_goc": "night instead of day: the windows are black with a few distant parking-lot lamps and faint reflections of the room, the roller shades at the same height; only the single row of ceiling lights above the top end of the table is on and the rest of the room sits in soft shadow with readable detail; the office floor seen through the glass partition is dark except a few low security lights; the wall screen stays off; every object stays exactly where it is"
+  },
+  "KEYSTONE_FLOOR_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "KEYSTONE_ELEVATOR",
+    "KEYSTONE_FLOOR_WINDOWS",
+    "KEYSTONE_FLOOR",
+    "KEYSTONE_CONF_GLASS"
+   ],
+   "tuong": [
+    "two brushed-steel elevator doors with a plain call-button plate, a low bench; on the side nearest the windows a light-oak reception desk with a brass desk lamp, a vase of flowers and a monitor, a slatted wood wall panel with no lettering behind it",
+    "floor-to-ceiling windows over a low-rise office park with parking lots and autumn trees, a row of white desks lined along the glass, one of them empty with only a desk chair, tall potted fiddle-leaf figs at both ends",
+    "rows of white open-plan desks with low grey fabric partitions, monitors with blank screens, mugs, small framed family photos, a tiny cactus pot, a two-color felt pennant with no lettering, a cardboard church fan in a pen cup, stacked paper, a shared printer station at the back",
+    "the glass conference room: a clear glass wall with a frosted band across its middle and a frameless glass door with a long steel pull bar near the desk side; inside, a long light-oak table, black mesh chairs and bright exterior windows beyond"
+   ],
+   "the_gioi": "The open executive office floor of a mid-size battery-storage engineering company in a low-rise office park in Largo, Prince George's County, Maryland: charcoal carpet tiles, a white ceiling with recessed lights, light-oak and white finishes, an open lobby area between the elevators and the desks, bright weekday daytime.",
+   "anh_sang": "Daylight through the floor-to-ceiling windows falling across the desks, neutral-white recessed ceiling lights, a brass desk lamp glowing on the reception desk as the only warm light, white desks and ceiling staying clean white.",
+   "trang_thai": "ngay",
+   "cum": [
+    27,
+    28,
+    29,
+    47
+   ],
+   "size": "1920x1080"
+  },
+  "BASEMENT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "BASEMENT_BED",
+    "BASEMENT_DRESSER",
+    "BASEMENT_DOOR",
+    "BASEMENT_TABLE"
+   ],
+   "tuong": [
+    "a narrow white-painted iron bed with its headboard against the wall, a homemade patchwork quilt and a champagne silk pillowcase, a small high window in a concrete window well above it, an old tan canvas suitcase with a strap standing at the end of the bed",
+    "a white plastic three-drawer chest beside the bed with a worn leather Bible, reading glasses and a phone charger plugged into a power strip, a small wooden cross hanging above it, a plastic basket of folded towels, a small space heater on the floor",
+    "a plain wooden door standing open inward, a light switch and two wall hooks beside the frame, a rubber doormat and a broom, and through the doorway steep concrete steps rising to the yard with the sky showing at the top",
+    "a folding card table against the wall with a single-burner hot plate, a dented pot, a kettle, exactly two upturned bowls and a small wooden picture frame with cracked glass, a paper sack of rice with no lettering, a mini fridge beside it, a faint water stain above"
+   ],
+   "the_gioi": "A small rented basement room under an older brick duplex in Landover, Prince George's County, Maryland, let by the month: painted grey cinderblock walls, a low ceiling with exposed wooden joists and pipes, one bare bulb in a ceiling socket, a sealed concrete floor with a worn braided rag rug, old but kept clean, early evening at dusk.",
+   "anh_sang": "A single bare bulb in the ceiling socket as the only lamp, making a small warm pool of light over the bed and the table, dim blue dusk through the high window and the open stairwell, the cinderblock corners in soft shadow that still holds detail, neutral white balance.",
+   "trang_thai": "toi",
+   "cum": [
+    32
+   ],
+   "size": "1920x1080"
+  },
+  "MAISON_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "MAISON_RIVER",
+    "MAISON_BAR",
+    "MAISON_ENTRANCE",
+    "MAISON_BANQUETTE"
+   ],
+   "tuong": [
+    "a floor-to-ceiling glass wall over the dark river with rippling reflections of distant shore lights, a row of small tables for two set right against the glass with white cloths, low glass candle lamps, folded napkins and wine glasses",
+    "a long dark-wood bar with a brass rail along its base and leather stools, backlit shelves of bottles with no readable labels, a tall antique mirror, three hanging pendant lamps over the bar top, a cocktail shaker and rows of glasses",
+    "tall carved wooden double doors with iron ring pulls, a dark-wood reservation podium with a small brass lamp and a stack of leather-bound menus with blank covers, two potted palms, wrought-iron gas-style lanterns on both sides of the doors",
+    "an exposed old brick wall lined with tufted leather banquettes, brass gas-style sconces, framed black-and-white photographs of cypress swamps and a narrow Creole cottage, a small corner stage with an upright bass on its stand and a drum kit at rest"
+   ],
+   "the_gioi": "An upscale Black-owned Louisiana Creole restaurant on the Potomac River waterfront in Prince George's County, Maryland: dark stained wood floors, exposed old brick, wrought-iron details, round and square tables with white tablecloths and low candle lamps filling the dining room, evening service at night.",
+   "anh_sang": "Low glass candle lamps on every table and brass sconces make small warm pools of light, three pendant lamps and backlit bottle shelves light the bar, the river glass stays dark with cool reflected shore lights, white tablecloths stay clean white, mid-key with soft shadows that keep detail.",
+   "trang_thai": "dem",
+   "cum": [
+    34,
+    35,
+    36,
+    37,
+    38
+   ],
+   "size": "1920x1080"
+  },
+  "SALES_OFFICE_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "SALES_ENTRANCE",
+    "SALES_SOFA",
+    "SALES_DESK",
+    "SALES_LAKE"
+   ],
+   "tuong": [
+    "a glass front door with a brushed-steel push bar between glass sidelights, a coir doormat, a slim brochure stand with blank covers, and outside a sunny sidewalk, a stone planter of orange mums and a curving street of brick-front houses",
+    "a cream upholstered waiting sofa with two gold throw pillows, a low coffee table with a fan of glossy brochures with blank covers and a glass bowl of wrapped peppermints, a brass floor lamp, a large framed abstract print in indigo and gold above the sofa",
+    "a white reception desk with a computer monitor angled sideways, a desk phone, a pen cup and a small vase of flowers; behind it a low glass display case containing a white tabletop miniature of the whole community with tiny houses, curving streets and a blue lake",
+    "tall glass panes with a glass door onto a stone patio, the community lake with a fountain and young autumn trees beyond, a framed aerial photograph of the lake and rooftops, a small side table with bottled water and a plate of cookies"
+   ],
+   "the_gioi": "The sales office of a new gated community of large brick-front colonial houses in Mitchellville, Prince George's County, Maryland: light oak floors, white walls with wainscoting, a white coffered ceiling with recessed lights, bright late-morning daytime in October.",
+   "anh_sang": "Bright late-morning daylight through the glass front door and the lake-side glass as the key, neutral-white recessed ceiling lights, one brass floor lamp glowing beside the sofa as the only warm light, white walls and the white desk staying clean white. Exposure held to mid-key, not overexposed: the white walls read soft white with visible shading, real shadow under the sofa, the desk and the display case, the window views keep detail, moderate contrast with true dark accents in the walnut, the brass and the black monitor",
+   "trang_thai": "ngay",
+   "cum": [
+    39,
+    40,
+    41,
+    43
+   ],
+   "size": "1920x1080"
+  },
+  "LOT7_FOYER_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "LOT7_FOYER_DOORS",
+    "LOT7_STAIRS",
+    "LOT7_FOYER_ARCH",
+    "LOT7_WORK"
+   ],
+   "tuong": [
+    "tall walnut-stained double front doors with long textured-glass panes that blur the outside, a wide arched window above them showing only pale sky, a slim walnut bench beside the doors with a woven basket and a ceramic bowl for keys, a jute doormat",
+    "a curved staircase with walnut treads, white risers and a black iron railing rising to an open landing, small framed family photos up the stair wall, a large abstract painting in deep green, ochre and brown, two cream chairs beside a round side table with a crocheted doily and a glass candy dish of peppermints",
+    "a wide white-trimmed arch into the dining room between two brass sconces; through it a long walnut table with cream chairs and a vase of yellow chrysanthemums, and at the far end the kitchen opening with a corner of white stone island",
+    "a wide opening into a study: a walnut desk facing the foyer, a leather chair behind it, shelves of dictionaries and French books with blank spines, a sheer-curtained window, a linen-shaded lamp, blank documents, a framed photo of a pale yellow wooden house with a porch"
+   ],
+   "the_gioi": "The double-height foyer of the Lot 7 house, an upper-tier new-build brick colonial in a gated community in Mitchellville, Prince George's County, Maryland, quality rather than flashy: pale oak floors, cream walls, white trim, walnut doors and furniture, a large chandelier of clear glass and aged brass hanging from the high ceiling, a few Louisiana Creole family keepsakes and a small French translation study opening off one side, daytime with no season showing.",
+   "anh_sang": "Soft neutral daylight from the arched window above the doors and through the textured door glass, gentler daylight through the study's sheer curtains, the chandelier off, the linen-shaded desk lamp in the study glowing as the one warm accent, mid-key, cream walls and white trim staying clean white with no orange or amber cast.",
+   "trang_thai": "ngay",
+   "cum": [
+    42,
+    43,
+    49,
+    51,
+    66,
+    68
+   ],
+   "size": "1920x1080"
+  },
+  "LOT7_DINING_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "LOT7_DINING_ARCH",
+    "LOT7_DINING_WINDOWS",
+    "LOT7_DINING_KITCHEN",
+    "LOT7_DINING_BUFFET"
+   ],
+   "tuong": [
+    "the white-trimmed arch to the double-height foyer between two brass sconces, the curved staircase and walnut front doors seen beyond; before it the head of the walnut table with one place setting of white porcelain with a blue rim and a vase of yellow chrysanthemums",
+    "a row of three tall windows with sheer white curtains drawn open, deep white sills, a framed watercolor of a cypress swamp in soft greens between two windows, a tall potted olive tree in a clay pot in the corner",
+    "the wide opening to the kitchen at the far end, a glimpse of a white stone island and a range with a seasoned black cast-iron pot on a back burner, a jar of green filé powder and a bottle of hot sauce on the counter",
+    "a long walnut buffet with a worn plain leather family Bible, folded paper programs tucked inside, and a wooden bowl of satsumas; beside it a tall walnut china cabinet with glass doors full of white porcelain bowls and plates with blue rims"
+   ],
+   "the_gioi": "The dining room of the Lot 7 house, an upper-tier new-build brick colonial in a gated community in Mitchellville, Prince George's County, Maryland, quality rather than flashy: pale oak floor, cream walls, white trim, a long walnut dining table for eight with cream upholstered chairs running from the foyer arch toward the kitchen, Louisiana Creole family pieces, an early-autumn late afternoon with low sun.",
+   "anh_sang": "Low late-afternoon sun slanting through the west windows and sheer curtains in long bright bands across the walnut table and pale floor, the rest of the room in soft neutral daylight, the two brass sconces by the arch switched on as small warm pools, white porcelain staying clean white, no global orange or amber cast.",
+   "trang_thai": "chieu",
+   "cum": [
+    68,
+    69,
+    70
+   ],
+   "size": "1920x1080"
+  },
+  "LOT7_EXT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "LOT7_EXT_HOUSE",
+    "LOT7_EXT_EAST",
+    "LOT7_EXT",
+    "LOT7_EXT_WEST"
+   ],
+   "tuong": [
+    "a two-story red-brick colonial with a stone-trimmed two-story entry, wide stone steps up to tall walnut-stained double doors with textured-glass panes under an arched window, black shutters, two coach lanterns, clipped boxwoods in planters, an old black cast-iron pot planted with trailing ivy beside the bottom step, the curved paved turnaround in front",
+    "the east side lawn ending at a tall clipped evergreen hedge on the property line, the iron fence meeting a red-brick corner pillar, a black lamppost, and beyond the hedge the brick side wall and slate roof of the next house",
+    "a black wrought-iron double gate between two red-brick pillars at the end of the driveway, the iron fence running both ways under tall bare oaks, then a concrete sidewalk, a granite curb, a quiet street and large brick houses opposite",
+    "the west side lawn with a young evergreen magnolia and a curved mulched bed of pruned hydrangeas, the iron fence meeting a red-brick corner pillar, and beyond it the street curving away past large brick houses, a black streetlamp at the curb"
+   ],
+   "the_gioi": "The front grounds of the Lot 7 house in a gated community in Mitchellville, Prince George's County, Maryland: an upper-tier new-build two-story red-brick colonial set back behind a black wrought-iron fence and gate, a straight paved stone driveway from the gate ending in a curved turnaround before wide stone steps, a row of tall oaks just inside the front fence, late January under a clear cold sky, dormant tan lawn, bare branches and old crusted snow along the lawn edges and fence line, the driveway and steps cleared.",
+   "anh_sang": "Clear cold late-morning winter sun, low from the street side under a pale blue sky, lighting the brick facade and casting long crisp shadows of the fence and bare branches, the old snow along the edges reflecting clean white, neutral daylight white balance, coach lanterns off.",
+   "trang_thai": "tuyet",
+   "cum": [
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+   ],
+   "size": "1920x1080"
+  },
+  "LOT7_EXT_THU_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "LOT7_EXT_OCT_HOUSE",
+    "LOT7_EXT_OCT_EAST",
+    "LOT7_EXT_OCT",
+    "LOT7_EXT_OCT_WEST"
+   ],
+   "tuong": [
+    "a two-story red-brick colonial with a stone-trimmed two-story entry, wide stone steps up to tall walnut-stained double doors with textured-glass panes under an arched window, black shutters, two coach lanterns, clipped boxwoods in planters, an old black cast-iron pot planted with trailing ivy beside the bottom step, the curved paved turnaround in front, a few yellow leaves on the steps",
+    "the east side lawn ending at a tall clipped evergreen hedge on the property line, the iron fence meeting a red-brick corner pillar, a black lamppost, and beyond the hedge the brick side wall and slate roof of the next house",
+    "a black wrought-iron double gate between two red-brick pillars at the end of the driveway, the iron fence running both ways under tall oaks in full yellow leaf, then a concrete sidewalk, a granite curb, a quiet street and large brick houses opposite",
+    "the west side lawn with a young evergreen magnolia and a curved mulched bed of hydrangeas with dried tan blooms, the iron fence meeting a red-brick corner pillar, and beyond it the street curving away past large brick houses, a black streetlamp at the curb"
+   ],
+   "the_gioi": "The front grounds of the Lot 7 house in a gated community in Mitchellville, Prince George's County, Maryland: an upper-tier new-build two-story red-brick colonial set back behind a black wrought-iron fence and gate, a straight paved stone driveway from the gate ending in a curved turnaround before wide stone steps, a row of tall oaks just inside the front fence, mid-October at noon, the oaks in full yellow leaf, green lawn scattered with fallen yellow leaves, no snow.",
+   "anh_sang": "Bright clear noon sun of mid-October from high over the street side, lighting the brick facade and the yellow oak canopy, short crisp shadows and dappled leaf shade on the driveway, neutral daylight white balance so the yellow leaves read true and whites stay white, coach lanterns off.",
+   "trang_thai": "thu",
+   "cum": [
+    42,
+    43,
+    49
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "LOT7_EXT_BANG"
+   ],
+   "khac_ban_goc": "Same layout, house, gate, fence, driveway, hedge, lamppost and trees in the same places as LOT7_EXT_BANG. Only season and light change: no snow anywhere; the oaks along the fence are in full yellow October leaf instead of bare; the lawn is green with scattered fallen yellow leaves; a few yellow leaves lie on the steps; the hydrangeas hold dried tan blooms; bright high noon sun with short shadows replaces the low late-morning winter sun."
+  },
+  "LOT7_EXT_CHIEU_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "LOT7_EXT_SEP_HOUSE",
+    "LOT7_EXT_SEP_EAST",
+    "LOT7_EXT_SEP",
+    "LOT7_EXT_SEP_WEST"
+   ],
+   "tuong": [
+    "a two-story red-brick colonial with a stone-trimmed two-story entry, wide stone steps up to tall walnut-stained double doors with textured-glass panes under an arched window, black shutters, two coach lanterns, clipped boxwoods in planters, an old black cast-iron pot planted with trailing ivy beside the bottom step, the curved paved turnaround in front",
+    "the east side lawn ending at a tall clipped evergreen hedge on the property line, the iron fence meeting a red-brick corner pillar, a black lamppost, and beyond the hedge the brick side wall and slate roof of the next house",
+    "a black wrought-iron double gate between two red-brick pillars at the end of the driveway, the iron fence running both ways under tall oaks in dense dark green leaf, then a concrete sidewalk, a granite curb, a quiet street and large brick houses opposite",
+    "the west side lawn with a young evergreen magnolia and a curved mulched bed of hydrangeas with faded blue-green blooms, the iron fence meeting a red-brick corner pillar, and beyond it the street curving away past large brick houses, a black streetlamp at the curb"
+   ],
+   "the_gioi": "The front grounds of the Lot 7 house in a gated community in Mitchellville, Prince George's County, Maryland: an upper-tier new-build two-story red-brick colonial set back behind a black wrought-iron fence and gate, a straight paved stone driveway from the gate ending in a curved turnaround before wide stone steps, a row of tall oaks just inside the front fence, late September in the late afternoon, the oaks in dense dark green leaf, green lawn, no snow.",
+   "anh_sang": "Low late-afternoon sun from the west raking across the front lawn and brick facade in long bright bands, long shadows of the oaks and fence stretching across the driveway, the shaded areas in soft neutral daylight, neutral white balance with no global orange or amber cast, coach lanterns off.",
+   "trang_thai": "chieu",
+   "cum": [
+    68
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "LOT7_EXT_BANG"
+   ],
+   "khac_ban_goc": "Same layout, house, gate, fence, driveway, hedge, lamppost and trees in the same places as LOT7_EXT_BANG. Only season and light change: no snow anywhere; the oaks along the fence are in dense dark green late-summer leaf instead of bare; the lawn is fully green; the hydrangeas hold faded blue-green blooms; low late-afternoon sun from the west with long raking shadows replaces the crisp late-morning winter sun."
+  },
+  "CHARLENE_APT_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "CHARLENE_KITCHEN",
+    "CHARLENE_WINDOW",
+    "CHARLENE_DOOR",
+    "CHARLENE_SOFA"
+   ],
+   "tuong": [
+    "a kitchenette: almond laminate counter, an old white four-burner range, a white refrigerator with a round purple hatbox on top, a dish rack by the sink; in front, a small round table with two mismatched chairs and a stack of bills with no lettering",
+    "a window with white vinyl blinds half raised and old snow along the outer edges of the glass, beside it a small flat TV on a low laminate stand, a space heater, a remote control and a phone charger cable",
+    "the apartment front door with a deadbolt and a brass chain, a doormat, wall hooks with a folded umbrella, a shelf with a ceramic bowl of keys and a vase of plain cardboard church fans on wooden sticks, a wall calendar with blank squares",
+    "a beige sofa bed folded against the wall with pillows and a crocheted afghan, an end table with a pleated yellow-shaded lamp, a worn Bible and a candy dish of peppermints, a framed blank certificate above, a white bedroom door ajar beside it"
+   ],
+   "the_gioi": "The cramped living room and kitchenette of a one-bedroom rental in an older three-story brick garden-style apartment complex in District Heights, Prince George's County, Maryland, a lower-middle-tier home that has come down in the world but is kept with church-going pride: beige carpet, scuffed off-white walls, builder-grade fixtures, older furniture kept clean, a few purple accents, a January day.",
+   "anh_sang": "Soft overcast January daylight through the half-raised white blinds as the key, the pleated yellow-shaded lamp by the sofa switched on as the one small warm pool, ceiling light off, mid-key, walls and blinds staying clean neutral white with no orange cast.",
+   "trang_thai": "ngay",
+   "cum": [
+    50,
+    51
+   ],
+   "size": "1920x1080"
+  },
+  "CHARLENE_APT_DEM_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "CHARLENE_KITCHEN_NIGHT",
+    "CHARLENE_WINDOW_NIGHT",
+    "CHARLENE_DOOR_NIGHT",
+    "CHARLENE_SOFA_NIGHT"
+   ],
+   "tuong": [
+    "a kitchenette: almond laminate counter, an old white four-burner range, a white refrigerator with a round purple hatbox on top, a dish rack by the sink; in front, a small round table with two mismatched chairs and a stack of bills with no lettering",
+    "a window with white vinyl blinds half raised on the dark night, old snow along the outer edges of the glass, beside it a small flat TV on a low laminate stand, a space heater, a remote control and a phone charger cable",
+    "the apartment front door with a deadbolt and a brass chain, a doormat, wall hooks with a folded umbrella, a shelf with a ceramic bowl of keys and a vase of plain cardboard church fans on wooden sticks, a wall calendar with blank squares",
+    "a beige sofa bed folded against the wall with pillows and a crocheted afghan, an end table with a pleated yellow-shaded lamp, a worn Bible and a candy dish of peppermints, a framed blank certificate above, a white bedroom door ajar on darkness beside it"
+   ],
+   "the_gioi": "The cramped living room and kitchenette of a one-bedroom rental in an older three-story brick garden-style apartment complex in District Heights, Prince George's County, Maryland, a lower-middle-tier home that has come down in the world but is kept with church-going pride: beige carpet, scuffed off-white walls, builder-grade fixtures, older furniture kept clean, a few purple accents, a January night.",
+   "anh_sang": "Night: the pleated yellow-shaded table lamp beside the sofa is the only light, a warm pool over the sofa, the end table and the ajar bedroom door, the kitchenette and front door falling into soft dim shadow that still holds detail, the window dark, no other lamps, walls reading neutral off-white where the lamp reaches.",
+   "trang_thai": "dem",
+   "cum": [
+    56
+   ],
+   "size": "1920x1080",
+   "goc": [
+    "CHARLENE_APT_BANG"
+   ],
+   "khac_ban_goc": "Same layout, furniture and props as CHARLENE_APT_BANG, the sofa bed still folded. Only light changes: it is night; the window is dark with old snow on the glass edges; there is no daylight; the pleated yellow-shaded lamp beside the sofa is the only light source; the kitchenette and front door side sit in dim soft shadow; the gap of the ajar bedroom door is dark."
+  },
+  "HOSP_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "HOSP_BED",
+    "HOSP_WINDOW",
+    "HOSP_DOOR",
+    "HOSP_CHAIR"
+   ],
+   "tuong": [
+    "a hospital bed with raised head, white sheets and blanket, grey side rails, a white call cord clipped to the rail on the chair side, a headwall with oxygen outlets, a dark monitor, a blank whiteboard, an overbed table with a water pitcher",
+    "a wide window with vertical blinds half open on a pale overcast winter sky and bare treetops, a heating unit below it, a deep sill holding a box of tissues and a small vase of yellow carnations",
+    "a wide wood-veneer corridor door with a tall narrow glass panel showing a pale corridor beyond, a small round indicator light above the frame, a wall sanitizer dispenser and a small sink beside it, a TV mounted high with a dark screen",
+    "a teal vinyl recliner chair beside the bed, a small side table, a tall built-in storage cabinet, a framed print of a calm lake, and a narrow door to a bathroom"
+   ],
+   "the_gioi": "A single room in a newer regional public hospital in Prince George's County, Maryland, institutional and clean but plainly in use: pale green-grey walls, light vinyl plank floor, a white ceiling with flat light panels, one adjustable hospital bed in the middle of the room with its head to the wall, a January morning.",
+   "anh_sang": "Flat cool-white overhead panel light as the key with soft overcast winter daylight from the window, even and nearly shadowless on the pale green-grey walls, the one warm detail the small vase of yellow carnations on the sill, white sheets rendering clean white, mid-key, no orange cast.",
+   "trang_thai": "ngay",
+   "cum": [
+    52,
+    53,
+    54,
+    55
+   ],
+   "size": "1920x1080"
+  },
+  "COURT_HALL_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "COURT_DOORS",
+    "COURT_HALL_EAST",
+    "COURT_WINDOWS",
+    "COURT_HALL_WEST"
+   ],
+   "tuong": [
+    "tall double oak courtroom doors with frosted glass panels and no lettering, light oak paneling, long wooden benches along the wall on both sides of the doors, a square oak-clad column just right of the doors, a glass-front notice case with blank sheets",
+    "the far end of the hallway: a pair of plain oak doors to a stairwell, a drinking fountain, a steel trash can, the marble floor and oak paneling running to a tall window at the end",
+    "a row of tall windows with plain white roller shades raised, bright white daylight pouring in, light oak paneling below them, a long wooden bench under the windows, a round wall clock with plain tick marks and no numerals",
+    "the other end of the hallway: a court security checkpoint with a walk-through metal detector arch, an X-ray belt and a small desk, glass doors to the elevator lobby beyond"
+   ],
+   "the_gioi": "A long public hallway outside a courtroom in the county circuit courthouse in Upper Marlboro, Prince George's County, Maryland, a civic building that is worn but well kept: beige marble floor, light oak wall paneling, square oak-clad columns, tall windows, a plain ceiling with flush light fixtures, a March weekday late morning.",
+   "anh_sang": "Bright white daylight from the tall south windows washing across the marble floor and oak paneling, flush ceiling fixtures adding even neutral fill, no lamps, mid-key, neutral daylight white balance with whites clean and no amber cast. The marble reads pale cream-grey, not yellow; the oak paneling is a medium natural oak, not orange; neutral white balance across the hallway, natural restrained saturation, the daylight patches clean white",
+   "trang_thai": "ngay",
+   "cum": [
+    63
+   ],
+   "size": "1920x1080"
+  },
+  "CHURCH_HALL_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "CHURCH_HALL",
+    "CHURCH_HALL_TABLES",
+    "CHURCH_HALL_OUT",
+    "CHURCH_HALL_EXIT"
+   ],
+   "tuong": [
+    "a long stainless steel serving counter in front of the church kitchen pass-through, a steaming steel stock pot with a ladle, stacks of white paper bowls, two coffee urns and foil pans, and behind the counter a double stainless steel sink with a sprayer faucet",
+    "rows of long folding tables with white plastic tablecloths and metal folding chairs, a napkin holder, salt and pepper shakers and a bottle of hot sauce on each table, small high basement windows with frosted glass near the ceiling",
+    "a plain empty wooden cross on the cream cinder-block wall, a purple-and-gold church banner with no lettering, a framed photo of the red-brick church building, a rolling cart stacked with folding chairs",
+    "double steel doors with push bars to the stairwell, an upright piano beside them topped with a stack of plain hymnals, a cork bulletin board of blank white flyers, metal shelves of canned goods with blank labels for the food pantry"
+   ],
+   "the_gioi": "The basement fellowship hall of a mid-size red-brick Black Baptist church in District Heights, Prince George's County, Maryland, set up for the free Saturday lunch: speckled linoleum floor, a drop ceiling with fluorescent tube panels, cream-painted cinder-block walls, a working-class church space that is worn, clean and well used, an April midday.",
+   "anh_sang": "Flat fluorescent light from the drop-ceiling tube panels as the key, a little soft daylight from the high frosted basement windows, steam rising from the stock pot, even and mid-key, neutral white balance so tablecloths and bowls stay clean white, no amber cast.",
+   "trang_thai": "ngay",
+   "cum": [
+    64
+   ],
+   "size": "1920x1080"
+  },
+  "WAREHOUSE_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "WAREHOUSE",
+    "WAREHOUSE_DOCK",
+    "WAREHOUSE_BREAK",
+    "WAREHOUSE_CONVEYOR"
+   ],
+   "tuong": [
+    "a long aisle between tall blue-and-orange steel pallet racks stacked with plain brown cartons and shrink-wrapped pallets, yellow lane lines on the concrete, a yellow forklift parked at the aisle end, hanging aisle markers with no lettering",
+    "a row of roll-up loading dock doors, one half open to daylight, yellow steel bollards, dock levelers, stacks of empty wooden pallets and a manual pallet jack",
+    "the break corner against the wall: a folding table with plastic chairs, a small white refrigerator, a microwave on a metal cart, a row of grey metal lockers, a water cooler and a bulletin board of blank notices",
+    "a long roller conveyor line running beside the racks, packing stations with tape dispensers and rolls of stretch wrap, stacked plain cartons, a steel mezzanine stair with yellow railings"
+   ],
+   "the_gioi": "The floor of a large distribution warehouse in Prince George's County, Maryland, a busy working-class workplace kept orderly: sealed grey concrete floor with yellow painted lane lines, a high steel-truss ceiling with LED high-bay lights, tall steel pallet racks, a September weekday afternoon.",
+   "anh_sang": "Even cool-white light from the LED high-bay fixtures, neutral daylight spilling in through the half-open dock door, no warm lamps, mid-key, plain cartons and painted lines staying clean and neutral, no amber cast.",
+   "trang_thai": "ngay",
+   "cum": [
+    65
+   ],
+   "size": "1920x1080"
+  },
+  "DEVIN_STUDIO_BANG": {
+   "boi_canh": [],
+   "panels": [
+    "DEVIN_STUDIO",
+    "DEVIN_STUDIO_BED",
+    "DEVIN_STUDIO_DOOR",
+    "DEVIN_STUDIO_TABLE"
+   ],
+   "tuong": [
+    "a kitchenette: a two-burner electric cooktop under a range hood with a black cast-iron pot, a cutting board of diced onion, celery and green bell pepper, a salt jar with a yellowed recipe card of unreadable script, a bottle of hot sauce, a low refrigerator",
+    "a neatly made single bed with a grey blanket against the wall, a window above it with closed white blinds, a small nightstand with a phone charger cable, a laundry basket of folded towels on the floor",
+    "the apartment front door with a deadbolt and a brass chain, a worn doormat, a narrow closet door beside it, a light switch and a small smoke alarm on the wall",
+    "a folding table against the wall with one chair, a desk lamp with a yellow fabric shade, a folded square white kitchen towel on the table, and near the door corner a row of wall hooks holding an orange lanyard with a blank badge card"
+   ],
+   "the_gioi": "A small rented studio on the second floor of an older two-story brick garden-style apartment complex in Capitol Heights, Prince George's County, Maryland, humble working-class but clean and tidy: beige carpet, off-white walls, a small kitchenette, plain thrift-store furniture, a late-September night.",
+   "anh_sang": "Night: the yellow fabric-shaded desk lamp and the small light under the range hood are the only lights, small warm pools on the table and the cooktop, steam rising from the pot, the rest of the room in soft shadow that still holds detail, the window dark behind closed blinds, the walls reading neutral off-white. Only the lampshade and the small pool of light around it are warm; the walls, the bed and the kitchenette away from the lamp read neutral off-white and soft grey in cool shadow; no yellow or amber cast over the room; restrained saturation, true dark shadows",
+   "trang_thai": "dem",
+   "cum": [
+    67
+   ],
+   "size": "1920x1080"
+  }
+ },
+ "cum": [],
+ "thanh_pho": "Prince George's County, Maryland (Bowie, Largo, Landover, Mitchellville, District Heights, Capitol Heights, Upper Marlboro)"
 }

@@ -712,5 +712,655 @@
   "duyet": "đạt",
   "luc": "02/11 20:53",
   "ghi_chu": "tác giả chốt lượt 2 ngày 02/11/2026"
+ },
+ "GROCERY_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:32"
+ },
+ "KEYSTONE_CONF_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:32"
+ },
+ "BOWIE_FRONT_DAY_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:32"
+ },
+ "BOWIE_FRONT_NIGHT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:33"
+ },
+ "KEYSTONE_CONF_NIGHT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:34"
+ },
+ "KEYSTONE_FLOOR_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:34"
+ },
+ "BOWIE_FRONT_SNOW_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:34"
+ },
+ "BASEMENT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:34"
+ },
+ "SALES_OFFICE_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:51"
+ },
+ "LOT7_FOYER_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:36"
+ },
+ "LOT7_DINING_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:37"
+ },
+ "LOT7_EXT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:37"
+ },
+ "MAISON_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:39"
+ },
+ "LOT7_EXT_THU_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:41"
+ },
+ "LOT7_EXT_CHIEU_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:41"
+ },
+ "HOSP_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:41"
+ },
+ "CHARLENE_APT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:41"
+ },
+ "CHARLENE_APT_DEM_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:42"
+ },
+ "COURT_HALL_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:52"
+ },
+ "CHURCH_HALL_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:43"
+ },
+ "WAREHOUSE_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:43"
+ },
+ "DEVIN_STUDIO_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "BOWIE_FRONT_DAY": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_DAY_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_DRIVEWAY_DAY": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_DAY_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_STREET_DAY": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_DAY_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_SIDEYARD_DAY": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_DAY_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "PORCH_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_NIGHT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_DRIVEWAY_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_NIGHT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_STREET_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_NIGHT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_SIDEYARD_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_NIGHT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_FRONT_SNOW": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_SNOW_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_DRIVEWAY_SNOW": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_SNOW_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_STREET_SNOW": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_SNOW_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BOWIE_SIDEYARD_SNOW": {
+  "nguon": "cắt từ bảng BOWIE_FRONT_SNOW_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "REGISTERS": {
+  "nguon": "cắt từ bảng GROCERY_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "MARKET": {
+  "nguon": "cắt từ bảng GROCERY_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "GROCERY_AISLES": {
+  "nguon": "cắt từ bảng GROCERY_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "GROCERY_DELI": {
+  "nguon": "cắt từ bảng GROCERY_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_HEAD": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_WINDOWS": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_DOOR": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_CREDENZA": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_HEAD_NIGHT": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_NIGHT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_WINDOWS_NIGHT": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_NIGHT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_DOOR_NIGHT": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_NIGHT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_CREDENZA_NIGHT": {
+  "nguon": "cắt từ bảng KEYSTONE_CONF_NIGHT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_ELEVATOR": {
+  "nguon": "cắt từ bảng KEYSTONE_FLOOR_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_FLOOR_WINDOWS": {
+  "nguon": "cắt từ bảng KEYSTONE_FLOOR_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_FLOOR": {
+  "nguon": "cắt từ bảng KEYSTONE_FLOOR_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "KEYSTONE_CONF_GLASS": {
+  "nguon": "cắt từ bảng KEYSTONE_FLOOR_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BASEMENT_BED": {
+  "nguon": "cắt từ bảng BASEMENT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BASEMENT_DRESSER": {
+  "nguon": "cắt từ bảng BASEMENT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BASEMENT_DOOR": {
+  "nguon": "cắt từ bảng BASEMENT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "BASEMENT_TABLE": {
+  "nguon": "cắt từ bảng BASEMENT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "MAISON_RIVER": {
+  "nguon": "cắt từ bảng MAISON_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "MAISON_BAR": {
+  "nguon": "cắt từ bảng MAISON_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "MAISON_ENTRANCE": {
+  "nguon": "cắt từ bảng MAISON_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "MAISON_BANQUETTE": {
+  "nguon": "cắt từ bảng MAISON_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "SALES_ENTRANCE": {
+  "nguon": "cắt từ bảng SALES_OFFICE_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "SALES_SOFA": {
+  "nguon": "cắt từ bảng SALES_OFFICE_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "SALES_DESK": {
+  "nguon": "cắt từ bảng SALES_OFFICE_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "SALES_LAKE": {
+  "nguon": "cắt từ bảng SALES_OFFICE_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "LOT7_FOYER_DOORS": {
+  "nguon": "cắt từ bảng LOT7_FOYER_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_STAIRS": {
+  "nguon": "cắt từ bảng LOT7_FOYER_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_FOYER_ARCH": {
+  "nguon": "cắt từ bảng LOT7_FOYER_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_WORK": {
+  "nguon": "cắt từ bảng LOT7_FOYER_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_DINING_ARCH": {
+  "nguon": "cắt từ bảng LOT7_DINING_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_DINING_WINDOWS": {
+  "nguon": "cắt từ bảng LOT7_DINING_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_DINING_KITCHEN": {
+  "nguon": "cắt từ bảng LOT7_DINING_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_DINING_BUFFET": {
+  "nguon": "cắt từ bảng LOT7_DINING_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_HOUSE": {
+  "nguon": "cắt từ bảng LOT7_EXT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_EAST": {
+  "nguon": "cắt từ bảng LOT7_EXT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT": {
+  "nguon": "cắt từ bảng LOT7_EXT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_WEST": {
+  "nguon": "cắt từ bảng LOT7_EXT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_OCT_HOUSE": {
+  "nguon": "cắt từ bảng LOT7_EXT_THU_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_OCT_EAST": {
+  "nguon": "cắt từ bảng LOT7_EXT_THU_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_OCT": {
+  "nguon": "cắt từ bảng LOT7_EXT_THU_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_OCT_WEST": {
+  "nguon": "cắt từ bảng LOT7_EXT_THU_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_SEP_HOUSE": {
+  "nguon": "cắt từ bảng LOT7_EXT_CHIEU_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_SEP_EAST": {
+  "nguon": "cắt từ bảng LOT7_EXT_CHIEU_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_SEP": {
+  "nguon": "cắt từ bảng LOT7_EXT_CHIEU_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "LOT7_EXT_SEP_WEST": {
+  "nguon": "cắt từ bảng LOT7_EXT_CHIEU_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_KITCHEN": {
+  "nguon": "cắt từ bảng CHARLENE_APT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_WINDOW": {
+  "nguon": "cắt từ bảng CHARLENE_APT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_DOOR": {
+  "nguon": "cắt từ bảng CHARLENE_APT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_SOFA": {
+  "nguon": "cắt từ bảng CHARLENE_APT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_KITCHEN_NIGHT": {
+  "nguon": "cắt từ bảng CHARLENE_APT_DEM_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_WINDOW_NIGHT": {
+  "nguon": "cắt từ bảng CHARLENE_APT_DEM_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_DOOR_NIGHT": {
+  "nguon": "cắt từ bảng CHARLENE_APT_DEM_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHARLENE_SOFA_NIGHT": {
+  "nguon": "cắt từ bảng CHARLENE_APT_DEM_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "HOSP_BED": {
+  "nguon": "cắt từ bảng HOSP_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "HOSP_WINDOW": {
+  "nguon": "cắt từ bảng HOSP_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "HOSP_DOOR": {
+  "nguon": "cắt từ bảng HOSP_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "HOSP_CHAIR": {
+  "nguon": "cắt từ bảng HOSP_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "COURT_DOORS": {
+  "nguon": "cắt từ bảng COURT_HALL_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "COURT_HALL_EAST": {
+  "nguon": "cắt từ bảng COURT_HALL_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "COURT_WINDOWS": {
+  "nguon": "cắt từ bảng COURT_HALL_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "COURT_HALL_WEST": {
+  "nguon": "cắt từ bảng COURT_HALL_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "CHURCH_HALL": {
+  "nguon": "cắt từ bảng CHURCH_HALL_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHURCH_HALL_TABLES": {
+  "nguon": "cắt từ bảng CHURCH_HALL_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHURCH_HALL_OUT": {
+  "nguon": "cắt từ bảng CHURCH_HALL_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "CHURCH_HALL_EXIT": {
+  "nguon": "cắt từ bảng CHURCH_HALL_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "WAREHOUSE": {
+  "nguon": "cắt từ bảng WAREHOUSE_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "WAREHOUSE_DOCK": {
+  "nguon": "cắt từ bảng WAREHOUSE_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "WAREHOUSE_BREAK": {
+  "nguon": "cắt từ bảng WAREHOUSE_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "WAREHOUSE_CONVEYOR": {
+  "nguon": "cắt từ bảng WAREHOUSE_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:44"
+ },
+ "DEVIN_STUDIO": {
+  "nguon": "cắt từ bảng DEVIN_STUDIO_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "DEVIN_STUDIO_BED": {
+  "nguon": "cắt từ bảng DEVIN_STUDIO_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "DEVIN_STUDIO_DOOR": {
+  "nguon": "cắt từ bảng DEVIN_STUDIO_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "DEVIN_STUDIO_TABLE": {
+  "nguon": "cắt từ bảng DEVIN_STUDIO_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:53"
+ },
+ "BOWIE_HOUSE_DAY_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:45"
+ },
+ "BOWIE_PARTY_NIGHT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:48"
+ },
+ "BOWIE_HOUSE_MESSY_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:48"
+ },
+ "BOWIE_HOUSE_NIGHT_BANG": {
+  "nguon": "gen (Bigup)",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_KITCHEN_DAY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_DAY_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_DINING_DAY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_DAY_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "FOYER_STAIRS": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_DAY_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_SOFA_DAY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_DAY_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_KITCHEN_MESSY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_MESSY_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_DINING_MESSY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_MESSY_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_FOYER_MESSY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_MESSY_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_SOFA_MESSY": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_MESSY_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_KITCHEN_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_NIGHT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_DINING_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_NIGHT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_FOYER_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_NIGHT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_SOFA_NIGHT": {
+  "nguon": "cắt từ bảng BOWIE_HOUSE_NIGHT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "NIGHT_KITCHEN": {
+  "nguon": "cắt từ bảng BOWIE_PARTY_NIGHT_BANG ô 1",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "NIGHT_DINING": {
+  "nguon": "cắt từ bảng BOWIE_PARTY_NIGHT_BANG ô 2",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_PARTY_FOYER": {
+  "nguon": "cắt từ bảng BOWIE_PARTY_NIGHT_BANG ô 3",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
+ },
+ "BOWIE_PARTY_SOFA": {
+  "nguon": "cắt từ bảng BOWIE_PARTY_NIGHT_BANG ô 4",
+  "duyet": "chưa",
+  "luc": "02/11 21:49"
  }
 }

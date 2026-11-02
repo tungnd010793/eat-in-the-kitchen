@@ -45,6 +45,44 @@
   - Chưa ảnh: Sister Pearl lúc dự tiệc (C4, chỉ thấy ở toàn cảnh), bảo vệ nhà hàng (không thoại), khách và người nền.
 - **Quyết định:** **Tác giả chốt cả 98 ảnh lượt 2 như bản này (02/11/2026), giữ nguyên các điểm ghi chú.** Khi viết prompt video, cụm C63–C64 tả thêm chân tóc đen của Raven bằng chữ.
 
+## Ảnh bối cảnh — bảng 4 góc (chờ tác giả duyệt)
+
+### BC-01 · 26 bảng 4 góc cho 16 nơi quay
+- **Ngày:** 02/11/2026, 21:30–21:53
+- **Công cụ / model:** như NV-01 · **Gói:** trả phí
+- **Thiết lập:**
+  - Mỗi bảng là một ảnh 16:9 chia lưới 2×2. Bốn ô là bốn hướng nhìn của cùng một nơi, vẽ trong một lượt để chung tường, sàn, đồ đạc và ánh sáng. Tool tự cắt thành 4 panel làm ảnh tham chiếu riêng.
+  - Bốn tường khai theo chiều kim đồng hồ: ô k nhìn thẳng tường k, tường bên phải là tường k+1, bên trái là tường k−1. Mỗi ô ghi đủ tường xa; hai tường hai bên chỉ ghi mốc chính, để prompt không quá dài.
+  - **Bảng biến thể** (đêm, bừa bộn, tiệc, mùa tuyết, tháng Mười, cuối chiều) vẽ lại từ ảnh bảng gốc, giữ nguyên lưới và bày trí, chỉ đổi đúng phần ghi trong prompt. Có 9 bảng loại này.
+  - Look `GD+TC-35_54-US_DEN-16x9`, dòng phong cách bối cảnh ở mục 4 của `05_prompt/00_LOOK_MAU.md`.
+- **Tư liệu đầu vào:** chữ trong kịch bản. Claude đọc từng shot của 70 cụm, ghi mọi hướng máy và vị trí trái/phải, rồi dựng mặt bằng 4 tường khớp với tất cả. Bằng chứng từng câu, sơ đồ, bảng "câu kịch bản → panel" và 7 câu đời thực của mỗi nơi nằm ở `05_prompt/ghi-chu-dung/boi-canh-*.md`.
+- **Prompt:** khai báo bảng ở `05_prompt/anh/du_an.json` (khoá `bang_4_goc`), prompt đầy đủ từng bảng ở `05_prompt/anh/_prompt_rieng.json`, ô cắt ở `05_prompt/anh/_bang_4_goc.json`. Bảng ánh sáng theo nơi đã điền vào mục 4 của `05_prompt/00_LOOK_MAU.md`.
+- **Soát trước khi tạo:** `kiem_doi_thuc.py` báo 4 cảnh báo ở nhà Lot 7 (thiếu dấu hiệu đời thực). Claude thêm khăn móc len và đĩa kẹo bạc hà ở tiền sảnh, chậu gang đen trồng thường xuân ở bậc thềm; chạy lại còn 0 cảnh báo.
+- **Kết quả:** `09_media/ai-tao-ra/boi-canh/` — 26 ảnh bảng (`*_BANG.png`) + 104 panel + 7 ảnh xem nhanh `_XEM_NHANH_1…7`. 35 lần gọi cổng.
+  - Bảng nội thất nhà Bowie ban ngày lỗi tải về một lần, tạo lại cùng 3 bảng vẽ từ nó.
+  - Ba bảng tạo lại vì lệch màu (xem dưới).
+  - Maison Bayou thử tạo lại 2 lần không được.
+- **Đo màu** (`do_mau.py --so look.json`, xét từng file):
+  - Phần lớn bảng chỉ lệch chân đen bị nâng; để LUT xử lý khi dựng.
+  - Bảng đêm, phòng hầm và mặt tiền cuối chiều tối hơn mục tiêu, đúng chủ ý cảnh.
+  - Ba bảng lệch sáng/màu, đã sửa câu ánh sáng và tạo lại:
+    - Văn phòng bán nhà: sáng 63.8 → 57.5.
+    - Hành lang toà án: độ rực 19.9 → 17.6, hết ngả vàng.
+    - Phòng thuê của Devin: hết ám vàng.
+- **Đánh giá của Claude:**
+  - Cả 26 bảng đúng mặt bằng đã dựng. Các bảng cùng một nơi khớp nhau: nhà Bowie ngày / bừa bộn / tối / tiệc; mặt tiền ngày / đêm / tuyết; phòng họp ngày / đêm; Lot 7 tuyết / tháng Mười / cuối chiều; căn hộ Charlene ngày / đêm.
+  - Không chữ đọc được, không người.
+  - **Ghi chú:**
+    - Maison Bayou nhỏ hơn các bảng khác (panel ~630x355) và có viền xám rộng; nhiều khả năng do cổng tự chuyển sang model dự phòng. Hai lần tạo lại, model mặc định của cổng đều không tạo được, nên giữ bản này.
+    - Văn phòng bán nhà vẫn hơi sáng.
+- **Chỗ kịch bản lệch giờ / trái phải** (Claude ghi lại, chưa sửa kịch bản):
+  - C4–C11 tiệc lúc 19:00 ngày 26/09: trời mới chạng vạng, nhưng kịch bản tả cửa sổ tối. Bảng vẽ đêm hẳn.
+  - C33 lúc 18:00 ngày 09/10: trời còn sáng. Bảng dùng bảng tối.
+  - C53 giây 28–30: máy đặt cạnh cửa sổ nhìn về cửa thì giường phải ở mép phải khung, kịch bản ghi mép trái.
+  - C56: sofa giường "đã kéo ra", trong khi bảng đêm giữ sofa gấp. Prompt video sẽ tả sofa đã kéo ra.
+- **Chưa có ảnh:** phòng giặt nơi bà Marguerite ngủ (C10, 4 giây đầu). Nên làm thành ảnh đạo cụ / ảnh chèn riêng.
+- **Quyết định:** chờ tác giả duyệt.
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
