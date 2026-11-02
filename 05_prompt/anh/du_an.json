@@ -1,0 +1,68 @@
+{
+ "ten": "EAT IN THE KITCHEN",
+ "phong_cach": "Photoreal live-action character reference for a contemporary American family drama set in Prince George's County, Maryland, 16:9 production. Every skin tone true to life: rich warm brown skin, moisturized and luminous with soft natural highlights on the cheekbones and the bridge of the nose, detail in the shadows, never grey, ashy, orange or lightened; keep the exact skin depth described; normal human eyes, no glow; natural hairline, no visible lace or wig line. Colour and finish: camera white balance at neutral daylight, so warmth comes only from the practical lamps and the warm materials in the room, never from a global grade; whites read white; natural earthy saturation, not punchy and not washed out; moderate contrast, soft but present blacks, gentle highlight roll-off; real skin with pores, and fine lines only where the age calls for them. Anti-AI: photorealistic, looks like a real photograph taken on a real camera; camera white balance neutral so white objects render clean white, no overall yellow, amber, orange or sepia cast; true-to-life skin with visible pores and natural unevenness, not airbrushed, not plastic or waxy; natural lens sharpness, no oversharpening or edge halos; no HDR or tone-mapped look; no glow, bloom or haze on faces; highlights and shadows keep detail; colour comes from real objects and real light sources, not from a filter.",
+ "che_do_anh": "sheet",
+ "ti_le_video": "16:9",
+ "nhan_vat": {
+  "MARGUERITE": {
+   "tuoi": "66",
+   "mo_ta": "Black American woman from a Louisiana Creole family, 66 years old, warm chestnut-brown skin with warm red-gold undertones, moisturized and luminous with soft highlights on the cheekbones, real mature skin with fine lines at the eyes and soft laugh lines, an oval face with high cheekbones and a strong straight nose, deep-set intelligent dark-brown eyes (normal human eyes, no glow), full lips, a small visible gap between her two upper front teeth, natural salt-and-pepper curls cut at chin length and tucked behind both ears, natural hairline, slim upright build, a calm, dignified, watchful look",
+   "giong": "low, slow, steady voice of a 66-year-old Black woman from Louisiana with a soft Creole lilt; never shouts; every word lands",
+   "do": {
+    "M0": "her everyday house clothes as the family's unpaid housekeeper: a sage-green cotton house dress washed so many times the green has gone dull and patchy, falling just below the knee with a slightly uneven hem, a long beige knit cardigan pilled all over with both elbows worn thin and shiny, the sleeves pushed up to the forearms, a loose thread hanging from one cuff, flat grey house slippers with the backs trodden down, a faint old burn scar on the back of her left hand, no earrings, no necklace, no watch, nails cut short and unpainted, no makeup, bare lips; nothing she wears looks new or expensive"
+   }
+  },
+  "DEVIN": {
+   "tuoi": "38",
+   "mo_ta": "Black American man, 38 years old, deep brown skin with warm undertones, moisturized with a subtle natural sheen, never grey or ashy, a soft rounded jaw, a medium-wide nose, full lips, tired dark-brown eyes (normal human eyes, no glow) behind thin rectangular metal-frame glasses, clean-shaven and smooth, a low Caesar haircut with a neat lineup, average build slightly soft at the middle, an anxious, people-pleasing look",
+   "giong": "mid-range, hesitant voice of a 38-year-old Black American man from Maryland; apologetic, rushes his words, later slow and honest",
+   "do": {
+    "V0": "his at-home weekend clothes: a plain heather-grey henley with the top two buttons open, dark-wash straight jeans, grey slide sandals, the thin rectangular metal-frame glasses, no chain, no watch; neat, well-kept, no logos"
+   }
+  },
+  "RAVEN": {
+   "tuoi": "35",
+   "mo_ta": "Black American woman, 35 years old, rich brown skin with warm golden undertones, moisturized and luminous with soft highlights on the cheekbones, never grey or ashy, a heart-shaped face with sharp cheekbones, groomed arched brows, almond-shaped dark-brown eyes (normal human eyes, no glow), full lips, a sleek glossy chin-length bob dyed deep burgundy-brown with a deep side part, natural hairline, no visible lace, slim fit build, a cold, entitled, impatient look",
+   "giong": "sharp, fast, sing-song voice of a 35-year-old Black American woman from Maryland; sweet when she wants something, cutting when she doesn't",
+   "do": {
+    "R0": "a fitted burgundy ribbed-knit two-piece lounge set, a long-sleeve top and matching wide-leg pants, that looks brand-new and expensive, small sparkling diamond stud earrings, long almond-shaped nails in glossy pinkish-beige with a gold shimmer, a glossy brown lip, full lashes, fluffy cream faux-fur slippers, no logos"
+   }
+  },
+  "CHARLENE": {
+   "tuoi": "64",
+   "mo_ta": "Black American woman, 64 years old, warm medium-brown skin with golden undertones, moisturized and luminous, never grey or ashy, a round full face with soft jowls and laugh lines, thin plucked arched brows, dark-brown eyes (normal human eyes, no glow) behind black cat-eye glasses, short honey-brown curls set close to the head with a little silver showing at the roots, natural hairline, full-figured build, a proud, self-satisfied, judging look",
+   "giong": "loud, theatrical, churchy voice of a 64-year-old Black American woman from Maryland; says 'baby' and 'Lord'; booms like she is at the pulpit",
+   "do": {
+    "CH2": "a purple knit cardigan over a crisp white blouse buttoned to the collar, black pressed trousers, low black pumps, a black structured leather handbag on her forearm, small gold button earrings, a gold watch, plum lipstick, the black cat-eye glasses, no logos"
+   }
+  },
+  "INES": {
+   "tuoi": "45",
+   "mo_ta": "Black French woman of Senegalese family who grew up in Paris, 45 years old, warm honey-brown skin with golden undertones, moisturized and luminous with soft highlights on the cheekbones, never grey or ashy, a long elegant face with high cheekbones, a slim nose, calm wide-set dark-brown eyes (normal human eyes, no glow), a closely cropped natural black haircut, natural hairline, tall and slim, a composed, quietly amused look",
+   "giong": "low, calm voice of a 45-year-old Parisian woman speaking careful English with a French accent; never raises her voice",
+   "do": {
+    "I2": "quiet luxury with no logos: a fitted cream fine-knit dress with long sleeves falling below the knee, a camel wool wrap coat draped over her shoulders, small gold huggie earrings in both ears, a slim gold bangle, nude low heels, light natural makeup"
+   }
+  },
+  "PRENTICE": {
+   "tuoi": "58",
+   "mo_ta": "Black American man, 58 years old, very deep brown skin with neutral undertones, moisturized with a subtle sheen, never grey or ashy, a broad face with a strong brow, a shaved bald head with a soft shine, a short neatly trimmed salt-and-pepper goatee, dark-brown eyes (normal human eyes, no glow) above thin half-rim glasses, solid broad-shouldered build, a stern, measured, unreadable look",
+   "giong": "deep, slow, quiet voice of a 58-year-old Black American executive; short sentences, never wastes a word",
+   "do": {
+    "P1": "a well-cut charcoal three-button suit, a crisp white shirt, a solid navy tie, black leather oxfords, a simple steel watch, the thin half-rim glasses, no pocket square, no logos"
+   }
+  },
+  "ASHANTI": {
+   "tuoi": "28",
+   "mo_ta": "Black American woman, 28 years old, deep brown skin with warm red undertones, moisturized and luminous with soft highlights on the cheekbones and the bridge of the nose, never grey or ashy, a youthful oval face with a sharp jawline, bright alert dark-brown eyes (normal human eyes, no glow), full lips, long small knotless braids pulled into a high ponytail, neatly laid edges, natural hairline, slim neat build, an attentive, quietly sharp look",
+   "giong": "clear, crisp, professional voice of a 28-year-old Black American woman from Maryland; polite, direct, does not back down",
+   "do": {
+    "A1": "office clothes: a neat beige single-breasted blazer over a plain black crew-neck tee, black tailored trousers, black low block-heel pumps, a staff ID badge on a dark lanyard with no readable text, small gold stud earrings, soft natural makeup, short neat nails, no logos"
+   }
+  }
+ },
+ "boi_canh": {},
+ "dao_cu": {},
+ "bang_4_goc": {},
+ "cum": []
+}

@@ -1,0 +1,52 @@
+# DANH SÁCH MÃ SHA-256 ("dấu vân tay") CỦA MỌI FILE TRONG DỰ ÁN
+# Dự án           : EAT IN THE KITCHEN
+# Tác giả         : Nguyễn Đức Tùng <ndtung.aipro2024@gmail.com>
+# Lập lúc         : 2026-11-02 18:43:02 +07:00  (đồng hồ máy; thời điểm tin cậy: file .ots/.tsr cùng tên)
+# Commit trước đó : 37974966de7d9e37b2535cb6af1929f582c24f21
+# Số file         : 45
+# Tự kiểm tra     : mở Git Bash tại thư mục gốc dự án, chạy: sha256sum -c bang-chung/manifest/<tên file này>
+d57ea22a4532d009ee53ef5c3e18fec6f8ea02b2b9bf00f2a765f478aa905dcd *.gitattributes
+3fad291cc2ccbe507f460667a83e9407a26a0ed784558460c8aff3e1c9c36543 *.gitignore
+a44fb855214ed326507290605a32a1476099636fe16edeeff67b4a3f43572d29 *01_y-tuong-ban-dau.md
+eeda4b55237e76e270b5d39e10002e686f175aa005f877db1b192be870901803 *02_kich-ban-ban-nhap.md
+9e232d95ca34b7b462818abec76bd4a7c3a26594151ba8c38f1c629232af4c88 *03_kich-ban-chinh-sua.md
+8b261412898224fa0af7e5462934e9035eb0b367a96157eb7386adfa4e0e1bcc *04_kich-ban-chinh-thuc.md
+30b8ee3b0d85b73b27bf1ee296efe0e5f909a33a2d2b64f6a4c2d5bcecbd0cc5 *05_prompt-tao-video.md
+d9352336dac3f3ccc8732a3a1a36d4991d3d09dbe7c7ed907827d6acbe809ae4 *05_prompt/00_LOOK_MAU.md
+6ce5c31cd0df1e667ba29df30217fa91d690b0cb9234e9f67d004315788db6d9 *05_prompt/anh/_prompt_rieng.json
+a535418a5a874a0edc5cd9c868bda3b9d0b9428bb9a35bcc624e5cae5c15ebce *05_prompt/anh/_trang_thai.json
+bcbcdbc89088467f4ace088cd0beceb39f3fa40a118852ae1bf710028fe10b97 *05_prompt/anh/du_an.json
+3e55e2ef38bea04e241ec00b6915ac9384ab27b6b775727d33e811fb593e6d3d *05_prompt/look.json
+c2c58cdb6dbb2ebd6bb8936a23c897f6b6a00b55f9137b433ef4c8056663ef08 *06_tuyen-bo-ban-quyen.md
+f743e582e74facaf6376e36335a62f2c4c2fbcb9b355a584c4b2dea80c834690 *07_nhat-ky-sang-tao.md
+ce034df426881403abb330fbee87a60dce2990d7e56d1a964e7b1b9c6f49f350 *08_hoi-thoai-ai/HUONG-DAN.md
+c36fc10ec421a7e339266a020509608985125d0bcbea1a467bff7d8112d52790 *08_hoi-thoai-ai/claude-code/46331bc8-459b-493d-9f2b-2fdbfc528891.jsonl
+f23255f7a757502c968d8b62d20e374f2de0e5c3547b509aec21294dc1ad1560 *09_media/HUONG-DAN.md
+e89f37c6c4b426b1dfa0ef4c443475ea1b40bbf59178f8ccb61895b021ca3f31 *09_media/ai-tao-ra/nhan-vat/CHAR_ASHANTI_FACE.png
+0adda943a495364311eb588d739891d8665ad123c9d85ff8a0333a268fbf29b8 *09_media/ai-tao-ra/nhan-vat/CHAR_CHARLENE_FACE.png
+641b063340d53f8954570fefa9f1b132afe3ba1a5ef122ba0b4242e6e872e6c4 *09_media/ai-tao-ra/nhan-vat/CHAR_DEVIN_FACE.png
+b3e5004815710facae16147986cfec88ad0913bb6be19887a8d178dd1bb94842 *09_media/ai-tao-ra/nhan-vat/CHAR_INES_FACE.png
+773beaac7339d96f8fb126a44ca63e425acc101dcbb6c3123d617b5cd61548bb *09_media/ai-tao-ra/nhan-vat/CHAR_MARGUERITE_FACE.png
+82c6cc9330e3f110ed0a490a198fc56efe117954fd85434e278311f13e8aa8d9 *09_media/ai-tao-ra/nhan-vat/CHAR_PRENTICE_FACE.png
+906836962af3a089df01e4eb6ea3f6f31d94938b6d030c4c7169c3d86a9f1003 *09_media/ai-tao-ra/nhan-vat/CHAR_RAVEN_FACE.png
+f03d371e5b3d602660d2f5d43baae0d7a6b273120f1d0f9666907bf520aa8bd9 *09_media/ai-tao-ra/nhan-vat/OUTFIT_A1.png
+6620c2917acac4cca58015fadcbcbdcf7cc116cc5a639050e133c6ea05bce1fc *09_media/ai-tao-ra/nhan-vat/OUTFIT_CH2.png
+1d0772c92bd5cf738f8f7bde9ed6a261d2455fbb65d5ac8774e4a796560ba85a *09_media/ai-tao-ra/nhan-vat/OUTFIT_I2.png
+7569f62da3b475da68350611d5f6846e8bc0f365d0f6e5b255caddae14c3fc1a *09_media/ai-tao-ra/nhan-vat/OUTFIT_M0.png
+503f76632ff445c25c4fa50b66915379bd011e516fcc700c5bd5e4df7319e9cb *09_media/ai-tao-ra/nhan-vat/OUTFIT_P1.png
+8b2f209604d95e3492a6cfef1459398760b2f8800ec55afe6208cdee7ac1b904 *09_media/ai-tao-ra/nhan-vat/OUTFIT_R0.png
+4e331f7b7da6befb3c355c2c85c6f383ee224787435b1acd975f74b1b0363950 *09_media/ai-tao-ra/nhan-vat/OUTFIT_V0.png
+2492ff97539c538ad2144433ec487d3cf2c42a6950961e8c2b0f03ee1273337a *09_media/ai-tao-ra/nhan-vat/SHEET_ASHANTI_A1.png
+6e867d020e310cc3d537624a10e293c72c793860300c69ad634117b7f720059b *09_media/ai-tao-ra/nhan-vat/SHEET_CHARLENE_CH2.png
+8a3c5c00fd355fc523499a62cb0f7eb9c737fb89ce662aac02084fcefd5c6b13 *09_media/ai-tao-ra/nhan-vat/SHEET_DEVIN_V0.png
+3f51c2378859750b15168d80390e34b2b6267b9a4e629e2ef2d28305754ecdb6 *09_media/ai-tao-ra/nhan-vat/SHEET_INES_I2.png
+71c67f054fd0eab6245e5234b059ea4ba88249e4345dabb14569956c59968f0c *09_media/ai-tao-ra/nhan-vat/SHEET_MARGUERITE_M0.png
+92ef9ae5f7c7e27e5b4d66d2fee98a05a725b10c65e194692ae7a9fc24af6473 *09_media/ai-tao-ra/nhan-vat/SHEET_PRENTICE_P1.png
+78e5e0c45e6f73aed79f61869b5aa8b4810d2ae44f1825d4b09a3d79f5f50df1 *09_media/ai-tao-ra/nhan-vat/SHEET_RAVEN_R0.png
+67fe6dda86174248a8e283a2ec83ba5b5961eae34e4d774c9bd4e3b426e2e0c5 *09_media/ai-tao-ra/nhan-vat/_XEM_NHANH_1_marguerite-devin-raven-charlene.jpg
+d886c7e493d52d2700f8ac546fab3329c011ea5d7e52167b3643f858960ca357 *09_media/ai-tao-ra/nhan-vat/_XEM_NHANH_2_ines-prentice-ashanti.jpg
+c648a796106517eed9b8c857d8476d816ea813e47f619170de5b095929a76cf0 *CHOT-MOC.bat
+d6826a45c0c7b2945936750b42a6f6eeb8ea7919ba9aed83d17d93d3228d6394 *KIEM-TRA.bat
+109ae52aac42a3871a01e7c1b39dbb270259fdd056eb2c2f115ba538aa8e5ecf *LUU.bat
+ec6ac5de6ad1e2b545999c298fa9812db259070bdb1192a5e3d7d38697e638f1 *README.md
+d83f65f1ad676302409f3882f7a3d4867d9772a77758598dc97a1e11c0eac27b *du-an.json
