@@ -105,7 +105,8 @@
    "mo_ta": "Black American woman, about 65 years old, medium brown skin with golden undertones, moisturized and luminous, never grey or ashy, a round friendly face with laugh lines, bright dark-brown eyes (normal human eyes, no glow), silver braids gathered into a neat high bun, natural hairline, a medium build, a sharp-tongued, amused look",
    "giong": "bright, gossipy voice of a 65-year-old Black church lady from Maryland",
    "do": {
-    "SP2": "volunteering at the church soup kitchen in early spring: a plum-red knit cardigan coat over a cream blouse, a black skirt below the knee, black flat shoes, small gold hoop earrings, no logos"
+    "SP2": "volunteering at the church soup kitchen in early spring: a plum-red knit cardigan coat over a cream blouse, a black skirt below the knee, black flat shoes, small gold hoop earrings, no logos",
+    "SP1": "her Sunday-best for a birthday dinner: a plum-red skirt suit with a fitted jacket and a skirt below the knee, a small plum-red church hat with a short net veil folded up, small gold hoop earrings, low black pumps, a soft berry lipstick, no logos"
    }
   },
   "MANAGER": {
@@ -203,10 +204,75 @@
    "do": {
     "XV1": "her one interview outfit, old but carefully pressed: a grey blazer over a cream knit sweater, a black skirt below the knee, black low pumps, small gold stud earrings, no logos"
    }
+  },
+  "BOUNCER": {
+   "tuoi": "50",
+   "mo_ta": "Black American man, about 50 years old, the security guard of an upscale Louisiana Creole restaurant, deep brown skin with neutral undertones, moisturized with a subtle sheen, never grey or ashy, a broad calm face, a cleanly shaved head, a short neat grey goatee, dark-brown eyes (normal human eyes, no glow), a small black earpiece in one ear, a tall heavy build, a quiet, immovable look",
+   "giong": "low, calm, few-words voice of a 50-year-old Black American security guard",
+   "do": {
+    "BV1": "a black suit over a black dress shirt with no tie, black trousers, black polished shoes, a small black earpiece with a coiled clear cord in one ear, no name tag, no logos"
+   }
   }
  },
- "boi_canh": {},
- "dao_cu": {},
+ "boi_canh": {
+  "LAUNDRY_NIGHT": {
+   "mo_ta": "the small laundry room of the Bowie house seen through its open door at night",
+   "anh_sang": "one small bare bulb, kitchen light spilling in"
+  }
+ },
+ "dao_cu": {
+  "BURGUNDY_BAG": {
+   "mo_ta": "a structured top-handle handbag in smooth deep burgundy leather with a polished gold turn-lock clasp and gold feet, a short rolled handle and a detachable thin shoulder strap, crisp expensive shape, no logo, no monogram, brand-new and glossy"
+  },
+  "BLACK_BAG": {
+   "mo_ta": "a brand-new structured top-handle handbag in glossy patent black leather with a polished gold turn-lock clasp, a short rolled handle, crisp boxy shape, a little white tissue paper still tucked at one side, no logo, no monogram"
+  },
+  "FLIP_PHONE": {
+   "mo_ta": "an old silver flip phone from the 2000s, half open at an angle, the silver paint scratched and worn through to grey plastic at the edges and hinge, small dark screen switched off, rubbery number keys with the markings rubbed faint, clearly cheap and long used"
+  },
+  "LOUISIANA_FRAME": {
+   "mo_ta": "a small 5x7 wooden picture frame of plain honey-coloured wood, its glass cracked in one long diagonal line corner to corner; behind the glass a faded colour family snapshot of a modest one-story Creole cottage in rural Louisiana: pale butter-yellow painted wood siding, a deep front porch under a tin roof held up by four slim white wooden posts, a porch swing, the house raised on low brick piers, a small yard with a picket gate, a big live oak draped with Spanish moss beside it; a small working family's home, not a mansion, not a plantation house, no tall columns; no text in the photo"
+  },
+  "LOUISIANA_FRAME_NEW": {
+   "mo_ta": "the same small wooden picture frame and the same faded snapshot of the modest pale-yellow Creole cottage with the porch and the live oak, now with new clear unbroken glass"
+  },
+  "CANVAS_SUITCASE": {
+   "mo_ta": "an old upright rolling suitcase of tan-brown canvas with darker brown leather corners, a wide brown leather strap buckled around its middle, the zipper closed, scuffed wheels, worn edges and a faded patch on the front, decades old but cared for"
+  },
+  "KRAFT_ENVELOPE": {
+   "mo_ta": "a large brown kraft paper document envelope, about 10 by 13 inches, thick with papers inside, the flap closed with a red string wound around two cardboard buttons, slightly creased corners, no writing on it"
+  },
+  "GATE_KEYS": {
+   "mo_ta": "a key ring with three new brass house keys and a white plastic gate access fob card the size of a credit card with a punched hole, the card plain white with no text, lying flat"
+  },
+  "GUMBO_POT": {
+   "mo_ta": "a large old black cast-iron Dutch oven, seasoned and slightly worn on the rim, lid off and leaning against it, full of dark brown Louisiana gumbo with sliced okra, shrimp and rounds of smoked sausage, steam rising"
+  },
+  "BLUE_RIM_BOWL": {
+   "mo_ta": "a plain round white porcelain soup bowl with a thin blue line around the rim, one small chip on the rim, empty and clean, an everyday bowl that has been used for years"
+  },
+  "PROPOSAL": {
+   "mo_ta": "a thick 40-page business proposal printed on white paper, bound with a black plastic comb binding and a clear plastic front cover, the pages dense with small print that is not readable, lying slightly fanned"
+  },
+  "HOSPITAL_BADGE": {
+   "mo_ta": "an old hospital staff ID badge in a scratched clear plastic sleeve on a faded green woven lanyard; the white card shows a small colour ID photo of the woman from the uploaded image as she looked at about 45 years old: smooth skin with no deep lines, black curly hair with no grey, the same face shape, eyes, nose and the small gap between her front teeth, a slight professional smile; the rest of the card is plain blocks of colour with no readable text; the plastic is yellowed at the edges from age"
+  },
+  "GOLD_WATCH": {
+   "mo_ta": "an open small dark-plum velvet jewellery box holding a women's gold wristwatch with a slim gold link bracelet and a small round champagne dial with plain gold markers and no numerals, no brand name"
+  },
+  "LIVESTREAM_RIG": {
+   "mo_ta": "a black smartphone mounted on a black three-axis handheld gimbal stabiliser, a small black clip-on microphone with a foam cover attached to the phone mount, the phone screen dark"
+  },
+  "RECIPE_CARD": {
+   "mo_ta": "an old handwritten recipe card on yellowed paper, soft creases and a grease stain at one corner, slanted cursive handwriting in faded blue ink that cannot be read, propped against a small glass salt jar"
+  },
+  "EIGHT_ENVELOPES": {
+   "mo_ta": "a neat stack of eight plain white letter envelopes, all sealed with the flaps never opened, held together crosswise by a beige rubber band, no writing on any envelope"
+  },
+  "DESK_BOX": {
+   "mo_ta": "an open plain brown cardboard box packed with a few desk belongings: a white ceramic mug, a small framed photo lying face down, a tiny potted cactus, and a stack of loose papers, no writing visible"
+  }
+ },
  "bang_4_goc": {
   "BOWIE_HOUSE_DAY_BANG": {
    "boi_canh": [],

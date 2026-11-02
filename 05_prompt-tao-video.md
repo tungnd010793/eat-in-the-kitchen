@@ -45,7 +45,7 @@
   - Chưa ảnh: Sister Pearl lúc dự tiệc (C4, chỉ thấy ở toàn cảnh), bảo vệ nhà hàng (không thoại), khách và người nền.
 - **Quyết định:** **Tác giả chốt cả 98 ảnh lượt 2 như bản này (02/11/2026), giữ nguyên các điểm ghi chú.** Khi viết prompt video, cụm C63–C64 tả thêm chân tóc đen của Raven bằng chữ.
 
-## Ảnh bối cảnh — bảng 4 góc (chờ tác giả duyệt)
+## Ảnh bối cảnh — bảng 4 góc (tác giả đã chốt 02/11/2026)
 
 ### BC-01 · 26 bảng 4 góc cho 16 nơi quay
 - **Ngày:** 02/11/2026, 21:30–21:53
@@ -81,6 +81,33 @@
   - C53 giây 28–30: máy đặt cạnh cửa sổ nhìn về cửa thì giường phải ở mép phải khung, kịch bản ghi mép trái.
   - C56: sofa giường "đã kéo ra", trong khi bảng đêm giữ sofa gấp. Prompt video sẽ tả sofa đã kéo ra.
 - **Chưa có ảnh:** phòng giặt nơi bà Marguerite ngủ (C10, 4 giây đầu). Nên làm thành ảnh đạo cụ / ảnh chèn riêng.
+- **Quyết định:** **Tác giả chốt cả 26 bảng (104 panel) như bản này (02/11/2026), giữ nguyên các điểm ghi chú.** Khi viết prompt video, những chỗ kịch bản lệch giờ / trái phải ở trên sẽ được xử lý bằng chữ trong prompt.
+
+## Ảnh còn thiếu — đạo cụ, ảnh chèn phòng giặt, hai nhân vật phụ (chờ tác giả duyệt)
+
+### DC-01 · 17 đạo cụ, phòng giặt (C10), Sister Pearl dự tiệc, bảo vệ nhà hàng
+- **Ngày:** 02/11/2026, 22:52–23:00
+- **Công cụ / model:** như NV-01 · **Gói:** trả phí
+- **Thiết lập:**
+  - **Đạo cụ:** ảnh 1536x1024 trên nền xám nhạt trơn, ánh sáng studio một bên, không tay, không người, không chữ, không logo.
+  - **Khung ảnh kính mới (C66):** vẽ lại từ chính ảnh khung kính nứt, chỉ thay kính.
+  - **Thẻ bệnh viện cũ:** lấy ảnh mặt Marguerite đã chốt làm gốc cho ảnh nhỏ trên thẻ.
+  - **Phòng giặt:** ảnh chèn 16:9, vẽ từ panel `NIGHT_KITCHEN` (cùng cánh cửa gỗ hẹp, cùng đêm tiệc) và ảnh vali. Chỉ có một hướng nhìn qua cửa, nên không làm bảng 4 góc.
+  - **Hai nhân vật phụ:** Sister Pearl dự tiệc (SP1) dựng từ bảng SP2 đã chốt, giữ đúng mặt. Bảo vệ nhà hàng (BV1) dựng mặt → đồ → bảng, như NV-02.
+- **Tư liệu đầu vào:** chữ trong kịch bản (C1–C3 túi đỏ rượu, C10 phòng giặt và vali, C11 / C32 / C66 khung ảnh Louisiana, C12–C51 điện thoại nắp gập, C21–C30 xấp đề án, C36–C43 phong bì kraft và chìa khoá, C44 đồng hồ vàng, C44–C49 túi đen mới, C47–C48 thùng đồ, C51–C53 thẻ bệnh viện, C57–C62 bộ livestream, C67 tờ công thức, C4–C9 / C70 nồi gang và bát sứ viền xanh, C70 tám phong bì).
+- **Prompt:** `05_prompt/anh/du_an.json` (khoá `dao_cu`, `boi_canh.LAUNDRY_NIGHT`, nhân vật `PEARL.SP1`, `BOUNCER`), `05_prompt/anh/_prompt_rieng.json`, `05_prompt/anh/_goc_rieng.json`.
+- **Kết quả:**
+  - `09_media/ai-tao-ra/dao-cu/`: 17 `PROP_*.png` + 2 ảnh xem nhanh.
+  - `09_media/ai-tao-ra/boi-canh/LOC_LAUNDRY_NIGHT.png` + `_XEM_NHANH_8_phong-giat.jpg`.
+  - `09_media/ai-tao-ra/nhan-vat/`: `CHAR_BOUNCER_FACE`, `OUTFIT_SP1`, `OUTFIT_BV1`, `SHEET_PEARL_SP1`, `SHEET_BOUNCER_BV1` + `_XEM_NHANH_9`.
+  - 26 lần gọi cổng, không lỗi.
+- **Đánh giá & sửa:**
+  - **Khung ảnh Louisiana, lần đầu:** ảnh trong khung ra một dinh thự kiểu đồn điền cột trắng. Hình ảnh này sai kịch bản ("căn nhà gỗ sơn vàng nhạt có hiên trước") và gợi liên tưởng nặng nề với một gia đình Creole da đen. Claude sửa prompt thành nhà gỗ một tầng của gia đình lao động: vàng bơ, hiên mái tôn, cột mảnh, xích đu, cây sồi rủ rêu; ghi rõ "not a plantation house". Tạo lại cả hai bản kính nứt và kính mới.
+  - **Thẻ bệnh viện, lần đầu:** ảnh thẻ ra bà gần bằng tuổi hiện tại. Đã sửa thành khoảng 45 tuổi, tóc đen, và tạo lại.
+  - Các ảnh khác đạt ngay lần đầu.
+  - **Ghi chú:**
+    - Ảnh nhỏ trong khung trên bảng `LOT7_WORK` và `BASEMENT_TABLE` vẫn là nhà kiểu cũ. Cảnh cận khung ảnh sẽ gửi ảnh đạo cụ mới.
+    - Bảo vệ nhà hàng (đầu trọc, râu dê bạc, đúng kịch bản) hơi giống Prentice; hai người không xuất hiện cùng nơi.
 - **Quyết định:** chờ tác giả duyệt.
 
 ## Cảnh 1 — [tên cảnh]
