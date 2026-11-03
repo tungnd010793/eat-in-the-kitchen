@@ -29,3 +29,6 @@
 ### 03/11/2026 11:25
 - **Đã làm / quyết định:** tạo xong prompt tạo video
 - **File thay đổi:** `05_prompt/anh/_ten_anh.json`, `05_prompt/video_zh/QUY_CHUAN_VIET.md`, `05_prompt/video_zh/anh_tham_chieu.json`, `05_prompt/video_zh/bible.json`, `05_prompt/video_zh/cong_cu/build_briefs.py`, `05_prompt/video_zh/cong_cu/build_du_an.py`, `05_prompt/video_zh/cong_cu/kiem_le.py`, `05_prompt/video_zh/cong_cu/merge_refs_moi.py`, `05_prompt/video_zh/data/boi_canh_A.json`, `05_prompt/video_zh/data/boi_canh_B.json`, `05_prompt/video_zh/data/boi_canh_C.json`, `05_prompt/video_zh/data/nhan_vat_chinh.json`, `05_prompt/video_zh/data/panels_A.json`, `05_prompt/video_zh/data/panels_C.json`, `05_prompt/video_zh/data/phu_dao_cu.json`, `05_prompt/video_zh/nguoi_nen.json`, `05_prompt/video_zh/prompt/cum_001.txt`, `05_prompt/video_zh/prompt/cum_002.txt`, `05_prompt/video_zh/prompt/cum_003.txt`, `05_prompt/video_zh/prompt/cum_004.txt` … và 139 file khác
+
+### 03/11/2026 11:26
+- **Đã làm / quyết định:** CHỐT MỐC: tạo xong ảnh nhân vật, prompt tạo video
