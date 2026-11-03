@@ -1,0 +1,2416 @@
+{
+ "1": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Don't touch my bag! That bag costs more than you.",
+   "vi": "Đừng đụng vào túi tôi!\nCái túi đó còn đắt hơn bà."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "It was dusty. The cloth is new.",
+   "vi": "Nó bám bụi. Khăn này mới mà."
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Your hands aren't clean.",
+   "vi": "Tay bà có sạch đâu."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "These hands raised your husband.",
+   "vi": "Đôi tay này nuôi chồng cô khôn lớn."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Devin! Come get your mother!",
+   "vi": "Devin! Ra mà lo cho mẹ anh đi!"
+  }
+ ],
+ "2": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Your mother had her hands on my bag.",
+   "vi": "Mẹ anh vừa sờ vào túi của em."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Mama, just leave her things alone.",
+   "vi": "Mẹ, đừng đụng vào đồ của cô ấy nữa."
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "I cook every meal. I wash every shirt.",
+   "vi": "Bữa nào cũng mẹ nấu. Áo nào cũng mẹ giặt."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "My mother has her pension. You just live off us.",
+   "vi": "Mẹ tôi có lương hưu.\nCòn bà chỉ ăn bám chúng tôi."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Can we not do this? Please, Mama.",
+   "vi": "Đừng cãi nhau nữa được không? Con xin mẹ."
+  }
+ ],
+ "3": [
+  {
+   "shot": 1,
+   "noi": "CHARLENE",
+   "en": "Happy birthday to me! Dinner here tonight.",
+   "vi": "Chúc mừng sinh nhật tôi!\nTối nay ăn tiệc ở đây."
+  },
+  {
+   "shot": 2,
+   "noi": "CHARLENE",
+   "en": "Steam my suit. Seven o'clock. No wrinkles.",
+   "vi": "Là hơi bộ vest cho tôi.\nBảy giờ. Không được nhăn."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Elle sent la friture.",
+   "vi": "(tiếng Pháp) Bà ta hôi mùi dầu mỡ."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "What did you say?",
+   "vi": "Em nói gì thế?"
+  },
+  {
+   "shot": 6,
+   "noi": "RAVEN",
+   "en": "I said she stinks like grease.",
+   "vi": "Em bảo bà ta hôi mùi dầu mỡ."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Mama, the steamer's in the laundry room.",
+   "vi": "Mẹ, máy là hơi ở trong phòng giặt đấy."
+  }
+ ],
+ "4": [
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Not that chair. Your plate's in the kitchen.",
+   "vi": "Không phải ghế đó. Đĩa của bà ở trong bếp."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Devin. It's my birthday too.",
+   "vi": "Devin. Hôm nay cũng là sinh nhật mẹ mà."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "I forgot. I'll get you a cupcake tomorrow.",
+   "vi": "Con quên mất.\nMai con mua bánh cupcake cho mẹ."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "Today is MY day, Marguerite. Serve the gumbo.",
+   "vi": "Hôm nay là ngày của TÔI, Marguerite.\nDọn gumbo ra."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "She cooks. That's what she's for.",
+   "vi": "Bà ta lo nấu ăn. Bà ta chỉ để làm việc đó."
+  }
+ ],
+ "5": [
+  {
+   "shot": 1,
+   "noi": "CHARLENE",
+   "en": "Thirty years I taught French. Listen to this.",
+   "vi": "Tôi dạy tiếng Pháp ba mươi năm. Nghe này."
+  },
+  {
+   "shot": 2,
+   "noi": "CHARLENE",
+   "en": "Elle mange dans la cuisine.",
+   "vi": "(tiếng Pháp) Bà ta ăn trong bếp."
+  },
+  {
+   "shot": 3,
+   "noi": "CHARLENE",
+   "en": "In English? The help eats in the kitchen.",
+   "vi": "Dịch nhé? Người làm thì ăn trong bếp."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "Relax, y'all. She doesn't understand a word.",
+   "vi": "Thôi nào mọi người.\nBà ta có hiểu chữ nào đâu."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Mama, please. Just go eat.",
+   "vi": "Mẹ, con xin mẹ. Mẹ cứ đi ăn đi."
+  },
+  {
+   "shot": 8,
+   "noi": "CHARLENE",
+   "en": "Easy, Marguerite. Don't ruin my party.",
+   "vi": "Bình tĩnh, Marguerite.\nĐừng phá tiệc của tôi."
+  }
+ ],
+ "6": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "Elle sent la friture. She smells like grease.",
+   "vi": "(tiếng Pháp) Bà ta hôi mùi dầu mỡ."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "Elle mange dans la cuisine. She eats in the kitchen.",
+   "vi": "(tiếng Pháp) Bà ta ăn trong bếp."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "I understood every word.",
+   "vi": "Tôi hiểu hết từng chữ."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "A maid who speaks French?",
+   "vi": "Người giúp việc mà biết tiếng Pháp?"
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Twenty years a French interpreter. Courts. Hospitals.",
+   "vi": "Hai mươi năm phiên dịch tiếng Pháp.\nỞ toà án. Ở bệnh viện."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "Interpreter? You scrub my floors!",
+   "vi": "Phiên dịch? Bà là đứa lau sàn nhà tôi!"
+  }
+ ],
+ "7": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "Charlene, vous avez enseigne le francais combien d'annees?",
+   "vi": "(tiếng Pháp) Charlene, bà dạy tiếng Pháp\nbao nhiêu năm rồi?"
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "I asked how long you taught French. You can't answer?",
+   "vi": "Tôi hỏi bà dạy tiếng Pháp bao lâu.\nBà không trả lời được à?"
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "I'm... a little rusty.",
+   "vi": "Tôi... hơi lụt nghề một chút."
+  },
+  {
+   "shot": 6,
+   "noi": "BERNICE",
+   "en": "Thirty years, Charlene? Answer the woman.",
+   "vi": "Ba mươi năm hả Charlene?\nTrả lời người ta đi."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "Then why do you live off my husband?",
+   "vi": "Thế sao bà lại ăn bám chồng tôi?"
+  }
+ ],
+ "8": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "My house in Louisiana paid your down payment.",
+   "vi": "Nhà tôi ở Louisiana trả tiền cọc\ncho căn nhà của cô."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "Ask your husband. He was there.",
+   "vi": "Hỏi chồng cô đi. Nó có mặt lúc đó."
+  },
+  {
+   "shot": 3,
+   "noi": "DEVIN",
+   "en": "Mama, not in front of the guests.",
+   "vi": "Mẹ, đừng nói trước mặt khách."
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "Without my daughter, you'd be homeless.",
+   "vi": "Không có con gái tôi, bà đã ra đường mà ở."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Without my house, she'd be renting.",
+   "vi": "Không có nhà tôi, con bà giờ vẫn đi thuê."
+  }
+ ],
+ "9": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Birthday gumbo? Not in my kitchen.",
+   "vi": "Gumbo sinh nhật à? Bếp của tôi thì không."
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "You'd waste good food just to hurt me.",
+   "vi": "Cô phí cả đồ ăn ngon chỉ để làm tôi đau."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "Get out of my house. Tonight.",
+   "vi": "Cút khỏi nhà tôi. Ngay tối nay."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Gladly.",
+   "vi": "Rất sẵn lòng."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Mama, wait. Let's all calm down.",
+   "vi": "Mẹ, khoan đã. Mọi người bình tĩnh đi."
+  }
+ ],
+ "10": [
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Mama, apologize and this is over.",
+   "vi": "Mẹ xin lỗi đi là xong chuyện."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Apologize for what? For understanding French?",
+   "vi": "Xin lỗi vì cái gì?\nVì mẹ hiểu tiếng Pháp à?"
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Follow her, Devin, and we're done.",
+   "vi": "Anh mà đi theo bà ta là chúng ta xong."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "Good. Now we can eat.",
+   "vi": "Tốt. Giờ thì ăn được rồi."
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "Enjoy your dinner. I cooked all of it.",
+   "vi": "Chúc ngon miệng. Tất cả là tôi nấu đấy."
+  }
+ ],
+ "11": [
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "You forgot your trash.",
+   "vi": "Bà quên đống rác của bà này."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Inside, Devin. Now.",
+   "vi": "Vào nhà, Devin. Ngay."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "My house. I sold it for him.",
+   "vi": "Nhà của tôi. Tôi bán nó vì thằng bé."
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "Two hundred twelve dollars.",
+   "vi": "Hai trăm mười hai đô."
+  },
+  {
+   "shot": 9,
+   "noi": "MARGUERITE",
+   "en": "Happy birthday, Marguerite.",
+   "vi": "Chúc mừng sinh nhật, Marguerite."
+  }
+ ],
+ "12": [
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Devin. Look at the cashier.",
+   "vi": "Devin. Nhìn người thu ngân kìa."
+  },
+  {
+   "shot": 3,
+   "noi": "DEVIN",
+   "en": "Is that... Mama?",
+   "vi": "Đó là... mẹ à?"
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "One week out of my house, and she's on minimum wage.",
+   "vi": "Ra khỏi nhà em được một tuần,\nbà ta đã đi làm lương tối thiểu."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Takeout again, Devin? Nobody cooks for you now.",
+   "vi": "Lại mua đồ ăn sẵn à, Devin?\nGiờ đâu còn ai nấu cho con."
+  }
+ ],
+ "13": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Mama, what are you wearing? What if the neighbors see?",
+   "vi": "Mẹ mặc cái gì thế này?\nHàng xóm thấy thì sao?"
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "I earn my money with my own hands.",
+   "vi": "Mẹ kiếm tiền bằng chính đôi tay mình."
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "If this ends up online, Devin, I'm done.",
+   "vi": "Chuyện này mà lên mạng,\nDevin, là em bỏ anh."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "Come home. Say sorry to Charlene.",
+   "vi": "Về nhà đi mẹ. Xin lỗi bà Charlene đi."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Laundry's piling up. And Devin can't cook.",
+   "vi": "Đồ giặt chất đống rồi.\nMà Devin thì không biết nấu."
+  }
+ ],
+ "14": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "I stayed three years for my son. Not as your maid.",
+   "vi": "Tôi ở lại ba năm vì con trai tôi.\nKhông phải làm người ở cho cô."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "Come home to cook and clean for you? No.",
+   "vi": "Về nhà nấu nướng, dọn dẹp cho cô à?\nKhông."
+  },
+  {
+   "shot": 3,
+   "noi": "DEVIN",
+   "en": "Come on, Mama. Don't make this hard.",
+   "vi": "Thôi mà mẹ. Đừng làm khó nhau."
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "You made it hard, Devin. On my birthday.",
+   "vi": "Là con làm khó, Devin. Ngay sinh nhật mẹ."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "Let her starve. She'll come back in a week.",
+   "vi": "Kệ bà ta chết đói. Một tuần là mò về."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Sorry for the wait. Next, please.",
+   "vi": "Xin lỗi để quý khách chờ.\nMời người tiếp theo."
+  }
+ ],
+ "15": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "Non, non... elle ne passe pas.",
+   "vi": "(tiếng Pháp) Không, không...\nthẻ không qua được."
+  },
+  {
+   "shot": 2,
+   "noi": "INES",
+   "en": "Sorry. My card, it does not go through.",
+   "vi": "Xin lỗi. Thẻ của tôi, nó không qua được."
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "Well. The maid found a job.",
+   "vi": "Chà. Người ở tìm được việc rồi cơ đấy."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "Move. I taught French for thirty years.",
+   "vi": "Tránh ra. Tôi dạy tiếng Pháp ba mươi năm."
+  },
+  {
+   "shot": 7,
+   "noi": "CHARLENE",
+   "en": "Go on, honey. Talk to me in French.",
+   "vi": "Nói đi cưng. Nói tiếng Pháp với tôi này."
+  }
+ ],
+ "16": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "Ma banque bloque les cartes etrangeres.",
+   "vi": "(tiếng Pháp) Ngân hàng tôi chặn\nthẻ nước ngoài."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "She says her bank blocks foreign cards.",
+   "vi": "Bà ấy nói ngân hàng chặn thẻ nước ngoài."
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "I... think I left my stove on.",
+   "vi": "Tôi... hình như tôi quên tắt bếp."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Je vais payer pour vous.",
+   "vi": "(tiếng Pháp) Để tôi trả giúp bà."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "I'll pay for her. It's sixty dollars.",
+   "vi": "Tôi trả cho bà ấy. Sáu mươi đô."
+  }
+ ],
+ "17": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "Thank you. I'm Ines. I'll pay you back.",
+   "vi": "Cảm ơn bà. Tôi là Inès.\nTôi sẽ trả lại bà."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "No need. I can spare sixty dollars.",
+   "vi": "Không cần đâu. Sáu mươi đô tôi lo được."
+  },
+  {
+   "shot": 3,
+   "noi": "INES",
+   "en": "My company needs a French translator. Your name? Your number?",
+   "vi": "Công ty tôi cần người dịch tiếng Pháp.\nTên bà? Số điện thoại?"
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "Marguerite Batiste.",
+   "vi": "Marguerite Batiste."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "My number. Call anytime.",
+   "vi": "Số của tôi. Gọi lúc nào cũng được."
+  },
+  {
+   "shot": 8,
+   "noi": "INES",
+   "en": "A flip phone. I like you already.",
+   "vi": "Điện thoại nắp gập. Tôi thích bà rồi đấy."
+  }
+ ],
+ "18": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Mama. Thank you for coming.",
+   "vi": "Mẹ. Cảm ơn mẹ đã đến."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "I'm on my lunch break. Make it quick.",
+   "vi": "Mẹ đang nghỉ trưa. Nói nhanh lên."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Don't sit. You'll get the couch dirty.",
+   "vi": "Đừng ngồi. Bà làm bẩn ghế sofa đấy."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Charlene saw you help a French lady. My company needs a translator.",
+   "vi": "Bà Charlene thấy mẹ giúp bà người Pháp.\nCông ty con cần phiên dịch."
+  },
+  {
+   "shot": 7,
+   "noi": "CHARLENE",
+   "en": "She knows a few words. Nothing like me.",
+   "vi": "Bà ta biết vài chữ thôi. Sao bằng tôi."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "A French company. Big meeting. Monday morning.",
+   "vi": "Công ty Pháp. Cuộc họp lớn. Sáng thứ Hai."
+  }
+ ],
+ "19": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Here's the deal. Apologize to my mother.",
+   "vi": "Thoả thuận thế này. Xin lỗi mẹ tôi đi."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Move back in. Pay toward the mortgage.",
+   "vi": "Dọn về đây. Góp tiền trả nợ nhà."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "So I can be your maid again? No.",
+   "vi": "Để tôi lại làm người ở cho cô à? Không."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Just say sorry, Mama. It's one word.",
+   "vi": "Mẹ cứ xin lỗi đi. Một chữ thôi mà."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "Maid? We let you live here for free.",
+   "vi": "Người ở á?\nBọn tôi cho bà ở đây miễn phí đấy."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "Fine. Then Devin has a paper for you.",
+   "vi": "Được. Vậy Devin có tờ giấy cho bà đây."
+  }
+ ],
+ "20": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "You told ten people this house is yours. Sign this.",
+   "vi": "Bà kể với cả chục người nhà này\nlà của bà. Ký đi."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Sign. You give up this house. Or you're not my mother.",
+   "vi": "Ký đi. Mẹ từ bỏ căn nhà này.\nKhông thì mẹ không còn là mẹ con."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "I signed. Never come to me for money. Never.",
+   "vi": "Mẹ ký rồi. Đừng bao giờ tìm mẹ xin tiền.\nKhông bao giờ."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Find yourself another translator, Devin.",
+   "vi": "Đi mà tìm người phiên dịch khác, Devin."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "Finally. This house is ours.",
+   "vi": "Cuối cùng. Nhà này là của chúng ta."
+  }
+ ],
+ "21": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Forty pages. In French. By tomorrow morning.",
+   "vi": "Bốn mươi trang. Tiếng Pháp.\nSáng mai phải xong."
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Mama, you froze at dinner. And ran out of the market.",
+   "vi": "Mẹ, mẹ đứng hình ở bữa tiệc.\nRồi bỏ chạy khỏi siêu thị."
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "Nobody at his job reads French. Use the translator app.",
+   "vi": "Công ty nó chẳng ai đọc được tiếng Pháp.\nDùng app dịch đi."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "The app does it in one minute. Nobody will know.",
+   "vi": "App dịch một phút là xong.\nChẳng ai biết đâu."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "If this works, Devin gets me the new bag.",
+   "vi": "Vụ này êm thì Devin mua túi mới cho con."
+  }
+ ],
+ "22": [
+  {
+   "shot": 1,
+   "noi": "PRENTICE",
+   "en": "The French team arrives at nine fifteen.",
+   "vi": "Đoàn Pháp tới lúc chín giờ mười lăm."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "We're ready, sir. My mother-in-law is a retired French teacher.",
+   "vi": "Chúng tôi sẵn sàng rồi, thưa ông.\nMẹ vợ tôi là giáo viên tiếng Pháp về hưu."
+  },
+  {
+   "shot": 3,
+   "noi": "PRENTICE",
+   "en": "Good. Your mother-in-law will interpret. Live.",
+   "vi": "Tốt. Mẹ vợ anh sẽ phiên dịch. Trực tiếp."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Live?",
+   "vi": "Trực tiếp ạ?"
+  },
+  {
+   "shot": 5,
+   "noi": "PRENTICE",
+   "en": "No reading. They speak, she translates.",
+   "vi": "Không đọc giấy. Họ nói, bà ấy dịch."
+  },
+  {
+   "shot": 7,
+   "noi": "CHARLENE",
+   "en": "Of course. I taught it thirty years. Easy.",
+   "vi": "Tất nhiên. Tôi dạy ba mươi năm. Dễ thôi."
+  }
+ ],
+ "23": [
+  {
+   "shot": 1,
+   "noi": "PRENTICE",
+   "en": "Ms. Diallo. Welcome to Keystone.",
+   "vi": "Bà Diallo. Chào mừng bà đến Keystone."
+  },
+  {
+   "shot": 2,
+   "noi": "INES",
+   "en": "Thank you. Shall we begin?",
+   "vi": "Cảm ơn. Chúng ta bắt đầu chứ?"
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "Lord, no. Not her.",
+   "vi": "Lạy Chúa, không. Đừng là bà ta."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "Who? Mama, who is she?",
+   "vi": "Ai cơ? Mẹ, bà ta là ai?"
+  },
+  {
+   "shot": 6,
+   "noi": "INES",
+   "en": "We have met, I think. At the market?",
+   "vi": "Hình như ta gặp nhau rồi. Ở siêu thị?"
+  },
+  {
+   "shot": 7,
+   "noi": "CHARLENE",
+   "en": "No. You must be thinking of someone else.",
+   "vi": "Không. Chắc bà nhầm người rồi."
+  }
+ ],
+ "24": [
+  {
+   "shot": 1,
+   "noi": "CHARLENE",
+   "en": "Our battery... is very hot... and very friendly.",
+   "vi": "Pin của chúng tôi... rất nóng...\nvà rất thân thiện."
+  },
+  {
+   "shot": 2,
+   "noi": "INES",
+   "en": "Qui a ecrit ceci? Une machine?",
+   "vi": "(tiếng Pháp) Ai viết cái này? Máy à?"
+  },
+  {
+   "shot": 3,
+   "noi": "PRENTICE",
+   "en": "Mrs. Lyles? What did she say?",
+   "vi": "Bà Lyles? Bà ấy nói gì?"
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "She says... she likes... our pictures?",
+   "vi": "Bà ấy nói... bà ấy thích...\nhình ảnh của chúng ta?"
+  },
+  {
+   "shot": 5,
+   "noi": "INES",
+   "en": "I asked if a machine wrote this.",
+   "vi": "Tôi hỏi có phải máy viết cái này không."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Mama, say something. Anything!",
+   "vi": "Mẹ, nói gì đi. Gì cũng được!"
+  }
+ ],
+ "25": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "Your interpreter does not understand one word.",
+   "vi": "Phiên dịch của các ông\nkhông hiểu nổi một chữ."
+  },
+  {
+   "shot": 2,
+   "noi": "CHARLENE",
+   "en": "I... the app must be broken.",
+   "vi": "Tôi... chắc cái app bị hỏng."
+  },
+  {
+   "shot": 3,
+   "noi": "PRENTICE",
+   "en": "An app? Who made this translation?",
+   "vi": "App á? Ai làm bản dịch này?"
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Sir, Ashanti printed the wrong file.",
+   "vi": "Thưa ông, Ashanti in nhầm file."
+  },
+  {
+   "shot": 5,
+   "noi": "ASHANTI",
+   "en": "You emailed it to me at eight, Mr. Batiste.",
+   "vi": "Anh gửi email cho tôi lúc tám giờ mà,\nanh Batiste."
+  },
+  {
+   "shot": 7,
+   "noi": "INES",
+   "en": "Thirty minutes. A real interpreter, or I leave.",
+   "vi": "Ba mươi phút. Có phiên dịch thật,\nkhông thì tôi về."
+  }
+ ],
+ "26": [
+  {
+   "shot": 1,
+   "noi": "PRENTICE",
+   "en": "Lose this deal, and you lose your job.",
+   "vi": "Mất hợp đồng này là anh mất việc."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Sir, give me ten minutes. I'll fix it.",
+   "vi": "Thưa ông, cho tôi mười phút.\nTôi sẽ xử lý."
+  },
+  {
+   "shot": 3,
+   "noi": "INES",
+   "en": "I know a real interpreter.",
+   "vi": "Tôi biết một phiên dịch thật sự."
+  },
+  {
+   "shot": 4,
+   "noi": "INES",
+   "en": "Marguerite? It is Ines. I need you at Keystone. Now.",
+   "vi": "Marguerite? Inès đây. Tôi cần bà\nđến Keystone. Ngay bây giờ."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Keystone? That's my son's company.",
+   "vi": "Keystone? Đó là công ty con trai tôi."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "For you, Ines. Twenty minutes.",
+   "vi": "Vì bà, Inès. Hai mươi phút."
+  }
+ ],
+ "27": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "What are you doing here? You'll get him fired!",
+   "vi": "Bà đến đây làm gì?\nBà sẽ làm anh ấy mất việc!"
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Mama, go home. This is a forty-million-dollar deal.",
+   "vi": "Mẹ về đi. Đây là hợp đồng\nbốn mươi triệu đô."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Ines called me. She's waiting.",
+   "vi": "Inès gọi mẹ. Bà ấy đang đợi."
+  },
+  {
+   "shot": 4,
+   "noi": "CHARLENE",
+   "en": "Called you? Honey, you scan groceries.",
+   "vi": "Gọi bà á? Thôi đi cưng,\nbà quét mã hàng ở siêu thị mà."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "You are not going in there in that vest.",
+   "vi": "Mặc cái áo gile đó thì bà\nđừng hòng vào trong."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Move, Raven.",
+   "vi": "Tránh ra, Raven."
+  }
+ ],
+ "28": [
+  {
+   "shot": 1,
+   "noi": "PRENTICE",
+   "en": "Ms. Batiste? Ms. Diallo asked for you by name.",
+   "vi": "Bà Batiste? Bà Diallo đích danh mời bà."
+  },
+  {
+   "shot": 2,
+   "noi": "PRENTICE",
+   "en": "Batiste. Who is she to you, Devin?",
+   "vi": "Batiste. Bà ấy là gì của anh, Devin?"
+  },
+  {
+   "shot": 3,
+   "noi": "DEVIN",
+   "en": "She... works at a grocery store, sir.",
+   "vi": "Bà ấy... làm ở siêu thị, thưa ông."
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "He's my son.",
+   "vi": "Nó là con trai tôi."
+  },
+  {
+   "shot": 5,
+   "noi": "PRENTICE",
+   "en": "Step aside. You two, wait downstairs.",
+   "vi": "Tránh ra. Hai người, xuống dưới chờ."
+  },
+  {
+   "shot": 8,
+   "noi": "ASHANTI",
+   "en": "Ms. Batiste, this way, please.",
+   "vi": "Bà Batiste, mời bà đi lối này."
+  }
+ ],
+ "29": [
+  {
+   "shot": 1,
+   "noi": "ASHANTI",
+   "en": "Ten minutes. All forty pages?",
+   "vi": "Mười phút. Cả bốn mươi trang sao?"
+  },
+  {
+   "shot": 4,
+   "noi": "PRENTICE",
+   "en": "They're ready. You'll need the documents.",
+   "vi": "Xong cả rồi. Bà sẽ cần tài liệu."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "I read every page twice. I don't need the papers.",
+   "vi": "Tôi đọc mỗi trang hai lần rồi.\nTôi không cần giấy tờ."
+  },
+  {
+   "shot": 7,
+   "noi": "DEVIN",
+   "en": "Take the papers, Mama. Don't embarrass me.",
+   "vi": "Mẹ cầm giấy đi. Đừng làm con mất mặt."
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "Sit down, Devin. And watch.",
+   "vi": "Ngồi xuống, Devin. Và xem đây."
+  }
+ ],
+ "30": [
+  {
+   "shot": 2,
+   "noi": "INES",
+   "en": "Et la chaleur, et la garantie?",
+   "vi": "(tiếng Pháp) Còn vấn đề nhiệt,\nvà chế độ bảo hành?"
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "She asks how you handle battery heat, and the warranty.",
+   "vi": "Bà ấy hỏi các ông xử lý nhiệt của pin\nra sao, và bảo hành thế nào."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Heat... which page is that? I can't find it.",
+   "vi": "Nhiệt... trang nào nhỉ?\nTôi không tìm thấy."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "Refroidissement liquide. Garantie de dix ans.",
+   "vi": "(tiếng Pháp) Làm mát bằng chất lỏng.\nBảo hành mười năm."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Page twelve, liquid cooling. Page thirty, a ten-year warranty.",
+   "vi": "Trang mười hai, làm mát bằng chất lỏng.\nTrang ba mươi, bảo hành mười năm."
+  },
+  {
+   "shot": 8,
+   "noi": "PRENTICE",
+   "en": "Every number. Exactly as written.",
+   "vi": "Từng con số. Đúng y như văn bản."
+  }
+ ],
+ "31": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "Your French is better than mine. And I grew up in Paris.",
+   "vi": "Tiếng Pháp của bà còn hơn tôi.\nMà tôi lớn lên ở Paris đấy."
+  },
+  {
+   "shot": 4,
+   "noi": "PRENTICE",
+   "en": "Twenty-five thousand. You saved this company forty million.",
+   "vi": "Hai mươi lăm nghìn. Bà vừa cứu\ncông ty này bốn mươi triệu."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Mama... can we talk?",
+   "vi": "Mẹ... mình nói chuyện được không?"
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Not now, Devin. I have a shift at the store.",
+   "vi": "Không phải lúc này, Devin.\nMẹ có ca làm ở siêu thị."
+  },
+  {
+   "shot": 8,
+   "noi": "PRENTICE",
+   "en": "Ashanti. Drive Ms. Batiste home after her shift.",
+   "vi": "Ashanti. Hết ca thì chở bà Batiste về nhà."
+  }
+ ],
+ "32": [
+  {
+   "shot": 1,
+   "noi": "ASHANTI",
+   "en": "You live here?",
+   "vi": "Bà sống ở đây ạ?"
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Four hundred a month. It's quiet.",
+   "vi": "Bốn trăm một tháng. Yên tĩnh lắm."
+  },
+  {
+   "shot": 5,
+   "noi": "ASHANTI",
+   "en": "Does your son know?",
+   "vi": "Con trai bà có biết không?"
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "He has my number. Not my address.",
+   "vi": "Nó có số điện thoại tôi. Không có địa chỉ."
+  },
+  {
+   "shot": 7,
+   "noi": "ASHANTI",
+   "en": "Goodnight, Ms. Batiste. Lock your door.",
+   "vi": "Bà Batiste, ngủ ngon ạ. Nhớ khoá cửa."
+  },
+  {
+   "shot": 9,
+   "noi": "ASHANTI",
+   "en": "Mr. Prentice. You need to see where she lives.",
+   "vi": "Ông Prentice.\nÔng cần xem bà ấy sống ở đâu."
+  }
+ ],
+ "33": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Yes, sir. I won't make you regret it.",
+   "vi": "Vâng, thưa ông.\nTôi sẽ không để ông hối hận."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "They made me director! Double salary!",
+   "vi": "Họ cho anh lên giám đốc! Lương gấp đôi!"
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Honestly... Mama's French saved that deal.",
+   "vi": "Nói thật... nhờ tiếng Pháp của mẹ\nmà hợp đồng mới thành."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "Your mother got lucky. You earned this.",
+   "vi": "Mẹ anh gặp may thôi. Anh xứng đáng mà."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "Director money means a house in Mitchellville.",
+   "vi": "Lương giám đốc là có nhà ở Mitchellville."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "We'll look at houses tomorrow. Tonight, Maison Bayou.",
+   "vi": "Mai mình đi xem nhà.\nTối nay, Maison Bayou."
+  }
+ ],
+ "34": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Look who's here. You can't afford the water.",
+   "vi": "Xem ai đây này.\nNước lọc ở đây bà còn chẳng kham nổi."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "I was invited.",
+   "vi": "Tôi được mời."
+  },
+  {
+   "shot": 3,
+   "noi": "CHARLENE",
+   "en": "Invited? She came to eat without paying.",
+   "vi": "Được mời? Bà ta đến ăn quỵt thì có."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Mama, what are you doing here?",
+   "vi": "Mẹ, mẹ làm gì ở đây?"
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "Having dinner. Same as you.",
+   "vi": "Ăn tối. Giống con thôi."
+  },
+  {
+   "shot": 7,
+   "noi": "DEVIN",
+   "en": "With whose money, Mama?",
+   "vi": "Bằng tiền của ai hả mẹ?"
+  }
+ ],
+ "35": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "That check was twenty-five thousand. Give it to me.",
+   "vi": "Tấm séc đó hai mươi lăm nghìn.\nĐưa cho con."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "I earned it. It's mine.",
+   "vi": "Mẹ tự kiếm được. Nó là của mẹ."
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Excuse me! Manager! Over here!",
+   "vi": "Xin lỗi! Quản lý đâu! Lại đây!"
+  },
+  {
+   "shot": 4,
+   "noi": "MANAGER",
+   "en": "Ma'am? Is there a problem?",
+   "vi": "Thưa chị? Có chuyện gì ạ?"
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "This woman can't pay. Throw her out.",
+   "vi": "Bà này không trả tiền nổi. Tống bà ta ra."
+  },
+  {
+   "shot": 8,
+   "noi": "INES",
+   "en": "Who is throwing out my guest?",
+   "vi": "Ai dám tống khách của tôi ra ngoài?"
+  }
+ ],
+ "36": [
+  {
+   "shot": 1,
+   "noi": "MANAGER",
+   "en": "Ms. Diallo.",
+   "vi": "Bà Diallo."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Wait. You're the French lady from the meeting.",
+   "vi": "Khoan. Bà là bà người Pháp\ntrong cuộc họp."
+  },
+  {
+   "shot": 3,
+   "noi": "INES",
+   "en": "I own this restaurant.",
+   "vi": "Tôi là chủ nhà hàng này."
+  },
+  {
+   "shot": 4,
+   "noi": "INES",
+   "en": "Walk these three out. Never let them in again.",
+   "vi": "Đưa ba người này ra.\nĐừng bao giờ cho họ vào nữa."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "Ms. Diallo, please. I work for Keystone.",
+   "vi": "Bà Diallo, làm ơn. Tôi làm cho Keystone."
+  },
+  {
+   "shot": 7,
+   "noi": "CHARLENE",
+   "en": "We are paying customers! Shame on you!",
+   "vi": "Chúng tôi là khách trả tiền đấy!\nĐồ vô liêm sỉ!"
+  }
+ ],
+ "37": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "Forgive me. I left you alone with them.",
+   "vi": "Thứ lỗi cho tôi.\nTôi để bà một mình với họ."
+  },
+  {
+   "shot": 2,
+   "noi": "INES",
+   "en": "Mr. Prentice told me. A basement.",
+   "vi": "Ông Prentice kể với tôi rồi. Tầng hầm."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "It's paid for. I owe nobody.",
+   "vi": "Tôi trả đủ tiền rồi. Tôi không nợ ai."
+  },
+  {
+   "shot": 4,
+   "noi": "INES",
+   "en": "No. You will not live in a basement.",
+   "vi": "Không. Bà sẽ không sống dưới tầng hầm."
+  },
+  {
+   "shot": 6,
+   "noi": "INES",
+   "en": "My house in Mitchellville. It's yours. Already in your name.",
+   "vi": "Nhà của tôi ở Mitchellville. Là của bà.\nĐã đứng tên bà rồi."
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "No. That's far too much.",
+   "vi": "Không. Như thế là quá nhiều."
+  }
+ ],
+ "38": [
+  {
+   "shot": 1,
+   "noi": "INES",
+   "en": "You saved a forty-million-dollar deal. A house is small.",
+   "vi": "Bà đã cứu hợp đồng bốn mươi triệu đô.\nMột căn nhà có đáng là bao."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "I can't take a gift this big.",
+   "vi": "Tôi không thể nhận món quà lớn thế này."
+  },
+  {
+   "shot": 3,
+   "noi": "INES",
+   "en": "Refuse, and you're not my friend.",
+   "vi": "Bà từ chối là không còn bạn bè gì nữa."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "Then I pay you back. Every month. With my own work.",
+   "vi": "Vậy tôi trả dần cho bà. Mỗi tháng.\nBằng chính sức lao động của tôi."
+  },
+  {
+   "shot": 6,
+   "noi": "INES",
+   "en": "Then work for me. Be my company's interpreter. Monday.",
+   "vi": "Vậy thì làm cho tôi. Làm phiên dịch\ncho công ty tôi. Thứ Hai bắt đầu."
+  },
+  {
+   "shot": 8,
+   "noi": "INES",
+   "en": "The sales office has your keys. Go tomorrow.",
+   "vi": "Văn phòng bán hàng giữ chìa khoá của bà.\nMai bà qua lấy."
+  }
+ ],
+ "39": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Devin. Your mother followed us.",
+   "vi": "Devin. Mẹ anh bám theo mình kìa."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Cleaning crew uses the back door.",
+   "vi": "Đội dọn vệ sinh đi cửa sau."
+  },
+  {
+   "shot": 4,
+   "noi": "AGENT",
+   "en": "Ma'am, housekeeping applies around back.",
+   "vi": "Thưa bà, xin việc dọn dẹp\nthì vòng ra phía sau ạ."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "I'm not here to clean.",
+   "vi": "Tôi không đến đây để dọn dẹp."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Mama, not here. We're house hunting.",
+   "vi": "Mẹ, đừng ở đây. Bọn con đang đi xem nhà."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "Straight from the register. She smells like grease.",
+   "vi": "Từ quầy thu ngân đi thẳng tới.\nHôi mùi dầu mỡ."
+  }
+ ],
+ "40": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "I'm here for my keys. Lot 7.",
+   "vi": "Tôi đến lấy chìa khoá. Lô số 7."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Lot 7? She can't pay for parking.",
+   "vi": "Lô 7? Tiền gửi xe bà ta còn không trả nổi."
+  },
+  {
+   "shot": 4,
+   "noi": "AGENT",
+   "en": "Lot 7 is in the name of Ms. Marguerite Batiste.",
+   "vi": "Lô 7 đứng tên bà Marguerite Batiste."
+  },
+  {
+   "shot": 5,
+   "noi": "AGENT",
+   "en": "Welcome home, Ms. Batiste. I'm so sorry.",
+   "vi": "Chào mừng bà về nhà, bà Batiste.\nTôi rất xin lỗi."
+  },
+  {
+   "shot": 6,
+   "noi": "RAVEN",
+   "en": "That's a mistake! Check it again!",
+   "vi": "Nhầm rồi! Kiểm tra lại đi!"
+  },
+  {
+   "shot": 7,
+   "noi": "AGENT",
+   "en": "I checked twice, ma'am. It's recorded with the county.",
+   "vi": "Tôi kiểm tra hai lần rồi, thưa chị.\nĐã đăng ký với quận."
+  }
+ ],
+ "41": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Mama, where did you get this?",
+   "vi": "Mẹ, mẹ lấy đâu ra cái này?"
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Did you do something illegal?",
+   "vi": "Mẹ có làm gì phạm pháp không?"
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Nobody gets a mansion scanning groceries.",
+   "vi": "Quét mã hàng thì ai mua nổi biệt thự."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "I raised you honest.",
+   "vi": "Mẹ nuôi con thành người tử tế."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "That's what you think of me?",
+   "vi": "Con nghĩ về mẹ như thế à?"
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Mama, wait. Mama!",
+   "vi": "Mẹ, khoan đã. Mẹ!"
+  }
+ ],
+ "42": [
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "The deed has YOUR name?",
+   "vi": "Giấy tờ đứng tên BÀ?"
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Mama, this big house, all alone?",
+   "vi": "Mẹ ơi, nhà to thế này mà ở một mình sao?"
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "We'll move in. Take care of you.",
+   "vi": "Tụi con dọn vào. Chăm sóc mẹ."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "She's right, Mama. Family stays together.",
+   "vi": "Cô ấy nói đúng đấy mẹ.\nGia đình phải ở cùng nhau."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "You made me sign your paper.",
+   "vi": "Hai đứa bắt mẹ ký tờ giấy đó."
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "Your house is yours. This one is mine.",
+   "vi": "Nhà kia là của hai đứa. Căn này của mẹ."
+  }
+ ],
+ "43": [
+  {
+   "shot": 1,
+   "noi": "GUARD",
+   "en": "Ma'am, are these two with you?",
+   "vi": "Thưa bà, hai người này đi cùng bà ạ?"
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "No. Please walk them out.",
+   "vi": "Không. Làm ơn đưa họ ra ngoài."
+  },
+  {
+   "shot": 3,
+   "noi": "DEVIN",
+   "en": "Mama, really? Security?",
+   "vi": "Mẹ, thật sao? Gọi cả bảo vệ?"
+  },
+  {
+   "shot": 6,
+   "noi": "AGENT",
+   "en": "Lot 12 is the biggest. Deposit due today.",
+   "vi": "Lô 12 lớn nhất. Hôm nay phải đặt cọc."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Get the biggest one. I will not lose to her.",
+   "vi": "Lấy căn lớn nhất.\nEm không chịu thua bà ta."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "That's all our savings, baby.",
+   "vi": "Đó là toàn bộ tiền tiết kiệm đấy, em yêu."
+  }
+ ],
+ "44": [
+  {
+   "shot": 1,
+   "noi": "CHARLENE",
+   "en": "Nine thousand dollars. I deserve it too.",
+   "vi": "Chín nghìn đô. Mẹ cũng xứng đáng mà."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "A director's wife needs a new bag. Right, baby?",
+   "vi": "Vợ giám đốc phải có túi mới.\nĐúng không anh yêu?"
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Declined? It says limit reached.",
+   "vi": "Bị từ chối? Báo hết hạn mức."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "Then use the other card. Fix it.",
+   "vi": "Thế thì dùng thẻ kia. Lo đi."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Mr. Prentice? Yes, sir.",
+   "vi": "Ông Prentice? Vâng, thưa ông."
+  },
+  {
+   "shot": 7,
+   "noi": "PRENTICE",
+   "en": "Monday. Nine a.m. Come see me.",
+   "vi": "Thứ Hai. Chín giờ sáng. Đến gặp tôi."
+  }
+ ],
+ "45": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Morning, sir. Is this about the new project?",
+   "vi": "Chào buổi sáng, thưa ông.\nCó phải về dự án mới không ạ?"
+  },
+  {
+   "shot": 2,
+   "noi": "PRENTICE",
+   "en": "I promoted you Friday. I said don't make me regret it.",
+   "vi": "Thứ Sáu tôi cho anh lên chức.\nTôi đã dặn đừng để tôi hối hận."
+  },
+  {
+   "shot": 4,
+   "noi": "PRENTICE",
+   "en": "IT checked your laptop. The app file came from you.",
+   "vi": "Bên IT kiểm tra laptop của anh.\nFile app xuất phát từ anh."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "Sir, Ashanti handles the files.",
+   "vi": "Thưa ông, Ashanti phụ trách file."
+  },
+  {
+   "shot": 7,
+   "noi": "PRENTICE",
+   "en": "Not Ashanti. You.",
+   "vi": "Không phải Ashanti. Là anh."
+  },
+  {
+   "shot": 8,
+   "noi": "PRENTICE",
+   "en": "Last March, you blamed an intern. She lost her job.",
+   "vi": "Tháng Ba năm ngoái, anh đổ lỗi cho\nmột thực tập sinh. Cô ấy mất việc."
+  }
+ ],
+ "46": [
+  {
+   "shot": 1,
+   "noi": "PRENTICE",
+   "en": "In my lobby, you denied your own mother.",
+   "vi": "Ngay ở sảnh của tôi,\nanh chối bỏ chính mẹ mình."
+  },
+  {
+   "shot": 3,
+   "noi": "PRENTICE",
+   "en": "Ashanti drove her home. She lives in a basement.",
+   "vi": "Ashanti chở bà ấy về.\nBà ấy sống dưới tầng hầm."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "That was my wife. Her mother.",
+   "vi": "Đó là do vợ tôi. Do mẹ cô ấy."
+  },
+  {
+   "shot": 6,
+   "noi": "PRENTICE",
+   "en": "Every time, it's someone else's fault. Sign.",
+   "vi": "Lần nào cũng là lỗi của người khác. Ký đi."
+  },
+  {
+   "shot": 7,
+   "noi": "PRENTICE",
+   "en": "Ashanti, the Diallo project is yours.",
+   "vi": "Ashanti, dự án Diallo giao cho cô."
+  }
+ ],
+ "47": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Sir, please. Ten years I gave this company.",
+   "vi": "Thưa ông, làm ơn. Tôi đã cống hiến\ncho công ty này mười năm."
+  },
+  {
+   "shot": 2,
+   "noi": "PRENTICE",
+   "en": "Security will walk you out.",
+   "vi": "Bảo vệ sẽ đưa anh ra ngoài."
+  },
+  {
+   "shot": 3,
+   "noi": "SECURITY",
+   "en": "Mr. Batiste. This way.",
+   "vi": "Anh Batiste. Mời đi lối này."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Please! I have a mortgage!",
+   "vi": "Làm ơn! Tôi còn nợ tiền nhà!"
+  },
+  {
+   "shot": 7,
+   "noi": "PRENTICE",
+   "en": "Did you give your mother a second chance?",
+   "vi": "Anh có cho mẹ mình cơ hội thứ hai không?"
+  }
+ ],
+ "48": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Why are you home? It's eleven.",
+   "vi": "Sao anh về nhà? Mới mười một giờ."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "I got fired.",
+   "vi": "Anh bị đuổi việc rồi."
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Fired? We put a deposit on the new house!",
+   "vi": "Đuổi việc? Mình vừa đặt cọc nhà mới mà!"
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "My boss knew everything. Even about Mama.",
+   "vi": "Sếp biết hết. Cả chuyện của mẹ."
+  },
+  {
+   "shot": 6,
+   "noi": "RAVEN",
+   "en": "Your mother has money. Go cry to her.",
+   "vi": "Mẹ anh có tiền. Đi mà khóc lóc với bà ta."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "Drive. We're going to your mother's.",
+   "vi": "Lái xe đi. Mình đến nhà mẹ anh."
+  }
+ ],
+ "49": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Mama, I'm sorry. I lost everything. Please help.",
+   "vi": "Mẹ, con xin lỗi. Con mất hết rồi.\nMẹ giúp con với."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "We were wrong, Mama. We'll take care of you.",
+   "vi": "Tụi con sai rồi, mẹ ơi.\nTụi con sẽ chăm sóc mẹ."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Take care of me? Like on my birthday?",
+   "vi": "Chăm sóc tôi? Như hôm sinh nhật tôi à?"
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "Mama, please. The bank will take the house.",
+   "vi": "Mẹ, con xin mẹ. Ngân hàng sẽ siết nhà mất."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "I signed your paper. I keep my word.",
+   "vi": "Mẹ đã ký giấy của con. Mẹ giữ lời."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Not one dollar.",
+   "vi": "Không một đồng nào."
+  }
+ ],
+ "50": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Three months, no paycheck. Now the bank takes the house.",
+   "vi": "Ba tháng không lương.\nGiờ ngân hàng siết nhà rồi."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "Just till spring. I'll find something.",
+   "vi": "Chỉ đến mùa xuân thôi.\nAnh sẽ tìm được việc."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "Three grown people in one bedroom? At my age?",
+   "vi": "Ba người lớn chung một phòng ngủ?\nỞ tuổi này của mẹ?"
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Nobody hires a fired director. I tried.",
+   "vi": "Chẳng ai thuê giám đốc bị đuổi.\nAnh thử rồi."
+  },
+  {
+   "shot": 8,
+   "noi": "RAVEN",
+   "en": "I have an idea.",
+   "vi": "Em có một ý."
+  }
+ ],
+ "51": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Mama, you fake cancer. Stage four. Cousin Tanisha prints the report.",
+   "vi": "Mẹ, mẹ giả bị ung thư. Giai đoạn bốn.\nEm họ Tanisha in giấy kết quả."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "That's fraud!",
+   "vi": "Thế là lừa đảo!"
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Then you go make money.",
+   "vi": "Vậy anh đi kiếm tiền đi."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "She has a mansion. She can spare it.",
+   "vi": "Bà ta có biệt thự. Bà ta thừa sức chi."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Mama... Charlene has lung cancer. Surgery is two hundred fifty thousand.",
+   "vi": "Mẹ... bà Charlene bị ung thư phổi.\nMổ hết hai trăm năm mươi nghìn."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Which hospital, Devin?",
+   "vi": "Bệnh viện nào, Devin?"
+  }
+ ],
+ "52": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Mama, thank you for coming. Look at her.",
+   "vi": "Mẹ ơi, cảm ơn mẹ đã đến.\nMẹ nhìn bà ấy xem."
+  },
+  {
+   "shot": 2,
+   "noi": "CHARLENE",
+   "en": "Stage four... they gave me months.",
+   "vi": "Giai đoạn bốn... họ bảo tôi\nchỉ còn vài tháng."
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "Here's the report. Surgery is Monday.",
+   "vi": "Kết quả đây. Thứ Hai phẫu thuật."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "We need two hundred fifty thousand. By Monday.",
+   "vi": "Tụi con cần hai trăm năm mươi nghìn.\nTrước thứ Hai."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Mama, please. She could die.",
+   "vi": "Mẹ, con xin mẹ. Bà ấy có thể chết."
+  }
+ ],
+ "53": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "Since when, Charlene? What kind? Small cell?",
+   "vi": "Từ bao giờ, Charlene? Loại gì?\nTế bào nhỏ à?"
+  },
+  {
+   "shot": 2,
+   "noi": "CHARLENE",
+   "en": "Since... Christmas. The doctor... didn't say.",
+   "vi": "Từ... Giáng sinh. Bác sĩ... không nói."
+  },
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Stage four, and surgery Monday? That's not how they treat it.",
+   "vi": "Giai đoạn bốn mà mổ vào thứ Hai?\nNgười ta không chữa như thế."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Does it matter? She's dying!",
+   "vi": "Quan trọng gì chứ? Mẹ con sắp chết!"
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "I interpreted for cancer doctors for twelve years.",
+   "vi": "Tôi phiên dịch cho bác sĩ ung thư\nmười hai năm."
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "I want to see her doctor. Now.",
+   "vi": "Tôi muốn gặp bác sĩ của bà ấy. Ngay."
+  }
+ ],
+ "54": [
+  {
+   "shot": 1,
+   "noi": "MARGUERITE",
+   "en": "Doctor. Is this your report?",
+   "vi": "Bác sĩ. Kết quả này là của bác sĩ à?"
+  },
+  {
+   "shot": 2,
+   "noi": "OKONJO",
+   "en": "This isn't our report. No watermark. No QR code.",
+   "vi": "Đây không phải giấy của chúng tôi.\nKhông hình mờ. Không mã QR."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Then your printer's broken.",
+   "vi": "Thế thì máy in của các người hỏng."
+  },
+  {
+   "shot": 5,
+   "noi": "OKONJO",
+   "en": "Her scans this morning are clean. Nothing in her lungs.",
+   "vi": "Phim chụp sáng nay của bà ấy sạch.\nPhổi không có gì cả."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "I feel... much better.",
+   "vi": "Tôi thấy... đỡ hơn nhiều rồi."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Lord. A miracle.",
+   "vi": "Lạy Chúa. Phép màu."
+  }
+ ],
+ "55": [
+  {
+   "shot": 1,
+   "noi": "OKONJO",
+   "en": "Nurse Tanisha. The printer log shows your name.",
+   "vi": "Y tá Tanisha.\nNhật ký máy in ghi tên cô."
+  },
+  {
+   "shot": 2,
+   "noi": "TANISHA",
+   "en": "Raven said nobody would check!",
+   "vi": "Raven bảo sẽ chẳng ai kiểm tra mà!"
+  },
+  {
+   "shot": 3,
+   "noi": "OKONJO",
+   "en": "Forged medical records. Security, call the police.",
+   "vi": "Làm giả hồ sơ y tế.\nBảo vệ, gọi cảnh sát."
+  },
+  {
+   "shot": 5,
+   "noi": "RAVEN",
+   "en": "Mama, get up. Now!",
+   "vi": "Mẹ, đứng dậy. Mau!"
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "You knew.",
+   "vi": "Con đã biết."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Mama, I...",
+   "vi": "Mẹ, con..."
+  }
+ ],
+ "56": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Tomorrow, eleven. Her gate. Bring your camera.",
+   "vi": "Mai, mười một giờ. Cổng nhà bà ta.\nMang máy quay theo."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "We go live. My mother wears the hospital gown.",
+   "vi": "Mình phát trực tiếp.\nMẹ tôi sẽ mặc áo bệnh viện."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Once she pays, I'm divorcing Devin.",
+   "vi": "Bà ta trả tiền xong là tôi ly dị Devin."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "Shh. He'll hear you.",
+   "vi": "Suỵt. Nó nghe thấy đấy."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Let him. He's broke. He's useless.",
+   "vi": "Kệ nó. Nó hết tiền rồi. Đồ vô dụng."
+  }
+ ],
+ "57": [
+  {
+   "shot": 1,
+   "noi": "REPORTER",
+   "en": "We're live, everybody. Go ahead, Raven.",
+   "vi": "Đang phát trực tiếp nhé mọi người.\nMời chị, Raven."
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "That's my mother-in-law. Up on those steps.",
+   "vi": "Đó là mẹ chồng tôi.\nĐứng trên bậc thềm kia."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "She lives in a mansion while my mother dies.",
+   "vi": "Bà ta sống trong biệt thự\ntrong khi mẹ tôi sắp chết."
+  },
+  {
+   "shot": 5,
+   "noi": "CHARLENE",
+   "en": "Thirty years I taught school. Now I beg at her gate.",
+   "vi": "Tôi dạy học ba mươi năm.\nGiờ phải van xin trước cổng nhà bà ta."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "She told the hospital to call us liars!",
+   "vi": "Bà ta bảo bệnh viện nói\nchúng tôi là lũ dối trá!"
+  }
+ ],
+ "58": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Here she comes. In her fancy coat.",
+   "vi": "Bà ta ra kìa. Với cái áo khoác sang chảnh."
+  },
+  {
+   "shot": 3,
+   "noi": "REPORTER",
+   "en": "Ma'am! Did you leave your family to die?",
+   "vi": "Thưa bà! Bà bỏ mặc gia đình chờ chết sao?"
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "Tell them the truth, Devin.",
+   "vi": "Nói sự thật cho họ biết đi, Devin."
+  },
+  {
+   "shot": 6,
+   "noi": "MARGUERITE",
+   "en": "Or lie to them again. Your choice.",
+   "vi": "Hoặc lại nói dối họ. Con chọn đi."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Don't listen to her, baby.",
+   "vi": "Đừng nghe bà ta, anh yêu."
+  }
+ ],
+ "59": [
+  {
+   "shot": 1,
+   "noi": "REPORTER",
+   "en": "Mr. Batiste, did your mother abandon them?",
+   "vi": "Anh Batiste, mẹ anh bỏ rơi họ thật sao?"
+  },
+  {
+   "shot": 2,
+   "noi": "RAVEN",
+   "en": "Tell them, baby. Tell them how she left us.",
+   "vi": "Nói đi anh. Nói bà ta bỏ rơi mình thế nào."
+  },
+  {
+   "shot": 3,
+   "noi": "CHARLENE",
+   "en": "Go on, son. Tell them she won't pay for my surgery.",
+   "vi": "Nói đi con. Nói bà ta không chịu\ntrả tiền mổ cho mẹ."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "No. Enough.",
+   "vi": "Không. Đủ rồi."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "Devin. Say it. Now.",
+   "vi": "Devin. Nói đi. Ngay."
+  }
+ ],
+ "60": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "We threw my mother out. On her birthday.",
+   "vi": "Chúng tôi đuổi mẹ tôi ra khỏi nhà.\nNgay ngày sinh nhật bà."
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "We made her sign away her house.",
+   "vi": "Chúng tôi bắt bà ký giấy từ bỏ nhà."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "Her mother isn't sick. They faked the report. I knew.",
+   "vi": "Mẹ cô ấy không bệnh. Họ làm giả\nkết quả. Tôi đã biết."
+  },
+  {
+   "shot": 6,
+   "noi": "RAVEN",
+   "en": "Shut up! Turn it off!",
+   "vi": "Câm miệng! Tắt máy đi!"
+  },
+  {
+   "shot": 7,
+   "noi": "CHARLENE",
+   "en": "He's lying! I'm dying!",
+   "vi": "Nó nói dối! Tôi sắp chết đây!"
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Last night Raven said she'd divorce me once the money came.",
+   "vi": "Tối qua Raven nói tiền về là\nsẽ ly dị tôi."
+  }
+ ],
+ "61": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "Officer! Arrest her!",
+   "vi": "Cảnh sát! Bắt bà ta đi!"
+  },
+  {
+   "shot": 3,
+   "noi": "OFFICER",
+   "en": "Raven Batiste. Charlene Lyles.",
+   "vi": "Raven Batiste. Charlene Lyles."
+  },
+  {
+   "shot": 4,
+   "noi": "RAVEN",
+   "en": "Me? No! Her! Arrest her!",
+   "vi": "Tôi á? Không! Bà ta! Bắt bà ta!"
+  },
+  {
+   "shot": 5,
+   "noi": "OFFICER",
+   "en": "The hospital reported forged medical records. You're under arrest.",
+   "vi": "Bệnh viện báo hồ sơ y tế bị làm giả.\nCác người bị bắt."
+  },
+  {
+   "shot": 6,
+   "noi": "CHARLENE",
+   "en": "Officer, I'm a retired teacher!",
+   "vi": "Anh cảnh sát, tôi là giáo viên về hưu!"
+  }
+ ],
+ "62": [
+  {
+   "shot": 1,
+   "noi": "RAVEN",
+   "en": "You did this to me!",
+   "vi": "Anh hại tôi ra nông nỗi này!"
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "No. We did this to her.",
+   "vi": "Không. Chúng ta đã làm thế với mẹ anh."
+  },
+  {
+   "shot": 4,
+   "noi": "OFFICER",
+   "en": "Mr. Batiste. You knew too. You'll give a statement.",
+   "vi": "Anh Batiste. Anh cũng biết.\nAnh sẽ phải khai báo."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "Yes, sir. All of it.",
+   "vi": "Vâng, thưa anh. Tất cả."
+  }
+ ],
+ "63": [
+  {
+   "shot": 1,
+   "noi": "CHARLENE",
+   "en": "Probation. Five hundred hours of community service. At my age!",
+   "vi": "Quản chế. Năm trăm giờ lao động\ncông ích. Ở tuổi tôi!"
+  },
+  {
+   "shot": 2,
+   "noi": "CHARLENE",
+   "en": "Don't look at me. It was all Raven's idea!",
+   "vi": "Đừng nhìn tôi. Tất cả là ý của Raven!"
+  },
+  {
+   "shot": 3,
+   "noi": "RAVEN",
+   "en": "My idea? You wanted the money!",
+   "vi": "Ý của con? Mẹ mới là người muốn tiền!"
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "Divorce papers. Sign them.",
+   "vi": "Giấy ly hôn. Ký đi."
+  },
+  {
+   "shot": 7,
+   "noi": "RAVEN",
+   "en": "You can't leave me. You have nothing!",
+   "vi": "Anh không bỏ em được. Anh chẳng có gì!"
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "I have a job. And I'm done lying for you.",
+   "vi": "Anh có việc làm.\nVà anh hết nói dối vì em rồi."
+  }
+ ],
+ "64": [
+  {
+   "shot": 2,
+   "noi": "BERNICE",
+   "en": "Charlene Lyles. In a hairnet.",
+   "vi": "Charlene Lyles. Đội lưới tóc."
+  },
+  {
+   "shot": 3,
+   "noi": "CHARLENE",
+   "en": "I'm... volunteering. Out of my good heart.",
+   "vi": "Tôi... đi tình nguyện. Vì tấm lòng tốt."
+  },
+  {
+   "shot": 4,
+   "noi": "COORDINATOR",
+   "en": "Court-ordered, Mrs. Lyles. Smile. Five hundred hours.",
+   "vi": "Toà án bắt buộc, bà Lyles. Cười lên.\nNăm trăm giờ."
+  },
+  {
+   "shot": 6,
+   "noi": "BERNICE",
+   "en": "Today is MY day, Charlene. Serve the gumbo.",
+   "vi": "Hôm nay là ngày của TÔI, Charlene.\nDọn gumbo ra."
+  },
+  {
+   "shot": 7,
+   "noi": "PEARL",
+   "en": "Thirty years of French. Now she serves gumbo.",
+   "vi": "Ba mươi năm tiếng Pháp.\nGiờ đi múc gumbo."
+  }
+ ],
+ "65": [
+  {
+   "shot": 1,
+   "noi": "COWORKER",
+   "en": "Who's the envelope for?",
+   "vi": "Phong bì cho ai thế?"
+  },
+  {
+   "shot": 2,
+   "noi": "DEVIN",
+   "en": "My mother. Every month. She hasn't called.",
+   "vi": "Cho mẹ tôi. Tháng nào cũng gửi.\nBà chưa gọi lại."
+  },
+  {
+   "shot": 4,
+   "noi": "FOREMAN",
+   "en": "Eight months. Never late. Never blames anybody.",
+   "vi": "Tám tháng. Chưa trễ lần nào.\nChưa đổ lỗi cho ai."
+  },
+  {
+   "shot": 5,
+   "noi": "FOREMAN",
+   "en": "You're shift lead. Starting Monday.",
+   "vi": "Cậu làm trưởng ca. Từ thứ Hai."
+  },
+  {
+   "shot": 7,
+   "noi": "DEVIN",
+   "en": "Can I leave early on the twenty-sixth? Mama's birthday.",
+   "vi": "Hôm hai mươi sáu tôi về sớm được không?\nSinh nhật mẹ tôi."
+  }
+ ],
+ "66": [
+  {
+   "shot": 1,
+   "noi": "APPLICANT",
+   "en": "I'm fifty-two. Everyone says I'm too old.",
+   "vi": "Tôi năm mươi hai tuổi.\nAi cũng bảo tôi quá già."
+  },
+  {
+   "shot": 2,
+   "noi": "MARGUERITE",
+   "en": "How many languages?",
+   "vi": "Biết mấy thứ tiếng?"
+  },
+  {
+   "shot": 3,
+   "noi": "APPLICANT",
+   "en": "Three. Spanish, Portuguese, Haitian Creole.",
+   "vi": "Ba. Tây Ban Nha, Bồ Đào Nha,\nCreole Haiti."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "Too old? Start Monday.",
+   "vi": "Quá già à? Thứ Hai đi làm."
+  },
+  {
+   "shot": 7,
+   "noi": "INES",
+   "en": "Your birthday's the twenty-sixth. Who's coming?",
+   "vi": "Sinh nhật bà là ngày hai mươi sáu.\nAi sẽ đến?"
+  },
+  {
+   "shot": 8,
+   "noi": "MARGUERITE",
+   "en": "We'll see who knocks.",
+   "vi": "Để xem ai gõ cửa."
+  }
+ ],
+ "67": [
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "No, Raven. I'm not sending you money.",
+   "vi": "Không, Raven. Tôi không gửi tiền cho cô."
+  },
+  {
+   "shot": 5,
+   "noi": "DEVIN",
+   "en": "We're divorced. Don't call me again.",
+   "vi": "Chúng ta ly hôn rồi. Đừng gọi tôi nữa."
+  }
+ ],
+ "68": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "Happy birthday, Mama. I'm not asking for anything.",
+   "vi": "Chúc mừng sinh nhật mẹ.\nCon không xin gì đâu."
+  },
+  {
+   "shot": 4,
+   "noi": "DEVIN",
+   "en": "I made it myself. Your recipe.",
+   "vi": "Con tự nấu đấy. Theo công thức của mẹ."
+  },
+  {
+   "shot": 5,
+   "noi": "MARGUERITE",
+   "en": "Where are you working, Devin?",
+   "vi": "Con đang làm ở đâu, Devin?"
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "A warehouse. Shift lead now. I pay my own rent.",
+   "vi": "Ở kho hàng. Giờ con làm trưởng ca.\nCon tự trả tiền nhà."
+  }
+ ],
+ "69": [
+  {
+   "shot": 3,
+   "noi": "MARGUERITE",
+   "en": "Eight envelopes. I didn't open one.",
+   "vi": "Tám phong bì. Mẹ chưa mở cái nào."
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "I wanted to see if you'd stop. You never stopped.",
+   "vi": "Mẹ muốn xem con có bỏ cuộc không.\nCon chưa bao giờ bỏ."
+  },
+  {
+   "shot": 6,
+   "noi": "DEVIN",
+   "en": "I owe you a house, Mama.",
+   "vi": "Con nợ mẹ một căn nhà."
+  },
+  {
+   "shot": 7,
+   "noi": "MARGUERITE",
+   "en": "Three rules. You work. You never lie for anyone.",
+   "vi": "Ba điều. Con phải làm việc.\nKhông bao giờ nói dối vì ai."
+  },
+  {
+   "shot": 8,
+   "noi": "DEVIN",
+   "en": "Yes, ma'am.",
+   "vi": "Dạ vâng."
+  }
+ ],
+ "70": [
+  {
+   "shot": 1,
+   "noi": "DEVIN",
+   "en": "I'll eat in the kitchen. I don't deserve your table.",
+   "vi": "Con sẽ ăn trong bếp.\nCon không xứng ngồi bàn của mẹ."
+  },
+  {
+   "shot": 4,
+   "noi": "MARGUERITE",
+   "en": "And in my house, nobody eats in the kitchen.",
+   "vi": "Và trong nhà mẹ,\nkhông ai phải ăn trong bếp cả."
+  }
+ ]
+}

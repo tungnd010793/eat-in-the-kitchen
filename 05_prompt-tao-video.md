@@ -178,6 +178,38 @@
 - **Kết quả:** ĐẠT 8,5/10. Đủ 6/6 câu thoại, Devin không còn thẻ ở mọi khung. Video mới thay `09_media/ai-tao-ra/video/cum_048.mp4`; bản cũ vẫn ở thư mục dự án tool (`video/cum_048/1103_121147/`).
 - **Bài học:** đồ vật trên người nhân vật mà ảnh tham chiếu có thì chữ trong prompt không xoá được; phải gửi ảnh biến thể đã bỏ món đó.
 
+### DG-01 · Dựng phim, bản QC phụ đề Việt, thumbnail
+- **Ngày:** 03/11/2026, 16:10–16:45
+- **Công cụ:** `05_prompt/video_zh/cong_cu/` gồm `phan_tich_dung.py`, `lap_dung.py`, `render_dung.py`, `phu_de.py` (chép từ bộ dựng DIRT ON HER HANDS) và `xem_noi.py` (dải hình điểm nối, mới).
+  - Phân tích: whisper small.en có mốc từng từ, cùng mốc cắt cảnh.
+  - Render: ffmpeg h264_nvenc.
+- **Luật cắt đuôi (EDL: `05_prompt/video_zh/dung/edl.md`):**
+  - Giữ tối đa 2,4 s sau câu thoại cuối. Ở cụm cuối một cảnh giữ 3,6 s.
+  - Khi cụm sau nối liền cùng cảnh: Seedance luôn mở cụm sau bằng một shot dựng lại đúng tư thế cuối, ở góc khác. Đo tương quan khung hình không bắt được trùng lặp này: hình không giống, nhưng nội dung trùng. Luật xử lý:
+    - Đã có shot phản ứng ≥ 2 s sau câu cuối: bỏ hẳn shot cuối (25 cụm).
+    - Các shot nằm giữa câu cuối và shot cuối được giữ trọn (insert còng tay C61, tờ kết quả C52, Marguerite mở cửa C68). Shot giữa nào ngâm hơn 3 s thì cắt còn 2,4 s.
+    - Chưa có shot phản ứng: chỉ giữ 1,4 s của shot cuối.
+  - Đuôi đứng hình: chỉ giữ 0,8 s.
+  - Chuyển cảnh: mờ đen 0,35 s khi đổi nơi hoặc đổi giờ; còn lại cắt thẳng.
+- **Chỉnh tay sau khi xem dải hình điểm nối:**
+  - C44→C45 tính là đổi cảnh: loc ghi "→ PHÒNG HỌP" nhưng shot cuối C44 quay về bếp nhà Devin.
+  - C56: điểm ra lùi tới 26,4 s để giữ nhịp Devin khép cửa (một cú máy liền, máy không tìm được điểm cắt).
+- **Lỗi nhỏ để lại từ lúc render:**
+  - C60: shot Charlene đứng cạnh bà mà không có cổng ở giữa (18,7–21,4 s). Phóng cận vào Charlene để bà ra khỏi khung, giữ nguyên câu "He's lying! I'm dying!" (`dung/sua_hinh.json`).
+  - C20 (nhẫn), C26 (điện thoại), C42 (túi đen) và C61 (chữ "POLICE" trên xe tuần tra) giữ nguyên: nhỏ, không cắt được mà không mất thoại.
+- **Kết quả:**
+  - 35,1 phút → 32,6 phút (bỏ 2,4 phút).
+  - Âm lượng −14,3 LUFS.
+  - `09_media/thanh-pham/EAT_IN_THE_KITCHEN_FULLHD.mp4`: 1920x1080, 24 fps, 4,0 GB.
+  - `09_media/thanh-pham/EAT_IN_THE_KITCHEN_VI.srt`: 379 câu.
+  - `09_media/da-chinh-sua/EAT_IN_THE_KITCHEN_QC_720p_SUB_VI.mp4`: 124 MB, phụ đề Việt in cứng, nhãn "Cụm NN" góc trái trên.
+- **Phụ đề Việt:** `05_prompt/video_zh/dung/sub_vi.json`.
+  - Xưng hô: Devin ↔ Marguerite là con/mẹ; Raven → Marguerite là tôi/bà, khi diễn ngọt thì đổi sang con/mẹ; Raven ↔ Devin là em/anh, sau ly hôn là tôi/cô.
+  - 11 câu tiếng Pháp mở bằng "(tiếng Pháp)".
+- **Thumbnail:** 4 phương án, model gpt-image-2.5 qua cổng Bigup (4 lượt ảnh), ảnh nhân vật gửi kèm. Prompt ở `05_prompt/video_zh/thumbnail/_prompt_thumb.json`.
+  - Bản 1920x1080: `09_media/thanh-pham/thumbnail/anh thurm 1–4.jpg`.
+  - Các phương án: (1) "SHE'S NOT THE MAID": tiệc C5, Raven chỉ vào bếp, Charlene cười, Marguerite đeo tạp dề bưng nồi, khung tròn bà sang trọng; (2) "COSTS MORE THAN YOU?": giằng túi C1; (3) "SHE SPEAKS FRENCH?!": phòng họp, bà mặc gi-lê thu ngân; (4) "ARREST HER!": Raven bị còng ở cổng C61, bà đứng bình thản sau song sắt.
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
