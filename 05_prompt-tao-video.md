@@ -83,7 +83,7 @@
 - **Chưa có ảnh:** phòng giặt nơi bà Marguerite ngủ (C10, 4 giây đầu). Nên làm thành ảnh đạo cụ / ảnh chèn riêng.
 - **Quyết định:** **Tác giả chốt cả 26 bảng (104 panel) như bản này (02/11/2026), giữ nguyên các điểm ghi chú.** Khi viết prompt video, những chỗ kịch bản lệch giờ / trái phải ở trên sẽ được xử lý bằng chữ trong prompt.
 
-## Ảnh còn thiếu — đạo cụ, ảnh chèn phòng giặt, hai nhân vật phụ (chờ tác giả duyệt)
+## Ảnh còn thiếu — đạo cụ, ảnh chèn phòng giặt, hai nhân vật phụ (tác giả đã chốt 03/11/2026)
 
 ### DC-01 · 17 đạo cụ, phòng giặt (C10), Sister Pearl dự tiệc, bảo vệ nhà hàng
 - **Ngày:** 02/11/2026, 22:52–23:00
@@ -108,7 +108,7 @@
   - **Ghi chú:**
     - Ảnh nhỏ trong khung trên bảng `LOT7_WORK` và `BASEMENT_TABLE` vẫn là nhà kiểu cũ. Cảnh cận khung ảnh sẽ gửi ảnh đạo cụ mới.
     - Bảo vệ nhà hàng (đầu trọc, râu dê bạc, đúng kịch bản) hơi giống Prentice; hai người không xuất hiện cùng nơi.
-- **Quyết định:** chờ tác giả duyệt.
+- **Quyết định:** **Tác giả chốt cả 23 ảnh lượt này như bản cuối (03/11/2026), giữ nguyên các điểm ghi chú.** Bộ ảnh tham chiếu của phim đủ để viết prompt video: 272 ảnh đã duyệt (nhân vật, bảng bối cảnh và panel, ảnh chèn, đạo cụ).
 
 ## Cảnh 1 — [tên cảnh]
 
