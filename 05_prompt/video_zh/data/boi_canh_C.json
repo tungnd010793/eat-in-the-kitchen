@@ -1,0 +1,296 @@
+{
+ "LOT7_FOYER_BANG": {
+  "panels": [
+   "LOT7_FOYER_DOORS",
+   "LOT7_STAIRS",
+   "LOT7_FOYER_ARCH",
+   "LOT7_WORK"
+  ],
+  "tuong": [
+   "tall walnut-stained double front doors with long textured-glass panes that blur the outside, a wide arched window above them showing only pale sky, a slim walnut bench beside the doors with a woven basket and a ceramic bowl for keys, a jute doormat",
+   "a curved staircase with walnut treads, white risers and a black iron railing rising to an open landing, small framed family photos up the stair wall, a large abstract painting in deep green, ochre and brown, two cream chairs beside a round side table with a crocheted doily and a glass candy dish of peppermints",
+   "a wide white-trimmed arch into the dining room between two brass sconces; through it a long walnut table with cream chairs and a vase of yellow chrysanthemums, and at the far end the kitchen opening with a corner of white stone island",
+   "a wide opening into a study: a walnut desk facing the foyer, a leather chair behind it, shelves of dictionaries and French books with blank spines, a sheer-curtained window, a linen-shaded lamp, blank documents, a framed photo of a pale yellow wooden house with a porch"
+  ],
+  "the_gioi": "The double-height foyer of the Lot 7 house, an upper-tier new-build brick colonial in a gated community in Mitchellville, Prince George's County, Maryland, quality rather than flashy: pale oak floors, cream walls, white trim, walnut doors and furniture, a large chandelier of clear glass and aged brass hanging from the high ceiling, a few Louisiana Creole family keepsakes and a small French translation study opening off one side, daytime with no season showing.",
+  "anh_sang": "Soft neutral daylight from the arched window above the doors and through the textured door glass, gentler daylight through the study's sheer curtains, the chandelier off, the linen-shaded desk lamp in the study glowing as the one warm accent, mid-key, cream walls and white trim staying clean white with no orange or amber cast.",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   42,
+   43,
+   49,
+   51,
+   66,
+   68
+  ],
+  "ghi_chu_vi": "Sảnh hai tầng + phòng làm việc nhỏ mở ra sảnh (góc làm việc). La bàn suy luận: cửa đôi ở NAM (tường 1), cầu thang cong ở TÂY (2), cửa vòm phòng ăn ở BẮC (3), phòng làm việc ở ĐÔNG (4) — bàn gỗ quay ra sảnh, kệ từ điển sau lưng. Nhìn cửa đôi: cầu thang mép phải, góc làm việc mép trái; nhìn vào phòng ăn: góc làm việc ngoài khung phải (C66 19–23s); nhìn góc làm việc: sảnh + cửa đôi ngoài khung phải (C66 23–27s); ngồi sau bàn nhìn 'phòng khách' = nhìn ngang sảnh về cầu thang (LOT7_STAIRS), cửa đôi ở trái nên người xin việc ra mép trái (C66 15–19s). Cửa đôi kính mờ + rèm voan để KHÔNG khoá mùa — cảnh cửa mở nhìn ra ngoài lấy panel LOT7_EXT_OCT (C42/C43/C49) hoặc LOT7_EXT_SEP (C68). Đạo cụ không vẽ vào bảng: chùm chìa khoá đồng + thẻ cổng, phong bì kraft, điện thoại nắp gập bạc, thẻ bệnh viện cũ, măng tô kem vắt ghế, ghế người xin việc đối diện bàn. KHÔNG dùng mã FOYER_STAIRS (mã đó là sảnh nhà Devin ở Bowie, C1–C3) và tránh bàn console + gương tròn của sảnh Bowie. C68 (17:30, nắng thấp) dùng bảng này — nắng chiều tả bằng chữ trong prompt; nếu render thiếu nắng, làm biến thể LOT7_FOYER_CHIEU_BANG từ bảng này (chỉ đổi ánh sáng)."
+ },
+ "LOT7_DINING_BANG": {
+  "panels": [
+   "LOT7_DINING_ARCH",
+   "LOT7_DINING_WINDOWS",
+   "LOT7_DINING_KITCHEN",
+   "LOT7_DINING_BUFFET"
+  ],
+  "tuong": [
+   "the white-trimmed arch to the double-height foyer between two brass sconces, the curved staircase and walnut front doors seen beyond; before it the head of the walnut table with one place setting of white porcelain with a blue rim and a vase of yellow chrysanthemums",
+   "a row of three tall windows with sheer white curtains drawn open, deep white sills, a framed watercolor of a cypress swamp in soft greens between two windows, a tall potted olive tree in a clay pot in the corner",
+   "the wide opening to the kitchen at the far end, a glimpse of a white stone island and a range with a seasoned black cast-iron pot on a back burner, a jar of green filé powder and a bottle of hot sauce on the counter",
+   "a long walnut buffet with a worn plain leather family Bible, folded paper programs tucked inside, and a wooden bowl of satsumas; beside it a tall walnut china cabinet with glass doors full of white porcelain bowls and plates with blue rims"
+  ],
+  "the_gioi": "The dining room of the Lot 7 house, an upper-tier new-build brick colonial in a gated community in Mitchellville, Prince George's County, Maryland, quality rather than flashy: pale oak floor, cream walls, white trim, a long walnut dining table for eight with cream upholstered chairs running from the foyer arch toward the kitchen, Louisiana Creole family pieces, an early-autumn late afternoon with low sun.",
+  "anh_sang": "Low late-afternoon sun slanting through the west windows and sheer curtains in long bright bands across the walnut table and pale floor, the rest of the room in soft neutral daylight, the two brass sconces by the arch switched on as small warm pools, white porcelain staying clean white, no global orange or amber cast.",
+  "trang_thai": "chieu",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   68,
+   69,
+   70
+  ],
+  "ghi_chu_vi": "Phòng ăn sau cửa vòm, nối thẳng trục cửa đôi → sảnh → cửa vòm → bàn ăn → lối vào bếp. La bàn: cửa vòm NAM (tường 1), cửa sổ TÂY (2, nắng thấp 17:30 cuối tháng 9 vào từ hướng tây-tây nam), lối vào bếp BẮC (3, 'cuối phòng ăn', thấy góc đảo bếp đá trắng), tủ buffet óc chó + tủ bát kính cùng ở tường bên ĐÔNG (4). Đầu bàn ở phía cửa vòm (một bộ bát đĩa sứ trắng viền xanh + bình cúc vàng — có trong cả C68–C70 nên vẽ luôn vào bảng). Nhìn cửa vòm: cửa sổ (nắng) ở phải, buffet ở trái; nhìn về bếp: nắng từ trái. Đạo cụ không vẽ: nồi gang quấn khăn trắng của Devin, tám phong bì trắng (nằm trong ngăn kéo buffet tới C69 3–5s), bát thứ hai. Nồi gang của bà trên bếp trong hậu cảnh là dấu hiệu Creole theo yêu cầu — nếu render C70 lẫn với nồi của Devin thì xoá bằng sua_panel trên LOT7_DINING_KITCHEN. 'Nắng xiên vàng' của kịch bản = vệt nắng, không phải ám vàng toàn khung."
+ },
+ "LOT7_EXT_BANG": {
+  "panels": [
+   "LOT7_EXT_HOUSE",
+   "LOT7_EXT_EAST",
+   "LOT7_EXT",
+   "LOT7_EXT_WEST"
+  ],
+  "tuong": [
+   "a two-story red-brick colonial with a stone-trimmed two-story entry, wide stone steps up to tall walnut-stained double doors with textured-glass panes under an arched window, black shutters, two coach lanterns, clipped boxwoods in planters, an old black cast-iron pot planted with trailing ivy beside the bottom step, the curved paved turnaround in front",
+   "the east side lawn ending at a tall clipped evergreen hedge on the property line, the iron fence meeting a red-brick corner pillar, a black lamppost, and beyond the hedge the brick side wall and slate roof of the next house",
+   "a black wrought-iron double gate between two red-brick pillars at the end of the driveway, the iron fence running both ways under tall bare oaks, then a concrete sidewalk, a granite curb, a quiet street and large brick houses opposite",
+   "the west side lawn with a young evergreen magnolia and a curved mulched bed of pruned hydrangeas, the iron fence meeting a red-brick corner pillar, and beyond it the street curving away past large brick houses, a black streetlamp at the curb"
+  ],
+  "the_gioi": "The front grounds of the Lot 7 house in a gated community in Mitchellville, Prince George's County, Maryland: an upper-tier new-build two-story red-brick colonial set back behind a black wrought-iron fence and gate, a straight paved stone driveway from the gate ending in a curved turnaround before wide stone steps, a row of tall oaks just inside the front fence, late January under a clear cold sky, dormant tan lawn, bare branches and old crusted snow along the lawn edges and fence line, the driveway and steps cleared.",
+  "anh_sang": "Clear cold late-morning winter sun, low from the street side under a pale blue sky, lighting the brick facade and casting long crisp shadows of the fence and bare branches, the old snow along the edges reflecting clean white, neutral daylight white balance, coach lanterns off.",
+  "trang_thai": "tuyet",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   57,
+   58,
+   59,
+   60,
+   61,
+   62
+  ],
+  "ghi_chu_vi": "Bảng GỐC ngoài nhà Lot 7 (tháng Giêng, tuyết cũ). La bàn: mặt tiền NAM nhìn ra đường. Tường 1 = BẮC (mặt tiền nhà, nhìn từ cổng vào), 2 = ĐÔNG (bãi cỏ hông + hàng rào chạy về đông), 3 = NAM (cổng sắt, vỉa hè, phố — dùng lại mã LOT7_EXT của KẾT vì đa số cú là 'Máy phía trong cổng nhìn ra'), 4 = TÂY (phố cong đi, phía cảnh sát tới). Kiểm: nhìn từ trong cổng ra thì phóng viên ở mép trái (đông), bộ đàm + cảnh sát + xe tuần tra ở mép phải (tây) — đúng C57 KẾT, C60 26–30s, C61 0–3s, C62 17–20s; nhìn dọc song sắt với bà ở trái, Devin ở phải = nhìn về đông (C58 6–9s, C61 6–9s). Lối xe: thẳng từ cổng lên, kết bằng vòng quay đầu trước bậc thềm (gộp 'lối xe vòng' C49 với 'đi thẳng xuống lối xe' C57/C62). Cổng vẽ ĐÓNG. Không vẽ: xe tuần tra, sedan xám, người. Hàng sồi chạy dọc phía trong hàng rào — đổi theo mùa ở hai biến thể."
+ },
+ "LOT7_EXT_THU_BANG": {
+  "panels": [
+   "LOT7_EXT_OCT_HOUSE",
+   "LOT7_EXT_OCT_EAST",
+   "LOT7_EXT_OCT",
+   "LOT7_EXT_OCT_WEST"
+  ],
+  "tuong": [
+   "a two-story red-brick colonial with a stone-trimmed two-story entry, wide stone steps up to tall walnut-stained double doors with textured-glass panes under an arched window, black shutters, two coach lanterns, clipped boxwoods in planters, an old black cast-iron pot planted with trailing ivy beside the bottom step, the curved paved turnaround in front, a few yellow leaves on the steps",
+   "the east side lawn ending at a tall clipped evergreen hedge on the property line, the iron fence meeting a red-brick corner pillar, a black lamppost, and beyond the hedge the brick side wall and slate roof of the next house",
+   "a black wrought-iron double gate between two red-brick pillars at the end of the driveway, the iron fence running both ways under tall oaks in full yellow leaf, then a concrete sidewalk, a granite curb, a quiet street and large brick houses opposite",
+   "the west side lawn with a young evergreen magnolia and a curved mulched bed of hydrangeas with dried tan blooms, the iron fence meeting a red-brick corner pillar, and beyond it the street curving away past large brick houses, a black streetlamp at the curb"
+  ],
+  "the_gioi": "The front grounds of the Lot 7 house in a gated community in Mitchellville, Prince George's County, Maryland: an upper-tier new-build two-story red-brick colonial set back behind a black wrought-iron fence and gate, a straight paved stone driveway from the gate ending in a curved turnaround before wide stone steps, a row of tall oaks just inside the front fence, mid-October at noon, the oaks in full yellow leaf, green lawn scattered with fallen yellow leaves, no snow.",
+  "anh_sang": "Bright clear noon sun of mid-October from high over the street side, lighting the brick facade and the yellow oak canopy, short crisp shadows and dappled leaf shade on the driveway, neutral daylight white balance so the yellow leaves read true and whites stay white, coach lanterns off.",
+  "trang_thai": "thu",
+  "ve_tu": "LOT7_EXT_BANG",
+  "khac_ban_goc": "Same layout, house, gate, fence, driveway, hedge, lamppost and trees in the same places as LOT7_EXT_BANG. Only season and light change: no snow anywhere; the oaks along the fence are in full yellow October leaf instead of bare; the lawn is green with scattered fallen yellow leaves; a few yellow leaves lie on the steps; the hydrangeas hold dried tan blooms; bright high noon sun with short shadows replaces the low late-morning winter sun.",
+  "cum": [
+   42,
+   43,
+   49
+  ],
+  "ghi_chu_vi": "CẦN: ba cụm tháng 10 nhìn ra ngoài qua cửa đôi mở — C42 0–2s (bậc thềm đá + cây lá vàng), C43 11–16s (bảo vệ dẫn hai người xuống bậc thềm dưới hàng cây lá vàng, toàn cảnh), C49 0–16s và 24–27s (bậc thềm, lối xe vòng có sedan xám, cổng sắt mở cuối lối xe, hàng sồi lá vàng, nắng trưa) + cú từ ngoài ngưỡng nhìn vào (C49 8–11s, 16–21s) lấy khung cửa/bậc thềm ở LOT7_EXT_OCT_HOUSE. Không có bảng này, Seedance tự bịa lối xe – cổng – hàng cây, lệch với bảng tháng Giêng. Vẽ TỪ LOT7_EXT_BANG, chỉ đổi mùa + nắng. C49 cổng MỞ, sedan xám đỗ ở vòng quay đầu: tả trong prompt video, không vẽ vào bảng."
+ },
+ "LOT7_EXT_CHIEU_BANG": {
+  "panels": [
+   "LOT7_EXT_SEP_HOUSE",
+   "LOT7_EXT_SEP_EAST",
+   "LOT7_EXT_SEP",
+   "LOT7_EXT_SEP_WEST"
+  ],
+  "tuong": [
+   "a two-story red-brick colonial with a stone-trimmed two-story entry, wide stone steps up to tall walnut-stained double doors with textured-glass panes under an arched window, black shutters, two coach lanterns, clipped boxwoods in planters, an old black cast-iron pot planted with trailing ivy beside the bottom step, the curved paved turnaround in front",
+   "the east side lawn ending at a tall clipped evergreen hedge on the property line, the iron fence meeting a red-brick corner pillar, a black lamppost, and beyond the hedge the brick side wall and slate roof of the next house",
+   "a black wrought-iron double gate between two red-brick pillars at the end of the driveway, the iron fence running both ways under tall oaks in dense dark green leaf, then a concrete sidewalk, a granite curb, a quiet street and large brick houses opposite",
+   "the west side lawn with a young evergreen magnolia and a curved mulched bed of hydrangeas with faded blue-green blooms, the iron fence meeting a red-brick corner pillar, and beyond it the street curving away past large brick houses, a black streetlamp at the curb"
+  ],
+  "the_gioi": "The front grounds of the Lot 7 house in a gated community in Mitchellville, Prince George's County, Maryland: an upper-tier new-build two-story red-brick colonial set back behind a black wrought-iron fence and gate, a straight paved stone driveway from the gate ending in a curved turnaround before wide stone steps, a row of tall oaks just inside the front fence, late September in the late afternoon, the oaks in dense dark green leaf, green lawn, no snow.",
+  "anh_sang": "Low late-afternoon sun from the west raking across the front lawn and brick facade in long bright bands, long shadows of the oaks and fence stretching across the driveway, the shaded areas in soft neutral daylight, neutral white balance with no global orange or amber cast, coach lanterns off.",
+  "trang_thai": "chieu",
+  "ve_tu": "LOT7_EXT_BANG",
+  "khac_ban_goc": "Same layout, house, gate, fence, driveway, hedge, lamppost and trees in the same places as LOT7_EXT_BANG. Only season and light change: no snow anywhere; the oaks along the fence are in dense dark green late-summer leaf instead of bare; the lawn is fully green; the hydrangeas hold faded blue-green blooms; low late-afternoon sun from the west with long raking shadows replaces the crisp late-morning winter sun.",
+  "cum": [
+   68
+  ],
+  "ghi_chu_vi": "NÊN CÓ (khuyến nghị): C68 0–27s đứng ở ngưỡng cửa — 'qua khung cửa là lối xe lát đá, hàng cây sồi xanh đậm và nắng chiều thấp vàng', Devin trung cảnh ngoài ngưỡng với lối xe sau lưng ~14 giây. Bảng tháng 10 có lá vàng nên không dùng thay được. Vẽ TỪ LOT7_EXT_BANG, chỉ đổi mùa + nắng thấp phía tây. Nếu tiết kiệm: bỏ bảng này, C68 chỉ dùng LOT7_FOYER_DOORS + câu chữ 'ngoài cửa: lối xe lát đá, hàng sồi xanh đậm, nắng chiều thấp' (rủi ro lối xe/cổng lệch với các bảng kia)."
+ },
+ "CHARLENE_APT_BANG": {
+  "panels": [
+   "CHARLENE_KITCHEN",
+   "CHARLENE_WINDOW",
+   "CHARLENE_DOOR",
+   "CHARLENE_SOFA"
+  ],
+  "tuong": [
+   "a kitchenette: almond laminate counter, an old white four-burner range, a white refrigerator with a round purple hatbox on top, a dish rack by the sink; in front, a small round table with two mismatched chairs and a stack of bills with no lettering",
+   "a window with white vinyl blinds half raised and old snow along the outer edges of the glass, beside it a small flat TV on a low laminate stand, a space heater, a remote control and a phone charger cable",
+   "the apartment front door with a deadbolt and a brass chain, a doormat, wall hooks with a folded umbrella, a shelf with a ceramic bowl of keys and a vase of plain cardboard church fans on wooden sticks, a wall calendar with blank squares",
+   "a beige sofa bed folded against the wall with pillows and a crocheted afghan, an end table with a pleated yellow-shaded lamp, a worn Bible and a candy dish of peppermints, a framed blank certificate above, a white bedroom door ajar beside it"
+  ],
+  "the_gioi": "The cramped living room and kitchenette of a one-bedroom rental in an older three-story brick garden-style apartment complex in District Heights, Prince George's County, Maryland, a lower-middle-tier home that has come down in the world but is kept with church-going pride: beige carpet, scuffed off-white walls, builder-grade fixtures, older furniture kept clean, a few purple accents, a January day.",
+  "anh_sang": "Soft overcast January daylight through the half-raised white blinds as the key, the pleated yellow-shaded lamp by the sofa switched on as the one small warm pool, ceiling light off, mid-key, walls and blinds staying clean neutral white with no orange cast.",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   50,
+   51
+  ],
+  "ghi_chu_vi": "Phòng khách + bếp nhỏ (một không gian). La bàn: bếp nhỏ + bàn tròn hai ghế BẮC (1), cửa sổ + TV ĐÔNG (2), cửa căn hộ NAM (3), sofa giường + cửa phòng ngủ sơn trắng TÂY (4). Kiểm: từ cửa căn hộ nhìn vào bếp — sofa giường mép trái, cửa sổ mép phải (C51 0–2s); từ bàn tròn nhìn ra cửa thấy sofa giường + cửa phòng ngủ ở bên phải (C50 13–16s); sofa giường ↔ cửa sổ đối diện (C50 20–23s, C51 6–21s). Cửa phòng ngủ ở phía nam sofa (gần góc cửa căn hộ) để từ góc bếp nhìn sofa thì cửa phòng ngủ ở sau lưng Charlene (C56 8–10s). Đèn bàn chao xếp nếp vàng đặt giữa sofa và cửa phòng ngủ (đêm C56 nó hắt vệt sáng qua khe cửa). Không vẽ: hai vali đen bóng, điện thoại, tờ hoá đơn có dấu đỏ (cận chèn). Thành phố District Heights là Claude chọn (kịch bản không ghi)."
+ },
+ "CHARLENE_APT_DEM_BANG": {
+  "panels": [
+   "CHARLENE_KITCHEN_NIGHT",
+   "CHARLENE_WINDOW_NIGHT",
+   "CHARLENE_DOOR_NIGHT",
+   "CHARLENE_SOFA_NIGHT"
+  ],
+  "tuong": [
+   "a kitchenette: almond laminate counter, an old white four-burner range, a white refrigerator with a round purple hatbox on top, a dish rack by the sink; in front, a small round table with two mismatched chairs and a stack of bills with no lettering",
+   "a window with white vinyl blinds half raised on the dark night, old snow along the outer edges of the glass, beside it a small flat TV on a low laminate stand, a space heater, a remote control and a phone charger cable",
+   "the apartment front door with a deadbolt and a brass chain, a doormat, wall hooks with a folded umbrella, a shelf with a ceramic bowl of keys and a vase of plain cardboard church fans on wooden sticks, a wall calendar with blank squares",
+   "a beige sofa bed folded against the wall with pillows and a crocheted afghan, an end table with a pleated yellow-shaded lamp, a worn Bible and a candy dish of peppermints, a framed blank certificate above, a white bedroom door ajar on darkness beside it"
+  ],
+  "the_gioi": "The cramped living room and kitchenette of a one-bedroom rental in an older three-story brick garden-style apartment complex in District Heights, Prince George's County, Maryland, a lower-middle-tier home that has come down in the world but is kept with church-going pride: beige carpet, scuffed off-white walls, builder-grade fixtures, older furniture kept clean, a few purple accents, a January night.",
+  "anh_sang": "Night: the pleated yellow-shaded table lamp beside the sofa is the only light, a warm pool over the sofa, the end table and the ajar bedroom door, the kitchenette and front door falling into soft dim shadow that still holds detail, the window dark, no other lamps, walls reading neutral off-white where the lamp reaches.",
+  "trang_thai": "dem",
+  "ve_tu": "CHARLENE_APT_BANG",
+  "khac_ban_goc": "Same layout, furniture and props as CHARLENE_APT_BANG, the sofa bed still folded. Only light changes: it is night; the window is dark with old snow on the glass edges; there is no daylight; the pleated yellow-shaded lamp beside the sofa is the only light source; the kitchenette and front door side sit in dim soft shadow; the gap of the ajar bedroom door is dark.",
+  "cum": [
+   56
+  ],
+  "ghi_chu_vi": "Biến thể ĐÊM vẽ TỪ CHARLENE_APT_BANG, chỉ đổi ánh sáng ('cây đèn bàn vàng là nguồn sáng duy nhất, cửa sổ tối có tuyết bám mép kính'). Mâu thuẫn: C56 sofa giường 'đã kéo ra', chăn trắng — nhưng biến thể phải giữ y bố cục, nên bảng vẫn để sofa GẬP; prompt video ghi 'sofa giường đã kéo ra thành giường, chăn trắng'; nếu render cứ giữ sofa gập thì sửa riêng panel CHARLENE_SOFA_NIGHT bằng sua_panel. Cú trong phòng ngủ tối (C56 0–2s, 14–16s, 23–30s) không có panel: nền là bóng tối + mép cửa trắng + vệt đèn vàng qua khe — 0–2s lấy CHARLENE_KITCHEN_NIGHT làm nền phòng khách nhìn từ khe cửa."
+ },
+ "HOSP_BANG": {
+  "panels": [
+   "HOSP_BED",
+   "HOSP_WINDOW",
+   "HOSP_DOOR",
+   "HOSP_CHAIR"
+  ],
+  "tuong": [
+   "a hospital bed with raised head, white sheets and blanket, grey side rails, a white call cord clipped to the rail on the chair side, a headwall with oxygen outlets, a dark monitor, a blank whiteboard, an overbed table with a water pitcher",
+   "a wide window with vertical blinds half open on a pale overcast winter sky and bare treetops, a heating unit below it, a deep sill holding a box of tissues and a small vase of yellow carnations",
+   "a wide wood-veneer corridor door with a tall narrow glass panel showing a pale corridor beyond, a small round indicator light above the frame, a wall sanitizer dispenser and a small sink beside it, a TV mounted high with a dark screen",
+   "a teal vinyl recliner chair beside the bed, a small side table, a tall built-in storage cabinet, a framed print of a calm lake, and a narrow door to a bathroom"
+  ],
+  "the_gioi": "A single room in a newer regional public hospital in Prince George's County, Maryland, institutional and clean but plainly in use: pale green-grey walls, light vinyl plank floor, a white ceiling with flat light panels, one adjustable hospital bed in the middle of the room with its head to the wall, a January morning.",
+  "anh_sang": "Flat cool-white overhead panel light as the key with soft overcast winter daylight from the window, even and nearly shadowless on the pale green-grey walls, the one warm detail the small vase of yellow carnations on the sill, white sheets rendering clean white, mid-key, no orange cast.",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   52,
+   53,
+   54,
+   55
+  ],
+  "ghi_chu_vi": "La bàn: đầu giường áp tường TÂY (1), cửa sổ BẮC (2, 'bên giường phía cửa sổ' — Raven), cửa hành lang ĐÔNG ở phía chân giường (3, ô kính dọc + đèn báo trên khung), ghế khách NAM (4, 'bên giường phía ghế khách' — Devin; dây gọi trắng móc thành giường phía này). Kiểm: từ cửa nhìn giường — phía cửa sổ ở PHẢI, phía ghế khách ở TRÁI (C52 0–4s, C53 0–2s, C54 10–13s, C55 27–30s); từ đầu giường nhìn cửa — phía cửa sổ TRÁI, ghế khách PHẢI (C55 0–2s, 21–24s). Mâu thuẫn C53 28–30s ('máy cạnh cửa sổ nhìn về cửa hành lang', Charlene ở tiền cảnh mép TRÁI) — đứng phía cửa sổ nhìn ra cửa thì giường phải ở PHẢI; xem file md. Không vẽ: áo dạ tím sẫm vắt ghế (đạo cụ, có từ C52 tới C55 16s), tờ bệnh án, bìa kẹp xanh, khay cốc thuốc. Người ngoài ô kính: y tá scrubs teal, bảo vệ đồng phục xanh than — chỉ trong prompt."
+ },
+ "COURT_HALL_BANG": {
+  "panels": [
+   "COURT_DOORS",
+   "COURT_HALL_EAST",
+   "COURT_WINDOWS",
+   "COURT_HALL_WEST"
+  ],
+  "tuong": [
+   "tall double oak courtroom doors with frosted glass panels and no lettering, light oak paneling, long wooden benches along the wall on both sides of the doors, a square oak-clad column just right of the doors, a glass-front notice case with blank sheets",
+   "the far end of the hallway: a pair of plain oak doors to a stairwell, a drinking fountain, a steel trash can, the marble floor and oak paneling running to a tall window at the end",
+   "a row of tall windows with plain white roller shades raised, bright white daylight pouring in, light oak paneling below them, a long wooden bench under the windows, a round wall clock with plain tick marks and no numerals",
+   "the other end of the hallway: a court security checkpoint with a walk-through metal detector arch, an X-ray belt and a small desk, glass doors to the elevator lobby beyond"
+  ],
+  "the_gioi": "A long public hallway outside a courtroom in the county circuit courthouse in Upper Marlboro, Prince George's County, Maryland, a civic building that is worn but well kept: beige marble floor, light oak wall paneling, square oak-clad columns, tall windows, a plain ceiling with flush light fixtures, a March weekday late morning.",
+  "anh_sang": "Bright white daylight from the tall south windows washing across the marble floor and oak paneling, flush ceiling fixtures adding even neutral fill, no lamps, mid-key, neutral daylight white balance with whites clean and no amber cast. The marble reads pale cream-grey, not yellow; the oak paneling is a medium natural oak, not orange; neutral white balance across the hallway, natural restrained saturation, the daylight patches clean white",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   63
+  ],
+  "ghi_chu_vi": "Hành lang chạy đông–tây. Cửa gỗ đôi phòng xử ở tường BẮC (1) với ghế băng hai bên cửa (cú 0–3s nhìn cửa phòng xử thấy người ngồi ghế băng) và cột ốp gỗ ngay bên PHẢI cửa (Devin đứng mép phải khung). Cửa sổ cao ở NAM (3), hắt sáng trắng vào phía cửa phòng xử. Đầu TÂY (4) là chốt an ninh + ra thang máy: 12–16s 'máy sát dãy ghế băng nhìn ngang hành lang' = nhìn dọc về tây, an ninh 'ở cuối hành lang' bước lên, ghế băng chạy ở bên phải; 28–30s Devin đi về phía máy rồi ra mép TRÁI = đi về phía tây, phía lối ra. Không vẽ: sáu người chờ, nhân viên an ninh, phong bì nâu. Không chữ trên cửa, biển số phòng, bảng thông báo."
+ },
+ "CHURCH_HALL_BANG": {
+  "panels": [
+   "CHURCH_HALL",
+   "CHURCH_HALL_TABLES",
+   "CHURCH_HALL_OUT",
+   "CHURCH_HALL_EXIT"
+  ],
+  "tuong": [
+   "a long stainless steel serving counter in front of the church kitchen pass-through, a steaming steel stock pot with a ladle, stacks of white paper bowls, two coffee urns and foil pans, and behind the counter a double stainless steel sink with a sprayer faucet",
+   "rows of long folding tables with white plastic tablecloths and metal folding chairs, a napkin holder, salt and pepper shakers and a bottle of hot sauce on each table, small high basement windows with frosted glass near the ceiling",
+   "a plain empty wooden cross on the cream cinder-block wall, a purple-and-gold church banner with no lettering, a framed photo of the red-brick church building, a rolling cart stacked with folding chairs",
+   "double steel doors with push bars to the stairwell, an upright piano beside them topped with a stack of plain hymnals, a cork bulletin board of blank white flyers, metal shelves of canned goods with blank labels for the food pantry"
+  ],
+  "the_gioi": "The basement fellowship hall of a mid-size red-brick Black Baptist church in District Heights, Prince George's County, Maryland, set up for the free Saturday lunch: speckled linoleum floor, a drop ceiling with fluorescent tube panels, cream-painted cinder-block walls, a working-class church space that is worn, clean and well used, an April midday.",
+  "anh_sang": "Flat fluorescent light from the drop-ceiling tube panels as the key, a little soft daylight from the high frosted basement windows, steam rising from the stock pot, even and mid-key, neutral white balance so tablecloths and bowls stay clean white, no amber cast.",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   64
+  ],
+  "ghi_chu_vi": "Mã CHURCH_HALL (KẾT C64) cho panel quầy phát đồ ăn. La bàn: quầy thép + cửa thông bếp + bồn rửa đôi BẮC (1), dãy bàn gấp + cửa sổ hầm cao ĐÔNG (2), thánh giá gỗ trơn + băng rôn không chữ NAM (3, hướng 'máy sau quầy nhìn ra hàng người'), cửa thép đôi ra cầu thang + piano đứng + bảng tin tờ rơi trắng TÂY (4). Hàng người chạy dọc phía tây từ quầy tới cửa ra: từ cuối hàng nhìn quầy thì piano + cửa ra ở mép trái, bàn gấp ở phải (C64 0–3s); từ sau quầy nhìn ra thì hàng người kéo về cửa ra ở bên phải, Sister Bernice/Pearl cầm bát đi về dãy bàn gấp ở bên trái (20–30s). Nhà thờ Baptist người da đen — Tin Lành: thánh giá trơn không tượng, không đồ Công giáo. District Heights là Claude chọn (cùng khu căn hộ Charlene, đây là nhà thờ của chính bà ta). Không vẽ: ~15 người xếp hàng, tình nguyện viên, bát gumbo trên tay."
+ },
+ "WAREHOUSE_BANG": {
+  "panels": [
+   "WAREHOUSE",
+   "WAREHOUSE_DOCK",
+   "WAREHOUSE_BREAK",
+   "WAREHOUSE_CONVEYOR"
+  ],
+  "tuong": [
+   "a long aisle between tall blue-and-orange steel pallet racks stacked with plain brown cartons and shrink-wrapped pallets, yellow lane lines on the concrete, a yellow forklift parked at the aisle end, hanging aisle markers with no lettering",
+   "a row of roll-up loading dock doors, one half open to daylight, yellow steel bollards, dock levelers, stacks of empty wooden pallets and a manual pallet jack",
+   "the break corner against the wall: a folding table with plastic chairs, a small white refrigerator, a microwave on a metal cart, a row of grey metal lockers, a water cooler and a bulletin board of blank notices",
+   "a long roller conveyor line running beside the racks, packing stations with tape dispensers and rolls of stretch wrap, stacked plain cartons, a steel mezzanine stair with yellow railings"
+  ],
+  "the_gioi": "The floor of a large distribution warehouse in Prince George's County, Maryland, a busy working-class workplace kept orderly: sealed grey concrete floor with yellow painted lane lines, a high steel-truss ceiling with LED high-bay lights, tall steel pallet racks, a September weekday afternoon.",
+  "anh_sang": "Even cool-white light from the LED high-bay fixtures, neutral daylight spilling in through the half-open dock door, no warm lamps, mid-key, plain cartons and painted lines staying clean and neutral, no amber cast.",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   65
+  ],
+  "ghi_chu_vi": "Mã WAREHOUSE (KẾT C65) cho panel lối đi giữa giá kệ. La bàn: lối đi giá kệ + xe nâng vàng ĐÔNG (1), cửa bốc dỡ NAM (2), góc nghỉ (bàn gấp, ghế nhựa, tủ lạnh nhỏ) TÂY (3), băng chuyền BẮC (4). 'Máy ở góc nghỉ nhìn về dãy giá kệ / lối đi' = panel 1; 'máy ở lối đi, sau vai quản lý kho, nhìn về góc nghỉ' = panel 3; 'máy cạnh băng chuyền, lùi theo Devin dọc giá kệ' = panel 1 (băng chuyền ở bên trái). Không vẽ: công nhân áo phản quang, phong bì, tiền, thẻ dây cam. Thùng carton trơn, không logo, không chữ."
+ },
+ "DEVIN_STUDIO_BANG": {
+  "panels": [
+   "DEVIN_STUDIO",
+   "DEVIN_STUDIO_BED",
+   "DEVIN_STUDIO_DOOR",
+   "DEVIN_STUDIO_TABLE"
+  ],
+  "tuong": [
+   "a kitchenette: a two-burner electric cooktop under a range hood with a black cast-iron pot, a cutting board of diced onion, celery and green bell pepper, a salt jar with a yellowed recipe card of unreadable script, a bottle of hot sauce, a low refrigerator",
+   "a neatly made single bed with a grey blanket against the wall, a window above it with closed white blinds, a small nightstand with a phone charger cable, a laundry basket of folded towels on the floor",
+   "the apartment front door with a deadbolt and a brass chain, a worn doormat, a narrow closet door beside it, a light switch and a small smoke alarm on the wall",
+   "a folding table against the wall with one chair, a desk lamp with a yellow fabric shade, a folded square white kitchen towel on the table, and near the door corner a row of wall hooks holding an orange lanyard with a blank badge card"
+  ],
+  "the_gioi": "A small rented studio on the second floor of an older two-story brick garden-style apartment complex in Capitol Heights, Prince George's County, Maryland, humble working-class but clean and tidy: beige carpet, off-white walls, a small kitchenette, plain thrift-store furniture, a late-September night.",
+  "anh_sang": "Night: the yellow fabric-shaded desk lamp and the small light under the range hood are the only lights, small warm pools on the table and the cooktop, steam rising from the pot, the rest of the room in soft shadow that still holds detail, the window dark behind closed blinds, the walls reading neutral off-white. Only the lampshade and the small pool of light around it are warm; the walls, the bed and the kitchenette away from the lamp read neutral off-white and soft grey in cool shadow; no yellow or amber cast over the room; restrained saturation, true dark shadows",
+  "trang_thai": "dem",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   67
+  ],
+  "ghi_chu_vi": "Mã DEVIN_STUDIO (KẾT C67) cho panel góc bếp. La bàn: góc bếp nhỏ (bếp điện hai lò, tủ lạnh thấp) BẮC (1), giường đơn chăn xám + cửa sổ ĐÔNG (2), cửa ra vào NAM (3), bàn gấp một ghế + đèn bàn chao vải vàng + móc treo ở góc gần cửa TÂY (4). Từ cửa nhìn vào: móc treo (gi-lê cam + thẻ dây cam) ở tiền cảnh mép TRÁI, giường ở phải, Devin ở góc bếp, bàn gấp 'sau lưng anh' (C67 0–3s, 26–30s). Gi-lê phản quang cam và áo len navy gấp trên bàn là đồ mặc — không tả trong bảng (luật cấm chữ quần áo), thêm bằng prompt video. Tờ công thức, thớt 'bộ ba' hành–cần tây–ớt chuông, nồi gang vẽ luôn vì chỉ dùng ở C67."
+ }
+}

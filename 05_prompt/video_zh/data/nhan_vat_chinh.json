@@ -1,0 +1,91 @@
+{
+  "nhan_dien": {
+    "MARGUERITE": "蓬松齐下巴的黑白相间卷发、上门牙中间有一道小缝的瘦削年长女性(66岁)",
+    "DEVIN": "戴着细细的深灰色长方形金属框眼镜、头发剪得很短的成年男性(38岁)",
+    "RAVEN": "深深侧分、齐下巴的酒红色波波头、眉毛修得弯弯的苗条成年女性(35岁)",
+    "CHARLENE": "戴着黑色猫眼框眼镜、额前带一缕灰白的蜂蜜棕色短卷发、富态的年长女性(64岁)",
+    "INES": "剪得很短的黑色自然卷发、两耳一对小小的粗金圈耳环、身材高挑的中年女性(45岁)",
+    "PRENTICE": "光头、下巴上一圈修剪整齐的黑白相间山羊胡、戴着半框眼镜的壮实中年男性(58岁)",
+    "ASHANTI": "一头细细的长辫子在头顶高高扎成马尾、苗条的年轻女性(28岁)"
+  },
+  "trang_phuc": {
+    "SHEET_MARGUERITE_M0": "穿着洗旧的灰绿色暗纹棉布家居连衣裙，长过膝盖，外面一件起球的米杏色长款针织开衫，两个贴袋，一边袖口垂着线头；灰色毡布拖鞋，没有任何首饰",
+    "SHEET_MARGUERITE_M0A": "穿着灰绿色暗纹家居裙和起球的米杏色长针织开衫，袖子推到小臂，外面系着一条有旧污渍的米白色挂脖棉布围裙，腰上系带；灰色毡布拖鞋，没有任何首饰",
+    "SHEET_MARGUERITE_M1": "穿着一件没有字、没有标志的草绿色V领马甲，前面一排四颗扣子、下面两个贴袋，里面奶油色细针织长袖衫；藏青色直筒长裤，黑色运动鞋，没有任何首饰",
+    "SHEET_MARGUERITE_M2": "穿着藏青色羊毛连衣裙，长袖、圆领、A字裙摆长过膝盖，脖子上一条细细的金链子挂着小小的金色十字架，黑色低跟皮鞋，没有戴耳环",
+    "SHEET_MARGUERITE_M3": "穿着长袖的深祖母绿色西装外套（不是马甲），单扣、翻驳领，里面奶油色真丝衬衫敞着领口；藏青色直筒西裤，黑色低跟皮鞋，细金链挂着小小的金色十字架",
+    "SHEET_MARGUERITE_M3W": "穿着长过膝盖的奶油色羊毛长大衣，敞着怀，露出一点深祖母绿西装外套的边；脖子上围着带流苏的祖母绿羊毛围巾，黑色皮手套，藏青色西裤，黑色低跟短靴",
+    "SHEET_MARGUERITE_M4": "穿着柔软的祖母绿针织裹身连衣裙，长袖、V形交叠领，腰侧系带，裙摆垂到小腿中间，细金链挂着小小的金色十字架，黑色粗低跟皮鞋，没有戴耳环",
+    "SHEET_DEVIN_V0": "穿着麻灰色短袖亨利领T恤，领口两颗扣子敞开，深蓝色直筒牛仔裤，灰色拖鞋，没有项链，没有手表",
+    "SHEET_DEVIN_V1": "穿着深海军蓝牛津纺长袖衬衫，袖口扣好，下摆塞进卡其色休闲长裤，棕色皮带，棕色系带皮鞋，脖子上挂着蓝色挂绳，吊着一张没有字的白色卡片",
+    "SHEET_DEVIN_V2": "穿着藏青色单排扣西装外套，里面浅蓝色衬衫，领口第一颗扣子敞开，没有系领带；中灰色羊毛西裤，棕色皮带，棕色乐福鞋，没有戴手表",
+    "SHEET_DEVIN_V3": "穿着崭新的中炭灰色修身两粒扣西装，面料微微泛光，白衬衫，系着亮面的藏青色缎子领带，黑色亮面皮鞋，没有口袋巾",
+    "SHEET_DEVIN_V4": "穿着旧的哑光黑色短款羽绒服，敞着拉链，袖口磨得发白，里面灰色连帽卫衣，帽子放下；旧的深蓝色牛仔裤和黑色运动鞋；下巴上冒出短短的胡茬，短发长长了一点",
+    "SHEET_DEVIN_V4H": "没有穿外套，只穿着灰色连帽套头卫衣，帽子放下，领口露出深灰色T恤边；旧的深蓝色牛仔裤，磨旧的黑色运动鞋；下巴上冒出短短的胡茬，短发长长了一点",
+    "SHEET_DEVIN_V5": "穿着一件没有字的橙色反光背心，横竖都有银色反光条，里面灰色圆领短袖T恤，深灰色工装长裤，黑色系带工作靴",
+    "SHEET_DEVIN_V6": "穿着整洁的藏青色圆领毛衣，领口露出一圈白色T恤边，炭灰色休闲长裤，棕色系带皮鞋",
+    "SHEET_DEVIN_V7": "穿着蓝灰色格子衬衫，扣子一直扣到领口，外面敞开一件土棕色帆布夹克，卡其色工装长裤，深棕色皮带，棕色皮靴",
+    "SHEET_DEVIN_V8": "穿着炭灰色圆领短袖T恤，黑色束脚运动裤，左肩上搭着一条白色厨房毛巾，黑色拖鞋",
+    "SHEET_RAVEN_R0": "穿着酒红色罗纹针织两件套——小高领长袖上衣配同色阔腿长裤，奶油色毛绒拖鞋，小钻石耳钉，长长的杏仁形裸粉色亮面指甲，嘴唇涂着亮棕色唇彩",
+    "SHEET_RAVEN_R1": "穿着亮面黑色缎子合身连衣裙，小高领、长袖、长到小腿，黑色尖头细高跟鞋，小钻石耳钉，长长的杏仁形裸粉色亮面指甲",
+    "SHEET_RAVEN_R2": "穿着酒红色人造皮短款机车夹克，敞着怀，里面黑色圆领贴身上衣，黑色高腰紧身牛仔裤，黑色高跟短靴，小钻石耳钉，长长的杏仁形裸粉色亮面指甲",
+    "SHEET_RAVEN_R3": "穿着酒红色合身连衣裙，方领、七分袖、长到膝盖，裸色尖头高跟鞋，小钻石耳钉，长长的杏仁形裸粉色亮面指甲",
+    "SHEET_RAVEN_R4": "穿着酒红色细罗纹针织连衣裙，小高领、长袖、贴身长到小腿，腿上黑色薄丝袜，没有穿鞋，小钻石耳钉，长长的杏仁形裸粉色亮面指甲",
+    "SHEET_RAVEN_R5": "穿着长到膝盖的亮面黑色长款羽绒服，拉链敞开，露出里面酒红色细罗纹针织连衣裙，黑色薄丝袜，黑色尖头高跟短靴，小钻石耳钉，长长的杏仁形裸粉色指甲",
+    "SHEET_RAVEN_R6": "穿着炭灰色羊毛直筒连衣裙，圆领、长到膝盖，外面敞着一件黑色长款针织开衫，黑色平底鞋；不戴首饰，没有化妆，指甲剪短；头发没有光泽，一侧别着黑色发夹",
+    "SHEET_RAVEN_R7": "头上戴着白色一次性发网，发梢露在发网下；白色圆领短袖T恤，宝蓝色挂脖围裙，黄色长橡胶手套，黑色长裤，黑色防滑鞋；没有耳环，没有化妆，指甲剪短",
+    "SHEET_CHARLENE_CH1": "头上歪戴着宽檐的皇家紫色礼帽，侧边一个大缎面蝴蝶结；皇家紫色套裙，单扣收腰外套配及膝铅笔裙，白色真丝上衣，左翻领别着金色小花别针，金色手表，黑色低跟皮鞋",
+    "SHEET_CHARLENE_CH2": "穿着深梅紫色针织开衫，扣着扣子，里面白衬衫扣到领口，黑色直筒西裤，黑色低跟皮鞋，左小臂挎着黑色硬挺皮手提包，金色手表，金色圆耳钉，梅子色口红",
+    "SHEET_CHARLENE_CH3": "穿着皇家紫色套裙，单扣收腰外套配及膝铅笔裙，里面白色真丝上衣，左边翻领上别着金色小花别针，金色手表，金色圆耳钉，黑色低跟皮鞋，没有戴帽子",
+    "SHEET_CHARLENE_CH4": "头上戴着梅紫色粗针织毛线帽，几缕卷发露在帽檐下；长到膝盖的深茄紫色羊毛大衣扣到领口，灰色针织围巾，黑色西裤，黑色低跟短靴，左小臂挎着黑色皮包",
+    "SHEET_CHARLENE_CH5": "穿着浅蓝色碎花短袖病号服，V领、长到膝盖，左手腕上戴着白色医院腕带，上面的字看不清，浅灰色防滑袜，没有穿鞋，没有戴耳环",
+    "SHEET_CHARLENE_CH5C": "穿着浅蓝色碎花短袖病号服，长到膝盖，外面敞开一件深梅紫色针织开衫，左手腕上戴着白色医院腕带，浅灰色防滑袜，没有穿鞋，耳朵上小小的金色圆耳钉",
+    "SHEET_CHARLENE_CH5W": "头上戴着梅紫色毛线帽，围着灰色针织围巾；长到膝盖的深茄紫色羊毛大衣敞着，露出浅蓝色碎花病号服；左手腕上白色腕带和金色手表，黑色平底便鞋，没有穿袜子",
+    "SHEET_CHARLENE_CH6": "穿着旧的藏青色套裙，小立领外套的一排包扣一直扣到脖子，配及膝铅笔裙，没有别针，黑色低跟皮鞋，没有戴耳环，没有戴手表",
+    "SHEET_CHARLENE_CH7": "头上戴着白色一次性发网，卷发包在发网里；白色短袖翻领衬衫，宝蓝色挂脖围裙，透明塑料手套，黑色长裤，黑色防滑工作鞋；没有戴耳环，没有涂口红",
+    "SHEET_INES_I1": "穿着剪裁利落的奶油色羊毛西装套装，单扣外套在腰间扣好，直筒长裤，里面象牙白真丝圆领上衣，左手腕上棕色细皮带手表，裸色尖头皮鞋，金色粗圈耳环",
+    "SHEET_INES_I2": "穿着奶油色细针织合身连衣裙，长袖、长过膝盖，肩上披着驼色羊毛大衣，右手腕上一只细细的金手镯，裸色尖头高跟鞋，金色粗圈耳环",
+    "SHEET_PRENTICE_P1": "穿着剪裁合身的深炭灰色三粒扣西装，白衬衫，纯色的藏青色哑光领带，左手腕上一块银色钢表，黑色系带皮鞋，没有口袋巾",
+    "SHEET_ASHANTI_A1": "穿着米色单排扣西装外套，里面黑色圆领T恤，脖子上挂着黑色挂绳，吊着一张没有字的白色卡片，黑色西裤，黑色粗低跟皮鞋，小小的金耳钉"
+  },
+  "lay_phan": {
+    "SHEET_MARGUERITE_M3W": "{T}（@图片{N}）这张人物图左边脸部特写里没有围巾，这一段以右边全身照为准：脖子上一直围着带流苏的祖母绿羊毛围巾。",
+    "SHEET_RAVEN_R7": "{T}（@图片{N}）这张人物图左边脸部特写里没有发网，这一段以右边全身照为准：头上一直戴着白色一次性发网，酒红色发梢从发网下露出来。",
+    "SHEET_CHARLENE_CH1": "{T}（@图片{N}）这张人物图左边脸部特写和右边全身照里都戴着帽子，这一段头上一直戴着这顶宽檐的皇家紫色礼帽，侧边一个大大的缎面蝴蝶结。",
+    "SHEET_CHARLENE_CH4": "{T}（@图片{N}）这张人物图左边脸部特写和右边全身照里都戴着毛线帽，这一段头上一直戴着这顶梅紫色粗针织毛线帽，几缕卷发露在帽檐下。",
+    "SHEET_CHARLENE_CH5W": "{T}（@图片{N}）这张人物图左边脸部特写里没有帽子和围巾，这一段以右边全身照为准：头上一直戴着梅紫色毛线帽，脖子上围着灰色针织围巾。",
+    "SHEET_CHARLENE_CH7": "{T}（@图片{N}）这张人物图左边脸部特写里没有发网，这一段以右边全身照为准：头上一直戴着白色一次性发网，卷发包在发网里。"
+  },
+  "ghi_chu": {
+    "MARGUERITE": [
+      "Vết bỏng cũ mờ trên mu bàn tay TRÁI (kịch bản L63–64, nhắc ở hầu hết cận tay, kể cả cảnh cuối) KHÔNG nhìn thấy trên bất kỳ ảnh sheet nào → mọi insert/cận tay phải tự viết bằng chữ, ví dụ: 左手手背上有一块淡淡的旧烫伤疤痕. Răng cửa hở khe chỉ lộ khi hé miệng.",
+      "Trên ảnh tóc muối tiêu xoăn bồng, ngang cằm, PHỦ hai tai (không vén sau tai như mô tả gốc) — viết theo ảnh. Không kính, không khuyên tai ở mọi bộ; thánh giá vàng chỉ có ở M2, M3, M4 (M3W chỉ thấy sợi dây mảnh dưới khăn). M0/M1/M0A không trang sức.",
+      "Phân biệt: M0 vs M0A chỉ khác tạp dề trắng ố (C9 cởi tạp dề từ giây 19 → chuyển sang M0). Ba bộ emerald: M3 = blazer có tay + quần tây navy + giày thấp; M3W = măng tô kem dài phủ ngoài (blazer chỉ lộ một mép) + khăn emerald có tua + găng da đen + bốt cổ ngắn; M4 = đầm quấn jersey mềm tới bắp chân, dây buộc eo. Gi-lê M1 trên ảnh có 4 khuy, cổ V."
+    ],
+    "DEVIN": [
+      "Kính gọng chữ nhật kim loại mảnh màu xám súng có ở MỌI ảnh V0–V8, kể cả V4/V4H râu lún phún; dòng nhận diện dựa vào kính + tóc cắt rất ngắn nên dùng được cho mọi bộ. Chỉ V4/V4H có râu lún phún + tóc Caesar dài ra một chút; mọi bộ khác cạo sạch.",
+      "V0 trên ảnh là henley TAY NGẮN, trong khi kịch bản C18–C20 ghi 'henley xám dài tay' (L991) → viết theo ảnh (短袖) hoặc làm lại ảnh. Hoodie V4 có khoá kéo ngắn ở cổ, hoodie V4H là chui đầu không khoá — hai ảnh lệch nhẹ; áo phao V4 trên ảnh mở hẳn khoá (không kéo nửa chừng).",
+      "Dễ lẫn: V3 (xám than vừa, 2 khuy, cà vạt satin navy bóng, có tóc, kính gọng đủ) vs Prentice P1 (xám than đậm, 3 khuy, cà vạt navy mờ, hói, râu dê, kính nửa gọng). V4 áo phao đen NGẮN, mờ, cũ vs Raven R5 áo phao đen BÓNG dài tới gối. V1 (sơ mi navy trơn sơ vin + kaki be + dây thẻ xanh) vs V7 (sơ mi kẻ ô xanh xám + áo khoác canvas nâu đất, không thẻ)."
+    ],
+    "RAVEN": [
+      "Móng hạnh nhân dài be hồng bóng (ánh vàng không thấy rõ trên ảnh) + khuyên kim cương nhỏ + son bóng ở R0–R5; từ R6 móng cắt ngắn không sơn, không khuyên, không son bóng. Túi xách không có trong ảnh nào — viết như đạo cụ riêng (túi da đỏ rượu khoá vàng / túi mới đen bóng).",
+      "Tóc trên ảnh là bob đỏ rượu đậm (đỏ hơn 'nâu rượu'), rẽ ngôi lệch sâu, vén sau tai một bên, sát đường ngôi màu đen ở MỌI ảnh. R4/R5 tóc vẫn mượt bóng y như R0, KHÔNG thấy xù chân tóc → nếu C50–C62 cần thì thêm chữ: 发根有点毛躁，不像之前那么顺亮 (C60–C62 thêm 头发有点乱). R6 có kẹp tóc đen bên ngôi; R7 tóc trong lưới, chỉ lộ đuôi tóc.",
+      "Đỏ rượu dễ lẫn: R0 (áo len gân cổ cao + quần ống rộng + dép lông kem) / R4 (ĐẦM len gân cổ cao dài tới bắp chân + tất đen, chân không giày) / R5 (R4 + áo phao đen bóng dài + bốt mũi nhọn) / R3 (đầm cổ vuông tay lửng tới gối + giày nude) / R2 (áo khoác da giả lửng + jean đen). Găng cao su R7 trên ảnh chỉ tới giữa cẳng tay, không tới khuỷu."
+    ],
+    "CHARLENE": [
+      "Kính mắt mèo gọng đen ở MỌI ảnh; tóc lọn nâu mật có một lọn bạc rõ ở trán (rõ hơn mô tả 'chút bạc ở chân tóc'). Ô mặt: CH1 có mũ rộng vành, CH4 có mũ len + khăn xám, CH5W KHÔNG mũ không khăn, CH7 KHÔNG lưới tóc → dùng câu lay_phan tương ứng.",
+      "Ảnh lệch mô tả: CH5/CH5C/CH5W vẫn còn son màu mận và tóc KHÔNG xẹp; CH5C, CH5W còn khuyên vàng nhỏ; CH5W thấy đồng hồ vàng cạnh vòng trắng ở cổ tay trái; CH6 son mận đậm, tóc không xẹp, không có áo dạ vắt tay và túi da đen cũ. Nếu cần đúng kịch bản phải thêm chữ: 嘴唇没有涂口红，卷发有点塌; áo dạ/túi ở C63 viết như đạo cụ.",
+      "Ba sắc tím: CH2/CH5C cardigan len tím mận; CH1/CH3 vest váy tím hoàng gia + cài hoa vàng (CH1 = CH3 + mũ); CH4/CH5W áo dạ tím cà sẫm dài tới gối + mũ len tím mận + khăn xám. CH4 cài kín cổ, CH5W để mở lộ áo bệnh nhân. Ở C50 (CH4) Charlene tháo khăn xám cầm tay — nên câu lay_phan CH4 chỉ giữ mũ."
+    ],
+    "INES": [
+      "Tóc tự nhiên cắt sát màu đen + khuyên vòng vàng nhỏ dày (huggie) ở cả hai tai có ở cả I1 và I2.",
+      "I1 vs I2 đều tông kem: I1 = bộ vest QUẦN kem cài một khuy + áo lụa ngà + đồng hồ dây da nâu cổ tay trái; I2 = ĐẦM len kem ôm qua gối + măng tô lạc đà khoác vai + lắc vàng mảnh cổ tay phải + giày cao gót nude. Đừng lẫn blazer kem I1 với blazer be của Ashanti (Ashanti mặc quần đen + áo thun đen)."
+    ],
+    "PRENTICE": [
+      "Một bộ duy nhất P1: đầu hói bóng, râu dê muối tiêu nối với ria, kính nửa gọng (gọng kim loại phía trên), đồng hồ thép bạc cổ tay trái, cà vạt navy mờ. Phân biệt với Devin V3 xem ghi chú Devin."
+    ],
+    "ASHANTI": [
+      "Một bộ duy nhất A1: tóc tết nhỏ dài buộc đuôi ngựa cao rủ xuống lưng, khuyên nụ vàng nhỏ, thẻ trắng không chữ trên dây đeo đen (V1 của Devin là dây xanh). Kịch bản có cảnh rút điện thoại 'từ túi blazer be'."
+    ]
+  }
+}

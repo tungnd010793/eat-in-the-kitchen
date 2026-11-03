@@ -1,0 +1,710 @@
+{
+ "SHEET_MARGUERITE_M0": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_MARGUERITE_M0A": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_MARGUERITE_M1": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_MARGUERITE_M2": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_MARGUERITE_M3": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_MARGUERITE_M3W": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_MARGUERITE_M4": {
+  "loai": "nv",
+  "ten": "MARGUERITE"
+ },
+ "SHEET_DEVIN_V0": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V2": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V1": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V3": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V4": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V4H": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V7": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V5": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V8": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_DEVIN_V6": {
+  "loai": "nv",
+  "ten": "DEVIN"
+ },
+ "SHEET_RAVEN_R0": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R1": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R2": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R3": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R4": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R5": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R6": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_RAVEN_R7": {
+  "loai": "nv",
+  "ten": "RAVEN"
+ },
+ "SHEET_CHARLENE_CH2": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH3": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH1": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH4": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH5": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH5C": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH5W": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH6": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_CHARLENE_CH7": {
+  "loai": "nv",
+  "ten": "CHARLENE"
+ },
+ "SHEET_INES_I2": {
+  "loai": "nv",
+  "ten": "INES"
+ },
+ "SHEET_INES_I1": {
+  "loai": "nv",
+  "ten": "INES"
+ },
+ "SHEET_PRENTICE_P1": {
+  "loai": "nv",
+  "ten": "PRENTICE"
+ },
+ "SHEET_ASHANTI_A1": {
+  "loai": "nv",
+  "ten": "ASHANTI"
+ },
+ "SHEET_BERNICE_SB1": {
+  "loai": "nv",
+  "ten": "BERNICE"
+ },
+ "SHEET_BERNICE_SB2": {
+  "loai": "nv",
+  "ten": "BERNICE"
+ },
+ "SHEET_PEARL_SP2": {
+  "loai": "nv",
+  "ten": "PEARL"
+ },
+ "SHEET_PEARL_SP1": {
+  "loai": "nv",
+  "ten": "PEARL"
+ },
+ "SHEET_MANAGER_QL1": {
+  "loai": "nv",
+  "ten": "MANAGER"
+ },
+ "SHEET_AGENT_AG1": {
+  "loai": "nv",
+  "ten": "AGENT"
+ },
+ "SHEET_GUARD_PT1": {
+  "loai": "nv",
+  "ten": "GUARD"
+ },
+ "SHEET_SECURITY_BV2": {
+  "loai": "nv",
+  "ten": "SECURITY"
+ },
+ "SHEET_OKONJO_O1": {
+  "loai": "nv",
+  "ten": "OKONJO"
+ },
+ "SHEET_TANISHA_T1": {
+  "loai": "nv",
+  "ten": "TANISHA"
+ },
+ "SHEET_REPORTER_RP1": {
+  "loai": "nv",
+  "ten": "REPORTER"
+ },
+ "SHEET_OFFICER_OF1": {
+  "loai": "nv",
+  "ten": "OFFICER"
+ },
+ "SHEET_COORDINATOR_DP1": {
+  "loai": "nv",
+  "ten": "COORDINATOR"
+ },
+ "SHEET_COWORKER_DN1": {
+  "loai": "nv",
+  "ten": "COWORKER"
+ },
+ "SHEET_FOREMAN_QK1": {
+  "loai": "nv",
+  "ten": "FOREMAN"
+ },
+ "SHEET_APPLICANT_XV1": {
+  "loai": "nv",
+  "ten": "APPLICANT"
+ },
+ "SHEET_BOUNCER_BV1": {
+  "loai": "nv",
+  "ten": "BOUNCER"
+ },
+ "BOWIE_KITCHEN_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_KITCHEN_DAY"
+ },
+ "BOWIE_DINING_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_DINING_DAY"
+ },
+ "FOYER_STAIRS": {
+  "loai": "boi_canh",
+  "ten": "FOYER_STAIRS"
+ },
+ "BOWIE_SOFA_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_SOFA_DAY"
+ },
+ "BOWIE_KITCHEN_MESSY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_KITCHEN_MESSY"
+ },
+ "BOWIE_DINING_MESSY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_DINING_MESSY"
+ },
+ "BOWIE_FOYER_MESSY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_FOYER_MESSY"
+ },
+ "BOWIE_SOFA_MESSY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_SOFA_MESSY"
+ },
+ "BOWIE_KITCHEN_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_KITCHEN_NIGHT"
+ },
+ "BOWIE_DINING_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_DINING_NIGHT"
+ },
+ "BOWIE_FOYER_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_FOYER_NIGHT"
+ },
+ "BOWIE_SOFA_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_SOFA_NIGHT"
+ },
+ "NIGHT_KITCHEN": {
+  "loai": "boi_canh",
+  "ten": "NIGHT_KITCHEN"
+ },
+ "NIGHT_DINING": {
+  "loai": "boi_canh",
+  "ten": "NIGHT_DINING"
+ },
+ "BOWIE_PARTY_FOYER": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_PARTY_FOYER"
+ },
+ "BOWIE_PARTY_SOFA": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_PARTY_SOFA"
+ },
+ "BOWIE_FRONT_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_FRONT_DAY"
+ },
+ "BOWIE_DRIVEWAY_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_DRIVEWAY_DAY"
+ },
+ "BOWIE_STREET_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_STREET_DAY"
+ },
+ "BOWIE_SIDEYARD_DAY": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_SIDEYARD_DAY"
+ },
+ "PORCH_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "PORCH_NIGHT"
+ },
+ "BOWIE_DRIVEWAY_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_DRIVEWAY_NIGHT"
+ },
+ "BOWIE_STREET_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_STREET_NIGHT"
+ },
+ "BOWIE_SIDEYARD_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_SIDEYARD_NIGHT"
+ },
+ "BOWIE_FRONT_SNOW": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_FRONT_SNOW"
+ },
+ "BOWIE_DRIVEWAY_SNOW": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_DRIVEWAY_SNOW"
+ },
+ "BOWIE_STREET_SNOW": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_STREET_SNOW"
+ },
+ "BOWIE_SIDEYARD_SNOW": {
+  "loai": "boi_canh",
+  "ten": "BOWIE_SIDEYARD_SNOW"
+ },
+ "REGISTERS": {
+  "loai": "boi_canh",
+  "ten": "REGISTERS"
+ },
+ "MARKET": {
+  "loai": "boi_canh",
+  "ten": "MARKET"
+ },
+ "GROCERY_AISLES": {
+  "loai": "boi_canh",
+  "ten": "GROCERY_AISLES"
+ },
+ "GROCERY_DELI": {
+  "loai": "boi_canh",
+  "ten": "GROCERY_DELI"
+ },
+ "KEYSTONE_CONF_HEAD": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_HEAD"
+ },
+ "KEYSTONE_CONF_WINDOWS": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_WINDOWS"
+ },
+ "KEYSTONE_CONF_DOOR": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_DOOR"
+ },
+ "KEYSTONE_CONF_CREDENZA": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_CREDENZA"
+ },
+ "KEYSTONE_CONF_HEAD_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_HEAD_NIGHT"
+ },
+ "KEYSTONE_CONF_WINDOWS_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_WINDOWS_NIGHT"
+ },
+ "KEYSTONE_CONF_DOOR_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_DOOR_NIGHT"
+ },
+ "KEYSTONE_CONF_CREDENZA_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_CREDENZA_NIGHT"
+ },
+ "KEYSTONE_ELEVATOR": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_ELEVATOR"
+ },
+ "KEYSTONE_FLOOR_WINDOWS": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_FLOOR_WINDOWS"
+ },
+ "KEYSTONE_FLOOR": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_FLOOR"
+ },
+ "KEYSTONE_CONF_GLASS": {
+  "loai": "boi_canh",
+  "ten": "KEYSTONE_CONF_GLASS"
+ },
+ "BASEMENT_BED": {
+  "loai": "boi_canh",
+  "ten": "BASEMENT_BED"
+ },
+ "BASEMENT_DRESSER": {
+  "loai": "boi_canh",
+  "ten": "BASEMENT_DRESSER"
+ },
+ "BASEMENT_DOOR": {
+  "loai": "boi_canh",
+  "ten": "BASEMENT_DOOR"
+ },
+ "BASEMENT_TABLE": {
+  "loai": "boi_canh",
+  "ten": "BASEMENT_TABLE"
+ },
+ "MAISON_RIVER": {
+  "loai": "boi_canh",
+  "ten": "MAISON_RIVER"
+ },
+ "MAISON_BAR": {
+  "loai": "boi_canh",
+  "ten": "MAISON_BAR"
+ },
+ "MAISON_ENTRANCE": {
+  "loai": "boi_canh",
+  "ten": "MAISON_ENTRANCE"
+ },
+ "MAISON_BANQUETTE": {
+  "loai": "boi_canh",
+  "ten": "MAISON_BANQUETTE"
+ },
+ "SALES_ENTRANCE": {
+  "loai": "boi_canh",
+  "ten": "SALES_ENTRANCE"
+ },
+ "SALES_SOFA": {
+  "loai": "boi_canh",
+  "ten": "SALES_SOFA"
+ },
+ "SALES_DESK": {
+  "loai": "boi_canh",
+  "ten": "SALES_DESK"
+ },
+ "SALES_LAKE": {
+  "loai": "boi_canh",
+  "ten": "SALES_LAKE"
+ },
+ "LOT7_FOYER_DOORS": {
+  "loai": "boi_canh",
+  "ten": "LOT7_FOYER_DOORS"
+ },
+ "LOT7_STAIRS": {
+  "loai": "boi_canh",
+  "ten": "LOT7_STAIRS"
+ },
+ "LOT7_FOYER_ARCH": {
+  "loai": "boi_canh",
+  "ten": "LOT7_FOYER_ARCH"
+ },
+ "LOT7_WORK": {
+  "loai": "boi_canh",
+  "ten": "LOT7_WORK"
+ },
+ "LOT7_DINING_ARCH": {
+  "loai": "boi_canh",
+  "ten": "LOT7_DINING_ARCH"
+ },
+ "LOT7_DINING_WINDOWS": {
+  "loai": "boi_canh",
+  "ten": "LOT7_DINING_WINDOWS"
+ },
+ "LOT7_DINING_KITCHEN": {
+  "loai": "boi_canh",
+  "ten": "LOT7_DINING_KITCHEN"
+ },
+ "LOT7_DINING_BUFFET": {
+  "loai": "boi_canh",
+  "ten": "LOT7_DINING_BUFFET"
+ },
+ "LOT7_EXT_HOUSE": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_HOUSE"
+ },
+ "LOT7_EXT_EAST": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_EAST"
+ },
+ "LOT7_EXT": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT"
+ },
+ "LOT7_EXT_WEST": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_WEST"
+ },
+ "LOT7_EXT_OCT_HOUSE": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_OCT_HOUSE"
+ },
+ "LOT7_EXT_OCT_EAST": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_OCT_EAST"
+ },
+ "LOT7_EXT_OCT": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_OCT"
+ },
+ "LOT7_EXT_OCT_WEST": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_OCT_WEST"
+ },
+ "LOT7_EXT_SEP_HOUSE": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_SEP_HOUSE"
+ },
+ "LOT7_EXT_SEP_EAST": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_SEP_EAST"
+ },
+ "LOT7_EXT_SEP": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_SEP"
+ },
+ "LOT7_EXT_SEP_WEST": {
+  "loai": "boi_canh",
+  "ten": "LOT7_EXT_SEP_WEST"
+ },
+ "CHARLENE_KITCHEN": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_KITCHEN"
+ },
+ "CHARLENE_WINDOW": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_WINDOW"
+ },
+ "CHARLENE_DOOR": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_DOOR"
+ },
+ "CHARLENE_SOFA": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_SOFA"
+ },
+ "CHARLENE_KITCHEN_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_KITCHEN_NIGHT"
+ },
+ "CHARLENE_WINDOW_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_WINDOW_NIGHT"
+ },
+ "CHARLENE_DOOR_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_DOOR_NIGHT"
+ },
+ "CHARLENE_SOFA_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "CHARLENE_SOFA_NIGHT"
+ },
+ "HOSP_BED": {
+  "loai": "boi_canh",
+  "ten": "HOSP_BED"
+ },
+ "HOSP_WINDOW": {
+  "loai": "boi_canh",
+  "ten": "HOSP_WINDOW"
+ },
+ "HOSP_DOOR": {
+  "loai": "boi_canh",
+  "ten": "HOSP_DOOR"
+ },
+ "HOSP_CHAIR": {
+  "loai": "boi_canh",
+  "ten": "HOSP_CHAIR"
+ },
+ "COURT_DOORS": {
+  "loai": "boi_canh",
+  "ten": "COURT_DOORS"
+ },
+ "COURT_HALL_EAST": {
+  "loai": "boi_canh",
+  "ten": "COURT_HALL_EAST"
+ },
+ "COURT_WINDOWS": {
+  "loai": "boi_canh",
+  "ten": "COURT_WINDOWS"
+ },
+ "COURT_HALL_WEST": {
+  "loai": "boi_canh",
+  "ten": "COURT_HALL_WEST"
+ },
+ "CHURCH_HALL": {
+  "loai": "boi_canh",
+  "ten": "CHURCH_HALL"
+ },
+ "CHURCH_HALL_TABLES": {
+  "loai": "boi_canh",
+  "ten": "CHURCH_HALL_TABLES"
+ },
+ "CHURCH_HALL_OUT": {
+  "loai": "boi_canh",
+  "ten": "CHURCH_HALL_OUT"
+ },
+ "CHURCH_HALL_EXIT": {
+  "loai": "boi_canh",
+  "ten": "CHURCH_HALL_EXIT"
+ },
+ "WAREHOUSE": {
+  "loai": "boi_canh",
+  "ten": "WAREHOUSE"
+ },
+ "WAREHOUSE_DOCK": {
+  "loai": "boi_canh",
+  "ten": "WAREHOUSE_DOCK"
+ },
+ "WAREHOUSE_BREAK": {
+  "loai": "boi_canh",
+  "ten": "WAREHOUSE_BREAK"
+ },
+ "WAREHOUSE_CONVEYOR": {
+  "loai": "boi_canh",
+  "ten": "WAREHOUSE_CONVEYOR"
+ },
+ "DEVIN_STUDIO": {
+  "loai": "boi_canh",
+  "ten": "DEVIN_STUDIO"
+ },
+ "DEVIN_STUDIO_BED": {
+  "loai": "boi_canh",
+  "ten": "DEVIN_STUDIO_BED"
+ },
+ "DEVIN_STUDIO_DOOR": {
+  "loai": "boi_canh",
+  "ten": "DEVIN_STUDIO_DOOR"
+ },
+ "DEVIN_STUDIO_TABLE": {
+  "loai": "boi_canh",
+  "ten": "DEVIN_STUDIO_TABLE"
+ },
+ "LOC_LAUNDRY_NIGHT": {
+  "loai": "boi_canh",
+  "ten": "LOC_LAUNDRY_NIGHT"
+ },
+ "PROP_BURGUNDY_BAG": {
+  "loai": "dao_cu",
+  "ten": "PROP_BURGUNDY_BAG"
+ },
+ "PROP_BLACK_BAG": {
+  "loai": "dao_cu",
+  "ten": "PROP_BLACK_BAG"
+ },
+ "PROP_FLIP_PHONE": {
+  "loai": "dao_cu",
+  "ten": "PROP_FLIP_PHONE"
+ },
+ "PROP_LOUISIANA_FRAME": {
+  "loai": "dao_cu",
+  "ten": "PROP_LOUISIANA_FRAME"
+ },
+ "PROP_LOUISIANA_FRAME_NEW": {
+  "loai": "dao_cu",
+  "ten": "PROP_LOUISIANA_FRAME_NEW"
+ },
+ "PROP_CANVAS_SUITCASE": {
+  "loai": "dao_cu",
+  "ten": "PROP_CANVAS_SUITCASE"
+ },
+ "PROP_KRAFT_ENVELOPE": {
+  "loai": "dao_cu",
+  "ten": "PROP_KRAFT_ENVELOPE"
+ },
+ "PROP_GATE_KEYS": {
+  "loai": "dao_cu",
+  "ten": "PROP_GATE_KEYS"
+ },
+ "PROP_GUMBO_POT": {
+  "loai": "dao_cu",
+  "ten": "PROP_GUMBO_POT"
+ },
+ "PROP_BLUE_RIM_BOWL": {
+  "loai": "dao_cu",
+  "ten": "PROP_BLUE_RIM_BOWL"
+ },
+ "PROP_PROPOSAL": {
+  "loai": "dao_cu",
+  "ten": "PROP_PROPOSAL"
+ },
+ "PROP_HOSPITAL_BADGE": {
+  "loai": "dao_cu",
+  "ten": "PROP_HOSPITAL_BADGE"
+ },
+ "PROP_GOLD_WATCH": {
+  "loai": "dao_cu",
+  "ten": "PROP_GOLD_WATCH"
+ },
+ "PROP_LIVESTREAM_RIG": {
+  "loai": "dao_cu",
+  "ten": "PROP_LIVESTREAM_RIG"
+ },
+ "PROP_RECIPE_CARD": {
+  "loai": "dao_cu",
+  "ten": "PROP_RECIPE_CARD"
+ },
+ "PROP_EIGHT_ENVELOPES": {
+  "loai": "dao_cu",
+  "ten": "PROP_EIGHT_ENVELOPES"
+ },
+ "PROP_DESK_BOX": {
+  "loai": "dao_cu",
+  "ten": "PROP_DESK_BOX"
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "BOWIE_HOUSE_DAY_BANG": {
+  "panels": [
+   "BOWIE_KITCHEN_DAY",
+   "BOWIE_DINING_DAY",
+   "FOYER_STAIRS",
+   "BOWIE_SOFA_DAY"
+  ],
+  "tuong": [
+   "the kitchen wall of white cabinets behind a long white grey-veined stone island under two brass pendants, a double sink under a window at the left, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+   "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and a dark-wood dining table with eight cream upholstered chairs in front of it under a glass-bead chandelier, two cream-shaded glass lamps, small framed family photos and a vase of cardboard church fans with no lettering on the buffet, the canvas in burgundy, cream and gold",
+   "the front entry with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window at the far left, the tall frosted glass panel in the door, a key tray and envelopes on the console, shoes on the mat, black-framed family photos up the stair wall",
+   "the living-room wall with a charcoal L-shaped sectional under two tall windows with drawn sheer white curtains and a glass coffee table in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a fabric-shade table lamp at the left end, the coffee table on a gold base over a cream rug with a phone charging cable on it"
+  ],
+  "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, tidy and lived in, early-autumn green trees outside the windows, daytime",
+  "anh_sang": "Soft neutral daylight through the sheer curtains, the sink window and the frosted door panel, one fabric-shade table lamp on at the sofa end, pendants and chandelier off, whites stay clean white, mid-key, no yellow or orange cast",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   1,
+   2,
+   3
+  ],
+  "ghi_chu_vi": "BẢNG GỐC nội thất — tạo ĐẦU TIÊN, 3 bảng nội thất kia vẽ từ nó. Nhà Devin (38, nhân viên cấp trung Keystone) và Raven (35, phông bạt) ở một khu nhà mới trung lưu da đen ở Bowie (kiểu khu dọc Route 450 / Fairwood), colonial hai tầng xây những năm 2000–2010, tiền cọc là tiền bà Marguerite bán nhà ở Louisiana; tầng 2 gồng lên tầng 3, Raven bày cho sang (bóng, vàng, điểm đỏ rượu, túi mua sắm) nhưng vẫn là nhà có người ở. Trạng thái GỌN: bà còn ở và ngày nào cũng lau dọn (C1–C3, sáng T7 26/09). Bố cục la bàn: tường 1 = bếp (Bắc), 2 = tủ buffet (Đông, tường đặc, sau là garage), 3 = cửa chính + console + cầu thang (Nam, mặt tiền, FOYER_STAIRS — mã kịch bản), 4 = sofa chữ L + 2 cửa sổ rèm voan (Tây). Bàn ăn gỗ sẫm chạy dọc trục bếp–cửa chính, sát tường buffet; sofa dựa tường Tây, đầu quặt chữ L ở phía bếp. Cửa gỗ hẹp đầu phải bếp = phòng giặt (đóng). Dấu hiệu người trong cuộc: chảo gang + chai tương ớt (bếp của bà), quạt giấy nhà thờ cán gỗ trong lọ trên buffet (C10 Charlene lấy quạt từ buffet), lưới ảnh gia đình khung đen dọc tường cầu thang, dép/giày cởi ở thảm cửa. Đồ sinh hoạt: khay chìa khoá + thư (C48 'khay chìa khoá'), dây sạc trên bàn trà, khăn lau sage trên cửa lò (C9)."
+ },
+ "BOWIE_HOUSE_MESSY_BANG": {
+  "panels": [
+   "BOWIE_KITCHEN_MESSY",
+   "BOWIE_DINING_MESSY",
+   "BOWIE_FOYER_MESSY",
+   "BOWIE_SOFA_MESSY"
+  ],
+  "tuong": [
+   "the kitchen wall of white cabinets behind a long white grey-veined stone island littered with takeout containers and paper bags under two brass pendants, a double sink under a window at the left heaped with unwashed dishes, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+   "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and a dark-wood dining table with eight cream upholstered chairs in front of it under a glass-bead chandelier, two cream-shaded glass lamps, small framed family photos and a vase of cardboard church fans with no lettering on the buffet, the canvas in burgundy, cream and gold, a pile of envelopes and a blank shopping bag at one end of the table",
+   "the front entry with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window at the far left, the tall frosted glass panel in the door, a key tray buried in envelopes on the console, shoes kicked off around the mat, a laundry basket heaped with towels at the foot of the stairs, black-framed family photos up the stair wall",
+   "the living-room wall with a charcoal L-shaped sectional under two tall windows with drawn sheer white curtains and a glass coffee table covered with takeout boxes in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a crumpled throw and a burgundy satin bonnet on the seat, glossy blank shopping bags on the floor, a fabric-shade table lamp at the left end, the coffee table on a gold base over a cream rug with a charging cable on it"
+  ],
+  "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, now untidy after a week without cleaning, early-autumn green trees outside the windows, daytime",
+  "anh_sang": "Soft neutral midday daylight through the sheer curtains, the sink window and the frosted door panel, one fabric-shade table lamp on at the sofa end, pendants and chandelier off, whites stay clean white, mid-key, no yellow or orange cast",
+  "trang_thai": "ngay_bua_bon",
+  "ve_tu": "BOWIE_HOUSE_DAY_BANG",
+  "khac_ban_goc": "the same rooms after a week without cleaning, with all furniture, fixtures and the daylight unchanged: takeout containers and paper bags littering the island, unwashed dishes heaped in the sink, a laundry basket heaped with towels at the foot of the stairs, more envelopes piled on the console and shoes kicked off around the mat, a pile of envelopes and a blank shopping bag at one end of the dining table, takeout boxes on the coffee table, a crumpled throw and a burgundy satin bonnet on the sectional seat, and two glossy blank shopping bags with no lettering on the floor beside it",
+  "cum": [
+   18,
+   19,
+   20,
+   48
+  ],
+  "ghi_chu_vi": "Trạng thái 'nhà vắng bà' — kịch bản C18: 'Nhà bừa bộn từ ngày bà đi'. Dùng cho C18–C20 (CN 04/10 14:00) và C48 (T2 12/10 11:00 — vẫn chưa ai dọn; Raven ôm túi mới sau đảo bếp đầy hộp đồ ăn là đúng ý). Vẽ từ BOWIE_HOUSE_DAY_BANG, chỉ thêm đồ bừa, KHÔNG dời đồ cố định. Bừa vừa phải kiểu nhà thiếu người dọn, không bẩn thỉu (luật 4.1). Rổ đồ giặt 'dưới chân cầu thang' (C18 4–6s): cầu thang ở tường cửa chính (sát bên phải cửa nhìn từ trong), nên ở cú 'Máy đặt cạnh cửa chính nhìn vào bếp' rổ nằm TIỀN CẢNH MÉP TRÁI — panel bếp không thấy, prompt phải ghi. Mũ satin trên sofa = dấu hiệu người trong cuộc (Raven tóc bob vuốt bóng). Tạo sau DAY, trước NIGHT."
+ },
+ "BOWIE_HOUSE_NIGHT_BANG": {
+  "panels": [
+   "BOWIE_KITCHEN_NIGHT",
+   "BOWIE_DINING_NIGHT",
+   "BOWIE_FOYER_NIGHT",
+   "BOWIE_SOFA_NIGHT"
+  ],
+  "tuong": [
+   "the kitchen wall at night of white cabinets behind a long white grey-veined stone island littered with takeout containers and paper bags under two lit brass pendants, a double sink under a black night window at the left heaped with unwashed dishes, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+   "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and a dark-wood dining table with eight cream upholstered chairs in front of it under a lit glass-bead chandelier, two cream-shaded glass lamps switched on, small framed family photos and a vase of cardboard church fans with no lettering on the buffet, the canvas in burgundy, cream and gold, a pile of envelopes and a blank shopping bag at one end of the table",
+   "the front entry at night with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window dark at the far left, the tall frosted glass panel in the door dark, a key tray buried in envelopes on the console, shoes kicked off around the mat, a laundry basket heaped with towels at the foot of the stairs, black-framed family photos up the stair wall",
+   "the living-room wall at night with a charcoal L-shaped sectional under two tall windows dark behind drawn sheer white curtains and a glass coffee table covered with takeout boxes in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a crumpled throw and a burgundy satin bonnet on the seat, glossy blank shopping bags on the floor, a fabric-shade table lamp lit at the left end, the coffee table on a gold base over a cream rug with a charging cable on it"
+  ],
+  "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, untidy after a week without cleaning, an early-autumn night with the lamps on",
+  "anh_sang": "Night: the windows read blue-black behind the sheer curtains, light comes only from visible practicals, the glass-bead chandelier over the dining table, two brass pendants over the island, two cream-shaded buffet lamps and the fabric-shade table lamp by the sectional, making small warm pools on a neutral white balance, mid-key, corners in soft shadow that keeps detail, whites stay white, no global amber cast",
+  "trang_thai": "dem",
+  "ve_tu": "BOWIE_HOUSE_MESSY_BANG",
+  "khac_ban_goc": "it is now night: the windows are blue-black behind the drawn sheer curtains and the frosted door panel is dark; the glass-bead chandelier over the dining table, the two brass pendant lamps over the island, both cream-shaded glass lamps on the buffet and the fabric-shade table lamp beside the sectional are switched on; every object and all the clutter stay exactly where they are",
+  "cum": [
+   21,
+   33,
+   44
+  ],
+  "ghi_chu_vi": "Đêm thường (không tiệc) sau khi bà đi: C21 (CN 04/10 21:00 — cùng ngày với C18–C20 nên vẫn bừa), C33 (T6 09/10 'tối'), C44 (T7 10/10 21:00, 22 s đầu). Vẽ từ BOWIE_HOUSE_MESSY_BANG, CHỈ đổi ánh sáng (nên là chuỗi DAY → MESSY → NIGHT, tạo theo đúng thứ tự trong file). Đạo cụ của cụm ghi trong prompt, không đưa vào bảng: C21 laptop nắp đen nhám + 2 cốc trà + hộp bánh quy + xấp đề án gáy nhựa đen; C44 hộp quà mở, giấy lụa, hộp nhung đồng hồ, túi mới đen bóng. Nếu muốn đêm gọn: đổi ve_tu thành BOWIE_HOUSE_DAY_BANG và bỏ câu 'clutter'. C33 ghi 18:00 ngày 09/10 — lúc đó trời CÒN SÁNG (mặt trời lặn ~18:35), xem mục mâu thuẫn trong boi_canh_A.md."
+ },
+ "BOWIE_PARTY_NIGHT_BANG": {
+  "panels": [
+   "NIGHT_KITCHEN",
+   "NIGHT_DINING",
+   "BOWIE_PARTY_FOYER",
+   "BOWIE_PARTY_SOFA"
+  ],
+  "tuong": [
+   "the kitchen wall at night of white cabinets behind a long white grey-veined stone island filled with foil-covered pans and casserole dishes under two lit brass pendants, a double sink under a black night window at the left, a gas range with a cast-iron skillet, a red hot-sauce bottle and a sage towel on the oven door, a narrow closed wooden door at the right end, burgundy stools at the island",
+   "the windowless dining wall with a long dark-wood buffet under a large abstract canvas and the dining table lengthened under one long white tablecloth in front of it under a lit glass-bead chandelier, set with fourteen white plates and glasses, white folding chairs among the cream chairs, gold and white balloons with no lettering tied to one chair, both glass lamps lit on the buffet beside a two-tier white cake with purple and gold trim and no lettering, a glass dispenser of iced tea and the vase of church fans",
+   "the front entry at night with a white front door between a white console under a round gold mirror on its left and the foot of an oak staircase with white railing rising to the right, a sheer-curtained window dark at the far left, the tall frosted glass panel in the door dark, a key tray and envelopes on the console, shoes on the mat, black-framed family photos up the stair wall",
+   "the living-room wall at night with a charcoal L-shaped sectional under two tall windows dark behind drawn sheer white curtains and a glass coffee table in front of it, burgundy velvet side panels, the sectional's short return at the right end, burgundy pillows, a fabric-shade table lamp lit at the left end, the coffee table on a gold base over a cream rug with a phone charging cable on it"
+  ],
+  "the_gioi": "The open-plan ground floor of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, bought on one mid-level office salary and dressed to look richer: wide-plank oak floor, light greige walls, white trim, glossy white and gold finishes with burgundy accents, tidy and set up for a large birthday dinner, a late-September night with every lamp on",
+  "anh_sang": "Night party light: every practical on, the glass-bead chandelier over the long table, the brass island pendants, both buffet lamps, the sofa table lamp and a few short candles on the table, a bright mid-key room with warm pools only around the lamps on a neutral white balance, the white tablecloth and plates reading clean white, windows blue-black behind the sheers, no global amber cast",
+  "trang_thai": "dem_tiec",
+  "ve_tu": "BOWIE_HOUSE_DAY_BANG",
+  "khac_ban_goc": "it is now night and the room is set for a large birthday dinner: the windows are blue-black behind the drawn sheer curtains and the frosted door panel is dark; the chandelier, the two island pendants, both buffet lamps and the sofa table lamp are all on; the dining table is lengthened with a folding table under one long white tablecloth so it runs from near the island almost to the front entry, set with fourteen white plates, white napkins and glasses of iced tea, six white folding chairs added among the eight cream chairs, a low centrepiece of purple and white flowers with short lit candles; a bunch of gold and white balloons with no lettering tied to the back of the second chair from the kitchen end on the buffet side; on the buffet a two-tier white cake with purple and gold trim and no lettering on a stand and a glass dispenser of iced tea with lemon slices; foil-covered pans and casserole dishes filling the kitchen island",
+  "cum": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ghi_chu_vi": "Tiệc sinh nhật Charlene, T7 26/09 19:00–19:06 (C4–C10, tới giây 25 của C10; C11 7–14s cũng nhìn qua cửa vào trong). Giữ đúng mã kịch bản NIGHT_KITCHEN (nhìn về bếp) và NIGHT_DINING (nhìn về tủ buffet). Vẽ từ BOWIE_HOUSE_DAY_BANG (nhà còn bà nên GỌN) + đổi sang đêm + bày tiệc — khác bảng gốc đúng như khac_ban_goc. Bàn nối dài 14 chỗ = khoảng 10 khách bạn nhà thờ + Raven, Charlene, Devin + ghế trống của bà; ghế Charlene = ghế thứ 2 dãy phía buffet tính từ đầu bếp → bóng bay vàng kim–trắng buộc ở đó (C4, C6). Bánh kem + bình trà ngọt trên buffet, góc Đông Nam ngay sau cửa sổ phòng ăn → C11 24–30s khách vỗ tay quanh bánh thấy qua rèm voan. Quạt giấy nhà thờ trên buffet (C10 12–15s Charlene lấy từ buffet sau lưng). Đạo cụ cụm, KHÔNG vào bảng: nồi gang gumbo, bát sứ trắng viền xanh ở góc đảo, găng nhấc nồi, tạp dề, ly trà ngọt trong tay. Phòng giặt bên trong (C10 0–4s: bóng đèn nhỏ, giường gấp hẹp sát máy giặt, vali vải nâu da bò) không có trong bảng nào — cần ảnh đạo cụ/ảnh chèn riêng (đề xuất mã LAUNDRY_COT). Panel BOWIE_PARTY_SOFA không cụm nào nhìn tới (vẫn vẽ để giữ không gian)."
+ },
+ "BOWIE_FRONT_DAY_BANG": {
+  "panels": [
+   "BOWIE_FRONT_DAY",
+   "BOWIE_DRIVEWAY_DAY",
+   "BOWIE_STREET_DAY",
+   "BOWIE_SIDEYARD_DAY"
+  ],
+  "tuong": [
+   "the house front with a covered porch on two white columns over a white front door and four wide concrete steps, a tall frosted glass panel in the door, a sheer-curtained window to the right of the door under the porch roof, a black lantern and a video doorbell at the door, a black railing at the left of the steps and potted burgundy mums, a red-brick facade with black-shuttered upper windows, a white two-car garage door at the far right",
+   "the driveway side with a wide concrete driveway and a grey sedan in front of the garage, two rolling trash bins beside the garage, a low boxwood hedge, and beyond it the next-door brick-front colonial with a portable basketball hoop at its driveway",
+   "the street view down a straight concrete front walk to a quiet curving street lined with similar brick-front two-story colonials, the sloping lawn, the sidewalk, a street lamp, young maple trees and neat lawns across the street",
+   "the side yard with an open lawn and a young red maple before the neighbouring grey-sided two-story house, mulch beds with low shrubs along the house, a white vinyl fence with a gate toward the backyard"
+  ],
+  "the_gioi": "The front yard of a newer two-story colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland: red-brick front with beige vinyl siding on the sides, black shutters, a covered front porch, an attached two-car garage, neat green lawns, young street trees showing the first yellow leaves of early autumn, clear daytime",
+  "anh_sang": "Clear early-autumn daylight from a high sun on the south-facing front, soft shadow under the porch roof, neutral white balance so the white door, trim and columns stay clean white, natural green lawn, mid-key, no yellow or orange cast",
+  "trang_thai": "ngay",
+  "ve_tu": null,
+  "khac_ban_goc": null,
+  "cum": [
+   3,
+   18,
+   20,
+   48
+  ],
+  "ghi_chu_vi": "BẢNG GỐC mặt tiền (tạo trước bảng đêm và bảng tuyết, hai bảng đó vẽ từ nó). Không cụm nào quay mặt tiền ban ngày, nhưng panel BOWIE_STREET_DAY là nền NGOÀI KHUNG CỬA CHÍNH khi cửa mở trong cảnh ngày: C3 0–8s (Charlene ở ngưỡng cửa, 9:02 sáng), C18 0–4s (bà ở ngưỡng cửa, 14:00), C20 21–25s, C48 0–2s ('nắng trưa tràn vào' — mặt tiền quay hướng Nam nên đúng nắng trưa). Hướng ngoài trời: tường 1 = mặt tiền (nhìn Bắc vào nhà), 2 = phía lối xe / garage (Đông), 3 = nhìn ra đường (Nam), 4 = sân bên (Tây). Garage gắn phía Đông = đúng phía tường buffet không cửa sổ bên trong; cửa sổ phòng ăn ở BÊN PHẢI cửa chính nhìn từ đường (= bên trái cửa nhìn từ trong). Cầu thang bên trong chạy dọc tường mặt tiền phía Tây (bên trái hiên nhìn từ đường). Sedan xám = xe của Devin (C49)."
+ },
+ "BOWIE_FRONT_NIGHT_BANG": {
+  "panels": [
+   "PORCH_NIGHT",
+   "BOWIE_DRIVEWAY_NIGHT",
+   "BOWIE_STREET_NIGHT",
+   "BOWIE_SIDEYARD_NIGHT"
+  ],
+  "tuong": [
+   "the house front at night with a covered porch on two white columns over a white front door and four wide concrete steps lit by the black lantern, the tall frosted glass panel in the door glowing from inside, the sheer-curtained window to the right of the door glowing with lamplight, a video doorbell at the door, a black railing at the left of the steps and potted burgundy mums, a red-brick facade with two lit upper windows, a white two-car garage door at the far right",
+   "the driveway side at night with the concrete driveway and the grey sedan in front of the garage, two rolling trash bins, the low boxwood hedge, the next-door brick-front colonial with one lit window and a portable basketball hoop, more sedans parked at the curb",
+   "the street view at night down the straight concrete front walk to the quiet curving street lined with parked sedans and SUVs, one street lamp, and across it similar brick-front colonials with porch lights and a few lit windows",
+   "the side yard at night with the dark lawn and a young red maple before the neighbouring grey-sided house with one lit upstairs window, mulch beds with low shrubs, the white vinyl fence with its gate"
+  ],
+  "the_gioi": "The front yard of a newer two-story brick-front colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, on a late-September night with a big dinner party going on inside: covered front porch with a lantern, concrete steps, a straight front walk, neat lawn, cars lining the curb, night",
+  "anh_sang": "Night: the warm porch lantern lights the porch and steps, lamplight glows through the frosted door panel and the sheer-curtained dining window, one cool-neutral street lamp pools light on the street, deep navy sky, the lawn and side yard falling into soft dark that still holds detail, mid-key around the porch, no global orange cast",
+  "trang_thai": "dem",
+  "ve_tu": "BOWIE_FRONT_DAY_BANG",
+  "khac_ban_goc": "it is now night under a deep navy sky: the black lantern over the front door is on and lights the porch and steps; the frosted door panel and the sheer-curtained window right of the door glow with lamplight from inside; two upper windows are lit; the street lamp makes a pool of light on the street and the houses across show porch lights and a few lit windows; several sedans and SUVs are now parked along both curbs of the street",
+  "cum": [
+   10,
+   11
+  ],
+  "ghi_chu_vi": "PORCH_NIGHT = mã kịch bản (C10 từ giây 25, cả C11), đêm T7 26/09 ~19:06–19:07. Vẽ từ BOWIE_FRONT_DAY_BANG, đổi sang đêm + xe khách đỗ dọc lề đường (mười bạn nhà thờ của Charlene tới tiệc — đúng đời thật). Cú C11 24–27s 'Máy đặt ở mép hiên nhìn chéo qua bà về phía cửa sổ phòng ăn' (bà nửa trái, cửa sổ nửa phải): cửa sổ phòng ăn ở bên PHẢI cửa nhìn từ đường, nên máy phải đứng trên cỏ ở góc TRƯỚC-TRÁI của hiên, nhìn lên chéo sang phải qua bà — nếu đặt máy trên sàn hiên phía trái thì bà sẽ rơi sang bên phải khung. Cú 'bậc thềm dưới nhìn lên cửa chính' (C11 7–14s): sau Raven/Devin là trong nhà nhìn về bếp = NIGHT_KITCHEN. Bóng người sau ô kính mờ (C10 25–30s) và bóng khách sau rèm (C11 24–30s) do prompt thêm. Panel đường và lối xe không cụm nào dùng trực tiếp."
+ },
+ "BOWIE_FRONT_SNOW_BANG": {
+  "panels": [
+   "BOWIE_FRONT_SNOW",
+   "BOWIE_DRIVEWAY_SNOW",
+   "BOWIE_STREET_SNOW",
+   "BOWIE_SIDEYARD_SNOW"
+  ],
+  "tuong": [
+   "the house front in snow with a covered porch on two white columns over a white front door and four wide snow-covered concrete steps, a large white notice sheet with an orange border and no readable lettering taped by its four corners to the middle of the door, the tall frosted glass panel in the door, the black lantern off, the unlit sheer-curtained window to the right of the door, a video doorbell, a black railing at the left of the steps, a red-brick facade with snow on the roofs, the white garage door at the far right",
+   "the driveway side in snow with the snow-covered driveway and the grey sedan under a layer of snow in front of the garage, two rolling trash bins, the snow-topped boxwood hedge, the next-door brick-front colonial with a snowy roof and a portable basketball hoop",
+   "the street view in snow down the snow-covered front walk with a few footprints to the quiet curving street with slushy tire tracks, the white lawn, a street lamp, similar brick-front colonials with snowy roofs and bare trees across the street",
+   "the side yard in snow with the white lawn and a bare young maple before the neighbouring grey-sided house with snow on its roof, snow-covered mulch beds, the white vinyl fence with its gate"
+  ],
+  "the_gioi": "The front yard of the same newer two-story brick-front colonial in a Black middle-class subdivision of Bowie, Prince George's County, Maryland, on a grey January morning: a thin layer of fresh snow on the lawns, roofs, steps and front walk, bare trees, light snow falling, the house dark and about to be vacated, daytime",
+  "anh_sang": "Flat overcast January daylight from a uniform grey sky, light snowflakes in the air, neutral white balance so the snow reads clean white and neither blue nor yellow, soft low-contrast shadows, the porch lantern off and the windows unlit, mid-key",
+  "trang_thai": "tuyet",
+  "ve_tu": "BOWIE_FRONT_DAY_BANG",
+  "khac_ban_goc": "it is now a grey overcast January morning with light snow falling: a thin even layer of fresh snow covers the lawns, roofs, hedge, mulch beds, steps, front walk and the grey sedan in the driveway, with a few footprints on the steps and walk and slushy tire tracks in the street; the trees are bare; the potted mums are gone; the porch lantern is off and the windows are unlit; a large white notice sheet with an orange border and no readable lettering is taped by its four corners to the middle of the white front door",
+  "cum": [
+   50
+  ],
+  "ghi_chu_vi": "C50 giây 0–13, T2 18/01/2027 10:00, tuyết lất phất, trời xám. Vẽ từ BOWIE_FRONT_DAY_BANG (ban ngày → không phải đổi đêm sang ngày), đổi mùa: tuyết mỏng, cây trơ lá, bỏ chậu cúc, đèn hiên tắt, tờ thông báo khổ lớn trắng viền cam dán 4 góc giữa cửa trắng (không chữ đọc được — kịch bản C50 0–4s). 'Máy đặt trên lối đi trước nhà nhìn về hiên' = BOWIE_FRONT_SNOW; 'Máy đặt trên hiên nhìn ra đường' (8–13s) = BOWIE_STREET_SNOW. Sedan xám phủ tuyết trong lối xe: giữ để có xe chở vali sang căn hộ Charlene; bỏ nếu muốn ngầm ý xe đã bị thu. Tuyết phải trắng sạch, không xanh lam, không kiểu thiệp Giáng sinh."
+ }
+}

@@ -110,6 +110,40 @@
     - Bảo vệ nhà hàng (đầu trọc, râu dê bạc, đúng kịch bản) hơi giống Prentice; hai người không xuất hiện cùng nơi.
 - **Quyết định:** **Tác giả chốt cả 23 ảnh lượt này như bản cuối (03/11/2026), giữ nguyên các điểm ghi chú.** Bộ ảnh tham chiếu của phim đủ để viết prompt video: 272 ảnh đã duyệt (nhân vật, bảng bối cảnh và panel, ảnh chèn, đạo cụ).
 
+## Prompt video tiếng Trung — 70 cụm (viết tay, chưa render)
+
+### ZH-01 · Bài tiếng Trung cho Seedance, 70 cụm × 30 giây
+- **Ngày:** 03/11/2026
+- **Công cụ:** viết tay theo skill `viet-prompt-seedance-zh-tay` (khuôn 9 khối, mã ảnh `TÊN（@图片N）`, thoại `{…}` không ngoặc kép, bảng 4 góc). Quy chuẩn lấy từ phim DIRT ON HER HANDS (31/10/2026, 70/70 cụm render đạt) và chỉnh cho phim này. Render sau này qua tool Bigup (`F:\Tungnd\bigup_xuong_phim_1.0.23`).
+- **Cách làm:**
+  1. **Câu tiếng Trung chuẩn.** Bốn agent mở từng ảnh đã chốt và viết câu tả theo ảnh thật: 104 panel bối cảnh, 1 ảnh chèn phòng giặt, 55 bảng nhân vật, 17 đạo cụ (`05_prompt/video_zh/data/`). Họ ghi lại 30 chỗ ảnh khác ghi chú; các chỗ này vào mục 4b của quy chuẩn.
+  2. **Dữ liệu từng cụm.** Từ kịch bản 04 dựng `bible.json`: 70 cụm, 379 câu thoại, mốc giây từng shot. Mỗi cụm có danh sách ảnh gửi ≤ 9 (panel → nhân vật → đạo cụ), một brief và một tấm ghép ảnh có nhãn `@图片N`.
+  3. **Quy chuẩn viết** (`05_prompt/video_zh/QUY_CHUAN_VIET.md`) gồm:
+     - khuôn bài và luật chữ (không chữ giờ, không chữ nước mắt, không chữ chủng tộc, không phiên âm địa danh);
+     - hình học panel (nền của shot là bức tường máy nhìn tới; cú ngược dùng panel đối diện);
+     - luật riêng cho 11 câu thoại tiếng Pháp;
+     - bẫy dàn cảnh từng khúc phim;
+     - các trạng thái kéo dài nhiều cụm.
+  4. **Bài mẫu.** Claude viết cụm 1 trước làm mẫu.
+  5. **Viết tay.** 7 agent viết song song 69 cụm còn lại, mỗi agent một khúc liền nhau. Mỗi cụm có phiếu sơ đồ shot viết trước (máy ở đâu, nhìn về tường nào, panel nền nào, ai trái / phải). 63/70 cụm đổi danh sách ảnh theo hướng máy thật: bỏ panel không shot nào nhìn tới, thêm panel đối diện cho cú ngược.
+  6. **Điều phối soát và sửa:**
+     - **Thoại tiếng Pháp:** bổ sung 2 câu brief bỏ sót (C16 Inès, C30 Marguerite).
+     - **Tên nơi:** bỏ chữ 德文 vì dễ đọc thành "tiếng Đức".
+     - **Ảnh nhân vật:** trả ảnh Raven (C25) và Charlene (C28) vào danh sách thay cho ảnh xấp đề án, để giữ mặt nhân vật chính.
+     - **Phóng viên ở C62:** thêm lại cho khớp khung kết C61.
+     - **Chủng tộc và địa danh:** bỏ chữ chủng tộc trong câu người nền (C12–17, 27–29, 34–38) và phiên âm địa danh (C52–61).
+- **Kết quả:**
+  - Bài tay ở `05_prompt/video_zh/prompt/cum_001.txt … cum_070.txt`; phiếu sơ đồ ở `05_prompt/video_zh/so_do/`; danh sách ảnh gửi từng cụm ở `05_prompt/anh/du_an.json` (khoá `cum`).
+  - Bộ kiểm của skill (`kiem_prompt_zh.py`): 70/70 OK, 0 lỗi. Mỗi bài 11.800–15.000 byte; ngưỡng lỗi là 15.700.
+  - Đã nạp vào `prompt\` của dự án tool. `gui_video.py --soat` 70/70 đạt; tool chạy thử cụm 1 bình thường.
+  - Chưa gửi render.
+- **Chỗ kịch bản / ảnh lệch, đã xử lý theo ảnh** (chi tiết trong phiếu sơ đồ từng cụm):
+  - C53 Charlene ở mép phải khung; C65 trái/phải tự mâu thuẫn, giữ theo shot 11–14; C29 Ashanti vào từ phía bàn làm việc để giữ trục 180°; C70 giây 17–20 máy quay về tủ buffet.
+  - C10 và C51: thiếu chỗ ảnh nên đặt lại góc máy hai shot.
+  - C56: sofa giường "đã kéo ra" chỉ có trong chữ.
+  - Người im lặng ở hậu cảnh được tả bằng đồ mặc vì hết chỗ ảnh: Sister Pearl C4, Sister Bernice C10, Ashanti C23–24.
+- **Quyết định:** chờ tác giả. Đề xuất render đối chứng 1–2 cụm trước cả đợt vì câu look màu vẫn là giả thuyết.
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
