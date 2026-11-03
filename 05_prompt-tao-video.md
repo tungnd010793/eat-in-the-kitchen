@@ -209,6 +209,14 @@
 - **Thumbnail:** 4 phương án, model gpt-image-2.5 qua cổng Bigup (4 lượt ảnh), ảnh nhân vật gửi kèm. Prompt ở `05_prompt/video_zh/thumbnail/_prompt_thumb.json`.
   - Bản 1920x1080: `09_media/thanh-pham/thumbnail/anh thurm 1–4.jpg`.
   - Các phương án: (1) "SHE'S NOT THE MAID": tiệc C5, Raven chỉ vào bếp, Charlene cười, Marguerite đeo tạp dề bưng nồi, khung tròn bà sang trọng; (2) "COSTS MORE THAN YOU?": giằng túi C1; (3) "SHE SPEAKS FRENCH?!": phòng họp, bà mặc gi-lê thu ngân; (4) "ARREST HER!": Raven bị còng ở cổng C61, bà đứng bình thản sau song sắt.
+- **Thumbnail không chữ (03/11/2026, theo yêu cầu tác giả: "không chữ, to rõ mặt như ảnh thurm 2"):** thêm 4 lượt ảnh gpt-image-2.5 cùng 4 tình huống trên. Prompt cấm mọi chữ, mũi tên và khung tròn; khung chặt cận mặt, cắt ngang ngực.
+  - Kết quả `09_media/thanh-pham/thumbnail/anh thurm khong chu 1–4.jpg`: (1) tiệc, ăn trong bếp; (2) giằng túi; (3) phòng họp, tiếng Pháp; (4) còng tay ở cổng.
+  - Soát: không ảnh nào có chữ, mặt rõ, màu da đúng ảnh nhân vật.
+- **Ảnh thurm 2 bỏ chữ (03/11/2026, tác giả: "đúng cái ảnh thurm 2 đó nhưng mà không chữ"):** 1 lượt gpt-image-2.5. Gửi chính ảnh 2 làm ảnh gốc, chỉ xoá dòng chữ và vẽ liền nền, tóc. Kết quả `09_media/thanh-pham/thumbnail/anh thurm 2 khong chu.jpg`: giữ nguyên mặt, biểu cảm, giọt nước mắt, khăn và túi.
+- **Thumbnail theo tiêu đề tác giả chọn (03/11/2026):** tiêu đề "Son Kicks Mom Out With $212 — Next Day, The Cashier Saves His $40,000,000 Deal!", yêu cầu không ghép chữ. 2 lượt gpt-image-2.5; lượt đầu ảnh 10 mất kết nối cổng, gửi lại cùng model. Ảnh thurm 2 bỏ chữ làm chuẩn phong cách, kèm ảnh nhân vật M0, M1, V1.
+  - `anh thurm tieu de 1.jpg`: cùng một khung, bên trái bà bị đuổi ra bậc thềm, khóc, nắm ít tiền, có vali; bên phải bà mặc gi-lê thu ngân, cầm bìa hợp đồng, Devin sững sờ ở giữa.
+  - `anh thurm tieu de 2.jpg`: bà mặc gi-lê thu ngân ôm hợp đồng trong phòng họp, Devin sững sờ sau vai.
+  - Cả hai không có chữ.
 
 ## Cảnh 1 — [tên cảnh]
 
