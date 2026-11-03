@@ -32,7 +32,8 @@
     "V7": "plain working clothes for a court date: a light-blue plaid cotton shirt buttoned all the way to the collar, an earth-brown canvas work jacket worn open, tan work trousers, brown leather work boots, the thin rectangular metal-frame glasses, no logos; humble, clean, a working man",
     "V5": "his warehouse job: an orange high-visibility safety vest with silver reflective stripes and no text over a plain grey crew-neck T-shirt, dark grey work trousers, black steel-toe work boots, the thin rectangular metal-frame glasses, no logos; a working man, clean and focused",
     "V8": "at home in his small studio apartment in the evening: a plain charcoal-grey crew-neck T-shirt, black sweatpants, a white kitchen towel over his left shoulder, black slide sandals, the thin rectangular metal-frame glasses, no logos; simple, calm",
-    "V6": "his mother's birthday, simple and respectful: a neat navy cotton-wool crew-neck sweater over a white T-shirt collar barely showing, charcoal-grey chinos, brown leather shoes, the thin rectangular metal-frame glasses, no logos; humble, clean, warm"
+    "V6": "his mother's birthday, simple and respectful: a neat navy cotton-wool crew-neck sweater over a white T-shirt collar barely showing, charcoal-grey chinos, brown leather shoes, the thin rectangular metal-frame glasses, no logos; humble, clean, warm",
+    "V1N < V1 (he no longer wears the staff ID badge and its blue lanyard: the collar and the front of the navy shirt are bare, nothing hangs from his neck)": "V1 without the badge"
    }
   },
   "RAVEN": {
@@ -6557,7 +6558,7 @@
     "BOWIE_KITCHEN_MESSY",
     "BOWIE_STREET_DAY",
     "SHEET_RAVEN_R2",
-    "SHEET_DEVIN_V1",
+    "SHEET_DEVIN_V1N",
     "PROP_BLACK_BAG",
     "PROP_DESK_BOX"
    ]

@@ -706,5 +706,9 @@
  "PROP_DESK_BOX": {
   "loai": "dao_cu",
   "ten": "PROP_DESK_BOX"
+ },
+ "SHEET_DEVIN_V1N": {
+  "loai": "nv",
+  "ten": "DEVIN"
  }
 }

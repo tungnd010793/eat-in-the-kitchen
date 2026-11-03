@@ -168,7 +168,15 @@
 - **Bài học QC** (ghi lại cho phim sau):
   - Whisper hay bỏ câu gọi to (C1) và câu tiếng Pháp (C15) khi nghe cả clip; nghe lại theo đoạn giây của shot thì ra đủ.
   - Câu có số ("Twenty-five thousand…") phải đổi số sang chữ trước khi so.
-- **Quyết định:** chờ tác giả xem. Có thể render lại 6 cụm lệch nhỏ nếu muốn.
+- **Quyết định của tác giả (03/11/2026):** render lại C48; 5 cụm lệch nhỏ còn lại (C20, C26, C42, C60, C61) sẽ xử lý lúc dựng.
+
+### RV-02 · Render lại C48 (Devin còn đeo thẻ nhân viên)
+- **Ngày:** 03/11/2026, 14:50–15:01
+- **Nguyên nhân:** bài C48 đã ghi "cổ áo trống, không thẻ", nhưng ảnh gửi kèm là bảng `SHEET_DEVIN_V1` có thẻ, và model làm theo ảnh hơn chữ.
+- **Cách sửa:** không sửa bài. Tạo bảng biến thể `SHEET_DEVIN_V1N` từ bảng V1, chỉ bỏ thẻ và dây đeo (1 lượt ảnh). Gửi V1N thay V1 trong danh sách ảnh của C48, rồi render lại.
+- **Model:** ft-video-v1 (cổng 4) từ chối, tool tự chuyển sang model ghim lec-mj-seedance-2-5-cd-720p · cổng 3.
+- **Kết quả:** ĐẠT 8,5/10. Đủ 6/6 câu thoại, Devin không còn thẻ ở mọi khung. Video mới thay `09_media/ai-tao-ra/video/cum_048.mp4`; bản cũ vẫn ở thư mục dự án tool (`video/cum_048/1103_121147/`).
+- **Bài học:** đồ vật trên người nhân vật mà ảnh tham chiếu có thì chữ trong prompt không xoá được; phải gửi ảnh biến thể đã bỏ món đó.
 
 ## Cảnh 1 — [tên cảnh]
 
