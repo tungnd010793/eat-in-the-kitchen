@@ -144,6 +144,32 @@
   - Người im lặng ở hậu cảnh được tả bằng đồ mặc vì hết chỗ ảnh: Sister Pearl C4, Sister Bernice C10, Ashanti C23–24.
 - **Quyết định:** chờ tác giả. Đề xuất render đối chứng 1–2 cụm trước cả đợt vì câu look màu vẫn là giả thuyết.
 
+## Render video — 70 cụm (lượt 1, 03/11/2026)
+
+### RV-01 · Render gối đầu 10 cụm, QC gối đầu
+- **Ngày:** 03/11/2026, 11:31–14:28
+- **Công cụ / model:** tool Bigup (`F:\Tungnd\bigup_xuong_phim_1.0.23`), gửi bằng `gui_video.py … 1–70 --song-song 10`. Tool chọn trước ft-video-v1, rồi theo luật ưu tiên tự đổi cả loạt sang model ghim **lec-mj-seedance-2-5-cd-720p · cổng 3**. Mỗi cụm 30 giây, 16:9 · **Gói:** trả phí.
+- **Cách chạy:** luôn có 10 cụm render cùng lúc; cụm nào xong thì cụm kế tiếp vào thay. Cụm nào có video là QC ngay, không chờ cả đợt.
+- **QC:** dùng `_zh/cong_cu/qc_lo.sh`, sao ở `05_prompt/video_zh/cong_cu/`.
+  - **Thoại:** whisper nghe cả clip, so mờ với thoại kịch bản, có đổi số sang chữ. Câu nào chưa khớp thì cắt đúng khoảng giây của shot cho whisper nghe lại, ở chế độ tiếng Anh rồi tiếng Pháp.
+  - **Hình:** Claude xem tấm 12 khung hình của từng cụm. Theo QC nới lỏng, chỉ tính lỗi khi sai cảnh, sai hay thiếu người, mất hành động chính hoặc mất thoại.
+  - **Ghi điểm:** bằng `xuong.py qc-ghi`.
+- **Kết quả:**
+  - **Chất lượng:** 70/70 cụm ĐẠT, lượt đầu, không cụm nào phải render lại. Điểm: 15 cụm 8,5 · 51 cụm 8 · 3 cụm 7,5 · 1 cụm 7. Mọi cụm nghe đủ thoại theo kịch bản, kể cả 11 câu tiếng Pháp; không cụm nào nói tiếng Trung; mỗi clip dài 30,1 giây.
+  - **File:** video ở `09_media/ai-tao-ra/video/cum_001.mp4 … cum_070.mp4` (1,8 GB); kết quả QC ở `05_prompt/video_zh/qc/qc.json` và tấm khung hình `qc/cum_NNN.jpg`.
+  - **Thời gian:** cụm 56 render lâu nhất, khoảng 2 giờ ở trạng thái processing, rồi tự xong.
+- **Lệch nhỏ đã ghi, chưa render lại:**
+  - C20: tay ký có nhẫn.
+  - C26: điện thoại của bà không rõ là máy nắp gập.
+  - C42: Raven cầm túi đen thay vì túi đỏ rượu.
+  - C48: Devin còn đeo thẻ nhân viên.
+  - C60: một shot Charlene đứng cạnh bà mà không có cổng ở giữa.
+  - C61: xe tuần tra có chữ "POLICE".
+- **Bài học QC** (ghi lại cho phim sau):
+  - Whisper hay bỏ câu gọi to (C1) và câu tiếng Pháp (C15) khi nghe cả clip; nghe lại theo đoạn giây của shot thì ra đủ.
+  - Câu có số ("Twenty-five thousand…") phải đổi số sang chữ trước khi so.
+- **Quyết định:** chờ tác giả xem. Có thể render lại 6 cụm lệch nhỏ nếu muốn.
+
 ## Cảnh 1 — [tên cảnh]
 
 ### C01-01
