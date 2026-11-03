@@ -32,3 +32,7 @@
 
 ### 03/11/2026 11:26
 - **Đã làm / quyết định:** CHỐT MỐC: tạo xong ảnh nhân vật, prompt tạo video
+
+### 03/11/2026 16:07
+- **Đã làm / quyết định:** Tạo xong video AI từ prompt
+- **File thay đổi:** `08_hoi-thoai-ai/claude-code/46331bc8-459b-493d-9f2b-2fdbfc528891.jsonl`
